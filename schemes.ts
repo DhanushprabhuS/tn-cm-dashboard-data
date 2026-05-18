@@ -59,6 +59,33 @@ export const schemes: Scheme[] = [
     color: "#1A73E8"
   },
   {
+    id: 20260518001,
+    tag: "GO · DAY 9",
+    name: "🍽️ Amma Unavagam Renovation & Modernisation",
+    status: "ACTIVE", statusClass: "",
+    desc: "CM Vijay announced the renovation and modernisation of Amma Unavagams across Tamil Nadu, which had fallen into disrepair under the previous DMK government. The initiative aims to restore and upgrade the subsidised canteens to ensure quality, hygienic affordable meals continue to reach the common people.",
+    date: "Signed: May 18, 2026 · CMO",
+    color: "#E91E63"
+  },
+  {
+    id: 20260515001,
+    tag: "GO · DAY 6",
+    name: "🎓 Tamil Pudhalvan & Pudhumai Penn — Continued",
+    status: "ACTIVE", statusClass: "",
+    desc: "Vijay government continued the DMK-era Tamil Pudhalvan and Pudhumai Penn scholarship schemes without disruption. ₹1,000 each deposited directly into the bank accounts of approximately 6 lakh student beneficiaries on May 15, 2026, signalling welfare continuity across administrations.",
+    date: "Signed: May 15, 2026 · Higher Education Department",
+    color: "#7C3AED"
+  },
+  {
+    id: 20260515002,
+    tag: "UPCOMING",
+    name: "👩 Magalir Urimai Thittam — Restructured at ₹2,500/month",
+    status: "PENDING", statusClass: "pending",
+    desc: "CM Vijay committed to continuing the Kalaignar Magalir Urimai Thittam (KMUT) monthly women's assistance scheme while requesting time to restructure it. May 2026 payment of ₹1,000 to be credited shortly. TVK's manifesto promise: raise the monthly assistance to ₹2,500 per eligible woman household head. Restructuring and eligibility finalisation underway.",
+    date: "Announced: May 15, 2026 · Social Welfare Department",
+    color: "#D63384"
+  },
+  {
     id: 20260510004,
     tag: "UPCOMING",
     name: "📄 State Financial White Paper",

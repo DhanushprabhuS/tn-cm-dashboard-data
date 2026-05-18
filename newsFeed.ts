@@ -34,6 +34,5 @@ export const newsFeed: FeedItem[] = [
   { id: 20260516001, date: "May 16, 2026", text: "Congress warns CM Vijay against inducting rebel AIADMK MLAs into the Tamil Nadu government.", source: "Source: Times of India", color: "#1A73E8" },
   { id: 20260517001, date: "May 17, 2026", text: "Rajinikanth breaks silence on Vijay becoming TN CM, expressing he was 'extremely shocked' but defends friendship with MK Stalin.", source: "Source: Times of India", color: "#FFB800" },
   { id: 20260518001, date: "May 18, 2026", text: "The Chairman of Federation of Indian Chambers of Commerce and Industry (FICCI) Tamil Nadu State Council called on Hon'ble Chief Minister Vijay.", source: "Source: CMO Press Release", color: "#00C9A7" },
-  { id: 20260518002, date: "May 18, 2026", text: "CM Vijay clears floor test with 144 MLAs backing TVK government.", source: "Source: Times of India", color: "#1A73E8" },
-  { id: 20260518003, date: "May 18, 2026", text: "CM Vijay demands rollback of petrol and diesel price hike.", source: "Source: Mathrubhumi", color: "#FF6B00" },
+  { id: 20260518002, date: "May 18, 2026", text: "CM Vijay demands rollback of petrol and diesel price hike.", source: "Source: Mathrubhumi", color: "#FF6B00" },
 ];

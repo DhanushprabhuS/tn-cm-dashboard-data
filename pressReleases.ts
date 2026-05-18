@@ -146,6 +146,14 @@ export const pressReleases: PressRelease[] = [
   },
   {
     id: 20260515013,
+    dept: "Social Welfare / Higher Education",
+    date: "May 15, 2026",
+    title: "CM's Statement on Kalaignar Magalir Urimai Thittam — Restructuring Underway, ₹1,000 for May to be Credited Soon",
+    summary: "CM Vijay stated the government requires time to restructure the Kalaignar Magalir Urimai Thittam (KMUT). May 2026 assistance of ₹1,000 will be credited directly to beneficiaries' bank accounts shortly. TVK has promised to raise the monthly amount to ₹2,500. Separately, ₹1,000 each was deposited to ~6 lakh students under Tamil Pudhalvan and Pudhumai Penn schemes.",
+    url: "https://www.tn.gov.in/press_release.php"
+  },
+  {
+    id: 20260515014,
     dept: "CMO",
     date: "May 15, 2026",
     title: "CM's Statement on Petroleum Product Price Hike by Public Sector Oil Companies",
@@ -207,5 +215,85 @@ export const pressReleases: PressRelease[] = [
     title: "The Chairman of Federation of Indian Chambers of Commerce and Industry (FICCI) Tamil Nadu State Council called on the Honble Chief Minister",
     summary: "The Chairman of Federation of Indian Chambers of Commerce and Industry (FICCI) Tamil Nadu State Council met with Chief Minister Vijay.",
     url: "https://cms.tn.gov.in/cms_migrated/document/press_release/pr180526a.jpg"
+  },
+  {
+    id: 20260518002,
+    dept: "CMO",
+    date: "May 18, 2026",
+    title: "Representatives of Students' Federation of India, Tamil Nadu called on the Honble Chief Minister",
+    summary: "Representatives of the Students' Federation of India, Tamil Nadu called on Chief Minister Vijay.",
+    url: "https://cms.tn.gov.in/cms_migrated/document/press_release/pr180526e.jpg"
+  },
+  {
+    id: 20260518003,
+    dept: "CMO",
+    date: "May 18, 2026",
+    title: "Representatives of Tamil film active producers association called on the Honble Chief Minister and contributed Rs.10 Lakh to the Chief Minister's Public Relief Fund",
+    summary: "Representatives of the Tamil film active producers association called on Chief Minister Vijay and contributed Rs.10 Lakh to the Chief Minister's Public Relief Fund.",
+    url: "https://cms.tn.gov.in/cms_migrated/document/press_release/pr180526i.jpg"
+  },
+  {
+    id: 20260518004,
+    dept: "CMO",
+    date: "May 18, 2026",
+    title: "Honble Chief Minister announced renovation and modernisation of Amma Unavagams",
+    summary: "Chief Minister Vijay announced the renovation and modernisation of Amma Unavagams across Tamil Nadu.",
+    url: "https://cms.tn.gov.in/cms_migrated/document/press_release/pr180526_040.pdf"
+  },
+  {
+    id: 20260518005,
+    dept: "CMO / Energy Dept",
+    date: "May 18, 2026",
+    title: "Honble Chief Minister chaired a review meeting of Energy Department",
+    summary: "Chief Minister Vijay chaired a high-level review meeting of the Energy Department.",
+    url: "https://cms.tn.gov.in/cms_migrated/document/press_release/pr180526h.jpg"
+  },
+  {
+    id: 20260518006,
+    dept: "Labour Dept",
+    date: "May 18, 2026",
+    title: "Tamil Nadu Institute of Labour Studies announced last date for submission of applications for UG, PG and Diploma Courses in Labour Management (English)",
+    summary: "Tamil Nadu Institute of Labour Studies announced the last date for submission of applications for UG, PG and Diploma Courses in Labour Management — English version.",
+    url: "https://cms.tn.gov.in/cms_migrated/document/press_release/pr180526_e_038.pdf"
+  },
+  {
+    id: 20260518007,
+    dept: "Labour Dept",
+    date: "May 18, 2026",
+    title: "Tamil Nadu Institute of Labour Studies announced last date for submission of applications for UG, PG and Diploma Courses in Labour Management (Tamil)",
+    summary: "Tamil Nadu Institute of Labour Studies announced the last date for submission of applications for UG, PG and Diploma Courses in Labour Management — Tamil version.",
+    url: "https://cms.tn.gov.in/cms_migrated/document/press_release/pr180526_t_038.pdf"
+  },
+  {
+    id: 20260518008,
+    dept: "Public Works & Sports Dept",
+    date: "May 18, 2026",
+    title: "Honble Minister for Public Works and Sports Development stated that initiatives would be taken to prepare olympic medal winners from Tamil Nadu and promote a healthy society through sports",
+    summary: "The Hon'ble Minister for Public Works and Sports Development stated that initiatives would be taken to prepare Olympic medal winners from Tamil Nadu and promote a healthy society through sports.",
+    url: "https://cms.tn.gov.in/cms_migrated/document/press_release/pr180526_pwsd1.jpg"
+  },
+  {
+    id: 20260518009,
+    dept: "CMO",
+    date: "May 18, 2026",
+    title: "The Chief Executive Officer and Senior Officials of Renault Group, India called on the Honble Chief Minister",
+    summary: "The Chief Executive Officer and Senior Officials of Renault Group, India called on Chief Minister Vijay to discuss investment and expansion opportunities in Tamil Nadu.",
+    url: "https://cms.tn.gov.in/cms_migrated/document/press_release/pr180526d.jpg"
+  },
+  {
+    id: 20260518010,
+    dept: "CMO",
+    date: "May 18, 2026",
+    title: "The Chairman of Ramco Group called on the Honble Chief Minister",
+    summary: "The Chairman of Ramco Group called on Chief Minister Vijay.",
+    url: "https://cms.tn.gov.in/cms_migrated/document/press_release/pr180526c.jpg"
+  },
+  {
+    id: 20260518011,
+    dept: "CMO",
+    date: "May 18, 2026",
+    title: "The President, Vice President and General Secretary of Madras Chamber of Commerce and Industry (MCCI) called on the Honble Chief Minister",
+    summary: "The President, Vice President and General Secretary of Madras Chamber of Commerce and Industry (MCCI) called on Chief Minister Vijay.",
+    url: "https://cms.tn.gov.in/cms_migrated/document/press_release/pr180526b.jpg"
   },
 ];
