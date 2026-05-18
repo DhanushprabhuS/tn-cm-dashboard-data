@@ -200,4 +200,12 @@ export const pressReleases: PressRelease[] = [
     summary: "Hon'ble Minister for Energy Resources and Law addressed a press conference covering key departmental updates and policy announcements.",
     url: "https://cms.tn.gov.in/cms_migrated/document/press_release/pn160526_002.pdf"
   },
+  {
+    id: 20260518001,
+    dept: "CMO",
+    date: "May 18, 2026",
+    title: "The Chairman of Federation of Indian Chambers of Commerce and Industry (FICCI) Tamil Nadu State Council called on the Honble Chief Minister",
+    summary: "The Chairman of Federation of Indian Chambers of Commerce and Industry (FICCI) Tamil Nadu State Council met with Chief Minister Vijay.",
+    url: "https://cms.tn.gov.in/cms_migrated/document/press_release/pr180526a.jpg"
+  },
 ];
