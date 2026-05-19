@@ -1,6 +1,6 @@
 /**
  * newsFeed.ts — Live updates feed (meetings, statements, CMO releases).
- * Agent Last Updated: May 17, 2026
+ * Agent Last Updated: May 19, 2026
  *
  * HOW TO UPDATE:
  *   - Append new entries at the bottom with a new id (YYYYMMDD###).
@@ -35,4 +35,9 @@ export const newsFeed: FeedItem[] = [
   { id: 20260517001, date: "May 17, 2026", text: "Rajinikanth breaks silence on Vijay becoming TN CM, expressing he was 'extremely shocked' but defends friendship with MK Stalin.", source: "Source: Times of India", color: "#FFB800" },
   { id: 20260518001, date: "May 18, 2026", text: "The Chairman of Federation of Indian Chambers of Commerce and Industry (FICCI) Tamil Nadu State Council called on Hon'ble Chief Minister Vijay.", source: "Source: CMO Press Release", color: "#00C9A7" },
   { id: 20260518002, date: "May 18, 2026", text: "CM Vijay demands rollback of petrol and diesel price hike.", source: "Source: Mathrubhumi", color: "#FF6B00" },
+  { id: 20260519001, date: "May 19, 2026", text: "IAS Officer Trainees allotted to Tamil Nadu for the year 2025 called on Chief Minister Vijay.", source: "Source: CMO Press Release", color: "#FF6B00" },
+  { id: 20260519002, date: "May 19, 2026", text: "CM Vijay met with representatives of Differently Abled Persons and rights activists from the transgender community.", source: "Source: CMO Press Release", color: "#00C9A7" },
+  { id: 20260519003, date: "May 19, 2026", text: "Executive Vice Chairperson and Officials of Apollo Hospitals called on Hon'ble Chief Minister Vijay.", source: "Source: CMO Press Release", color: "#1A73E8" },
+  { id: 20260519004, date: "May 19, 2026", text: "Honble Minister for School Education launched State-Level Orientation Training for new textbooks.", source: "Source: CMO Press Release", color: "#FFB800" },
+  { id: 20260519005, date: "May 19, 2026", text: "Honble Minister for Public Works and Sports Development chaired a review meeting with sports department officials.", source: "Source: CMO Press Release", color: "#FF4757" },
 ];

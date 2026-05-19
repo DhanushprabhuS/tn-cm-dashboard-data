@@ -1,6 +1,6 @@
 /**
  * pressReleases.ts — Official Government Press Releases from tn.gov.in / cms.tn.gov.in
- * Agent Last Updated: May 17, 2026
+ * Agent Last Updated: May 19, 2026
  *
  * THIS IS THE PRIMARY FILE THE AI AGENT UPDATES — check daily.
  *
@@ -296,4 +296,60 @@ export const pressReleases: PressRelease[] = [
     summary: "The President, Vice President and General Secretary of Madras Chamber of Commerce and Industry (MCCI) called on Chief Minister Vijay.",
     url: "https://cms.tn.gov.in/cms_migrated/document/press_release/pr180526b.jpg"
   },
+  {
+    id: 20260519001,
+    dept: "CMO",
+    date: "May 19, 2026",
+    title: "IAS Officer Trainees allotted to Tamil Nadu for the year 2025 called on the Honble Chief Minister",
+    summary: "IAS Officer Trainees allotted to Tamil Nadu for the year 2025 called on Chief Minister Vijay.",
+    url: "https://cms.tn.gov.in/cms_migrated/document/press_release/pr190526a.jpg"
+  },
+  {
+    id: 20260519002,
+    dept: "CMO",
+    date: "May 19, 2026",
+    title: "Representatives of associations for Differently Abled Persons called on the Honble Chief Minister",
+    summary: "Representatives of associations for Differently Abled Persons called on Chief Minister Vijay.",
+    url: "https://cms.tn.gov.in/cms_migrated/document/press_release/pr190526b.jpg"
+  },
+  {
+    id: 20260519003,
+    dept: "CMO",
+    date: "May 19, 2026",
+    title: "Executive Vice Chairperson, Managing Director and Officials of Apollo Hospitals called on the Honble Chief Minister",
+    summary: "Executive Vice Chairperson, Managing Director and Officials of Apollo Hospitals called on Chief Minister Vijay.",
+    url: "https://cms.tn.gov.in/cms_migrated/document/press_release/pr190526c.jpg"
+  },
+  {
+    id: 20260519004,
+    dept: "School Education",
+    date: "May 19, 2026",
+    title: "Honble Minister for School Education, Tamil Development, Information and Publicity launched State-Level Orientation Training for new textbooks and released teachers’ handbook for classes I to III",
+    summary: "Honble Minister for School Education, Tamil Development, Information and Publicity launched State-Level Orientation Training for new textbooks and released teachers' handbook for classes I to III.",
+    url: "https://cms.tn.gov.in/cms_migrated/document/press_release/pr190526_sedu.jpg"
+  },
+  {
+    id: 20260519005,
+    dept: "CMO",
+    date: "May 19, 2026",
+    title: "Rights activists from the transgender community and social workers called on the Honble Chief Minister",
+    summary: "Rights activists from the transgender community and social workers called on Chief Minister Vijay.",
+    url: "https://cms.tn.gov.in/cms_migrated/document/press_release/pr190526e.jpg"
+  },
+  {
+    id: 20260519006,
+    dept: "CMO / Relief",
+    date: "May 19, 2026",
+    title: "Condolence message and relief assistance to the families of the deceased and injured in the accident at a private restaurant in Thanjavur District",
+    summary: "Chief Minister Vijay issued a condolence message and announced relief assistance to the families of the deceased and injured in the accident at a private restaurant in Thanjavur District.",
+    url: "https://cms.tn.gov.in/cms_migrated/document/press_release/pr190526_045.pdf"
+  },
+  {
+    id: 20260519007,
+    dept: "Public Works & Sports Dept",
+    date: "May 19, 2026",
+    title: "Honble Minister for Public Works and Sports Development chaired review meeting with sports department officials and inspected sports facilities at Jawaharlal Nehru Stadium",
+    summary: "Honble Minister for Public Works and Sports Development chaired a review meeting with sports department officials and inspected sports facilities at Jawaharlal Nehru Stadium.",
+    url: "https://cms.tn.gov.in/cms_migrated/document/press_release/pr190526_pwsd1.jpg"
+  }
 ];
