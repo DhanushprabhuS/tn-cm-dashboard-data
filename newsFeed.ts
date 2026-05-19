@@ -40,4 +40,5 @@ export const newsFeed: FeedItem[] = [
   { id: 20260519003, date: "May 19, 2026", text: "Executive Vice Chairperson and Officials of Apollo Hospitals called on Hon'ble Chief Minister Vijay.", source: "Source: CMO Press Release", color: "#1A73E8" },
   { id: 20260519004, date: "May 19, 2026", text: "Honble Minister for School Education launched State-Level Orientation Training for new textbooks.", source: "Source: CMO Press Release", color: "#FFB800" },
   { id: 20260519005, date: "May 19, 2026", text: "Honble Minister for Public Works and Sports Development chaired a review meeting with sports department officials.", source: "Source: CMO Press Release", color: "#FF4757" },
+  { id: 20260519006, date: "May 19, 2026", text: "CM Vijay skipped Keralam chief minister's swearing-in ceremony.", source: "Source: Times of India", color: "#1A73E8" },
 ];
