@@ -41,4 +41,13 @@ export const newsFeed: FeedItem[] = [
   { id: 20260519004, date: "May 19, 2026", text: "Honble Minister for School Education launched State-Level Orientation Training for new textbooks.", source: "Source: CMO Press Release", color: "#FFB800" },
   { id: 20260519005, date: "May 19, 2026", text: "Honble Minister for Public Works and Sports Development chaired a review meeting with sports department officials.", source: "Source: CMO Press Release", color: "#FF4757" },
   { id: 20260519006, date: "May 19, 2026", text: "CM Vijay skipped Keralam chief minister's swearing-in ceremony.", source: "Source: Times of India", color: "#1A73E8" },
+  { id: 20260520001, date: "May 20, 2026", text: "Honble Minister for School Education released SSLC Public Examination Results for March 2026.", source: "Source: CMO Press Release", color: "#FFB800" },
+  { id: 20260520002, date: "May 20, 2026", text: "Honble Minister for School Education inaugurated the newly renovated 450-seat auditorium at Anna Centenary Library.", source: "Source: CMO Press Release", color: "#FFB800" },
+  { id: 20260520003, date: "May 20, 2026", text: "Chief Minister Vijay flagged off 40 new vehicles for the use of the Directorate of Medical and Rural Health Services.", source: "Source: CMO Press Release", color: "#FF6B00" },
+  { id: 20260520004, date: "May 20, 2026", text: "Honble Minister for Public Works and Sports Development stated that sportspersons must complete higher education and extended wishes to TN Junior Basketball Teams.", source: "Source: CMO Press Release", color: "#FF4757" },
+  { id: 20260520005, date: "May 20, 2026", text: "Chief Minister Vijay paid floral tribute to the portrait of Dravidian Luminary Pandithar Ayothidasar on his 181st birth anniversary.", source: "Source: CMO Press Release", color: "#00C9A7" },
+  { id: 20260520006, date: "May 20, 2026", text: "Honble Minister for Public Works and Sports Development facilitated direct interaction with sportspersons and sports associations.", source: "Source: CMO Press Release", color: "#FF4757" },
+  { id: 20260520007, date: "May 20, 2026", text: "Chief Minister Vijay writes to PM Modi requesting intervention to ensure uninterrupted fertiliser supply to Tamil Nadu amid Strait of Hormuz crisis.", source: "Source: India Today", color: "#FF4757" },
+  { id: 20260520008, date: "May 20, 2026", text: "CM Vijay confirms two Congress MLAs will be inducted into the cabinet, pausing the induction of AIADMK rebels amid pressure from allies.", source: "Source: Times of India", color: "#1A73E8" },
+  { id: 20260520009, date: "May 20, 2026", text: "CM Vijay recalls Mullivaikkal genocide, reaffirming solidarity for the rights of Tamils across the world.", source: "Source: Times of India", color: "#FFB800" }
 ];

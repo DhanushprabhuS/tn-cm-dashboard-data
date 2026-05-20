@@ -351,5 +351,53 @@ export const pressReleases: PressRelease[] = [
     title: "Honble Minister for Public Works and Sports Development chaired review meeting with sports department officials and inspected sports facilities at Jawaharlal Nehru Stadium",
     summary: "Honble Minister for Public Works and Sports Development chaired a review meeting with sports department officials and inspected sports facilities at Jawaharlal Nehru Stadium.",
     url: "https://cms.tn.gov.in/cms_migrated/document/press_release/pr190526_pwsd1.jpg"
+  },
+  {
+    id: 20260520001,
+    dept: "School Education",
+    date: "May 20, 2026",
+    title: "Honble Minister for School Education, Tamil Development, Information and Publicity released SSLC Public Examination Results for March 2026",
+    summary: "Honble Minister for School Education, Tamil Development, Information and Publicity released SSLC Public Examination Results for March 2026.",
+    url: "https://cms.tn.gov.in/cms_migrated/document/press_release/pr200526_sedu.jpg"
+  },
+  {
+    id: 20260520002,
+    dept: "School Education",
+    date: "May 20, 2026",
+    title: "Honble Minister for School Education, Tamil Development, Information and Publicity inaugurated the newly renovated 450-seat auditorium at Anna Centenary Library",
+    summary: "Honble Minister for School Education, Tamil Development, Information and Publicity inaugurated the newly renovated 450-seat auditorium at Anna Centenary Library.",
+    url: "https://cms.tn.gov.in/cms_migrated/document/press_release/pr200526_sedu1.JPG"
+  },
+  {
+    id: 20260520003,
+    dept: "CMO",
+    date: "May 20, 2026",
+    title: "Honble Chief Minister flagged Off 40 new vehicles for the use of the Directorate of Medical and Rural Health Services",
+    summary: "Honble Chief Minister Vijay flagged off 40 new vehicles for the use of the Directorate of Medical and Rural Health Services.",
+    url: "https://cms.tn.gov.in/cms_migrated/document/press_release/pr200526_cm1.jpg"
+  },
+  {
+    id: 20260520004,
+    dept: "Public Works & Sports Dept",
+    date: "May 20, 2026",
+    title: "Honble Minister for Public Works and Sports Development stated that sportspersons must complete higher education and extended wishes to Tamil Nadu Junior Basketball Teams",
+    summary: "Honble Minister for Public Works and Sports Development stated that sportspersons must complete higher education and extended wishes to Tamil Nadu Junior Basketball Teams.",
+    url: "https://cms.tn.gov.in/cms_migrated/document/press_release/pr200526_pwsd.jpg"
+  },
+  {
+    id: 20260520005,
+    dept: "CMO",
+    date: "May 20, 2026",
+    title: "Honble Chief Minister paid floral tribute to the portrait of Dravidian Luminary Pandithar Ayothidasar on his 181st birth anniversary",
+    summary: "Honble Chief Minister Vijay paid floral tribute to the portrait of Dravidian Luminary Pandithar Ayothidasar on his 181st birth anniversary.",
+    url: "https://cms.tn.gov.in/cms_migrated/document/press_release/pr200526_050.pdf"
+  },
+  {
+    id: 20260520006,
+    dept: "Public Works & Sports Dept",
+    date: "May 20, 2026",
+    title: "Honble Minister for Public Works and Sports Development facilitated direct interaction with sportspersons and sports associations",
+    summary: "Honble Minister for Public Works and Sports Development facilitated direct interaction with sportspersons and sports associations.",
+    url: "https://cms.tn.gov.in/cms_migrated/document/press_release/pr200526_049.pdf"
   }
 ];
