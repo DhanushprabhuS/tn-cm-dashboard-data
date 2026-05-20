@@ -94,4 +94,13 @@ export const schemes: Scheme[] = [
     date: "Announced: May 10, 2026 · Finance Department",
     color: "#FFB800"
   },
+  {
+    id: 20260520003,
+    tag: "GO · DAY 11",
+    name: "🚑 40 New Vehicles for Medical and Rural Health Services",
+    status: "ACTIVE", statusClass: "",
+    desc: "Honble Chief Minister Vijay flagged off 40 new vehicles for the use of the Directorate of Medical and Rural Health Services.",
+    date: "Signed: May 20, 2026 · CMO",
+    color: "#00C9A7"
+  }
 ];
