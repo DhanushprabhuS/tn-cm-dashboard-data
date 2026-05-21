@@ -1,0 +1,22 @@
+name: Hourly Scrape
+
+on:
+  schedule:
+    - cron: '0 * * * *'   # every hour at :00
+  workflow_dispatch:        # allow manual trigger from GitHub UI
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger scrape
+        run: |
+          HTTP_STATUS=$(curl -s -o /dev/null -w "%{http_code}" \
+            -X GET "${{ secrets.VERCEL_APP_URL }}/api/cron" \
+            -H "x-cron-secret: ${{ secrets.CRON_SECRET }}" \
+            --max-time 70)
+          echo "HTTP status: $HTTP_STATUS"
+          if [ "$HTTP_STATUS" != "200" ]; then
+            echo "Scrape failed with status $HTTP_STATUS"
+            exit 1
+          fi

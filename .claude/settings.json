@@ -1,0 +1,22 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(Get-ChildItem -Path \"c:\\\\Users\\\\VairamuthuRajendran\\\\OneDrive - Zentropy Private Limited\\\\Documents\\\\cmo\\\\tn-cm-dashboard-data\" -Force)",
+      "Bash(Select-Object Name, FullName)",
+      "PowerShell(Get-ChildItem -Path \"c:\\\\Users\\\\VairamuthuRajendran\\\\OneDrive - Zentropy Private Limited\\\\Documents\\\\cmo\\\\tn-cm-dashboard-data\" -Recurse -Force | Select-Object FullName | ForEach-Object { $_.FullName.Replace\\(\"c:\\\\Users\\\\VairamuthuRajendran\\\\OneDrive - Zentropy Private Limited\\\\Documents\\\\cmo\\\\tn-cm-dashboard-data\", \".\"\\) } | Sort-Object)",
+      "Bash(mkdir -p \"c:\\\\Users\\\\VairamuthuRajendran\\\\OneDrive - Zentropy Private Limited\\\\Documents\\\\cmo\\\\tn-cm-dashboard-data\\\\scraper\" \"c:\\\\Users\\\\VairamuthuRajendran\\\\OneDrive - Zentropy Private Limited\\\\Documents\\\\cmo\\\\tn-cm-dashboard-data\\\\data\")",
+      "Bash(pip install *)",
+      "Bash(python -c \"from flask import Flask; from flask_cors import CORS; from bs4 import BeautifulSoup; import requests; from apscheduler.schedulers.background import BackgroundScheduler; print\\('All imports OK'\\)\")",
+      "Bash(where python *)",
+      "Bash(python -m pip install flask flask-cors requests beautifulsoup4 lxml apscheduler python-dateutil --quiet)",
+      "Bash(python -c \"from flask import Flask; from flask_cors import CORS; from bs4 import BeautifulSoup; import requests; print\\('All imports OK'\\)\")",
+      "Bash(python -c ' *)",
+      "Bash(python -c \"from scraper import runner, press_releases, orders, cabinet, news, assembly; print\\('All scraper modules imported OK'\\)\")",
+      "Bash(python scrape.py cabinet)",
+      "Bash(python -m flask --app app run --help)"
+    ],
+    "additionalDirectories": [
+      "c:\\Users\\VairamuthuRajendran\\OneDrive - Zentropy Private Limited\\Documents\\cmo\\tn-cm-dashboard-data"
+    ]
+  }
+}
