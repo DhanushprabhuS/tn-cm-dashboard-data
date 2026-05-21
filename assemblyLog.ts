@@ -36,6 +36,19 @@ export interface AssemblySession {
 
 export const assemblyLog: AssemblySession[] = [
   {
+    id: 20260510001,
+    date: "May 10, 2026",
+    dayNum: 10,
+    month: "May 2026",
+    badgeLabel: "Pre-session",
+    badgeClass: "",
+    title: "🏛️ Pro-tem Speaker Sworn In",
+    highlights: [
+      "<strong>Governor Rajendra Arlekar</strong> administered oath of office to <strong>Thiru MV Karuppaiah</strong> as Pro-tem Speaker of the 17th Tamil Nadu Legislative Assembly.",
+      "Ceremony held in the presence of <strong>Chief Minister Vijay</strong> at the Raj Bhavan.",
+    ],
+  },
+  {
     id: 20260511001,
     date: "May 11, 2026",
     dayNum: 11,
@@ -48,6 +61,7 @@ export const assemblyLog: AssemblySession[] = [
       "<strong>CM Vijay</strong> took oath as MLA for Perambur constituency (vacated Tiruchirappalli East).",
       "First session of 17th Tamil Nadu Legislative Assembly formally commenced at <strong>9:30 AM, Fort St. George, Chennai.</strong>",
       "TVK&apos;s historic entry into the Assembly — first non-Dravidian party govt since 1967.",
+      "Nominations for <strong>Speaker and Deputy Speaker</strong> posts filed in the presence of CM Vijay.",
     ],
   },
   {
@@ -90,6 +104,7 @@ export const assemblyLog: AssemblySession[] = [
       "Ayes: <strong>TVK (105) + post-poll allies (13) + 25 AIADMK rebels + 1 AMMK</strong>",
       "Note: Speaker JCD Prabhakar did not vote per convention. Trichy East seat vacant.",
       "AIADMK factional split confirmed — 25 rebels led by SP Velumani (Thondamuthur) backed Vijay.",
+      "CM released formal statement urging Union Government to <strong>abolish NEET</strong> and base medical admissions on Class 12 marks.",
     ],
   },
 ];
