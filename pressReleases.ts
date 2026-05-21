@@ -455,5 +455,29 @@ export const pressReleases: PressRelease[] = [
     title: "Honble Minister for School Education, Tamil Development, Information and Publicity inspected facilities at Anna Centenary Library Complex",
     summary: "Honble Minister for School Education, Tamil Development, Information and Publicity inspected facilities at Anna Centenary Library Complex.",
     url: "https://cms.tn.gov.in/cms_migrated/document/press_release/pr200526_sedu2.jpg"
+  },
+  {
+    id: 20260521001,
+    dept: "Energy Dept / TNEB",
+    date: "May 21, 2026",
+    title: "Tamil Nadu Electricity Board initiated action over alleged irregularities in Green Energy Approvals (Release No. 056)",
+    summary: "TNEB initiated formal action over alleged irregularities in the approval process for Green Energy projects in Tamil Nadu.",
+    url: "https://cms.tn.gov.in/cms_migrated/document/press_release/pr210526_056.pdf"
+  },
+  {
+    id: 20260521002,
+    dept: "CMO",
+    date: "May 21, 2026",
+    title: "State General Secretary and National Secretary of Indian Union Muslim League called on the Honble Chief Minister",
+    summary: "The State General Secretary and National Secretary of the Indian Union Muslim League (IUML) called on Chief Minister Vijay.",
+    url: "https://cms.tn.gov.in/cms_migrated/document/press_release/pr210526c.JPG"
+  },
+  {
+    id: 20260521003,
+    dept: "CMO / Governor",
+    date: "May 21, 2026",
+    title: "Honble Chief Minister with the Honble Governor and members of the new Council of Ministers – Group Photograph",
+    summary: "Official group photograph of Chief Minister Vijay with Governor Rajendra Vishwanath Arlekar and all members of the newly expanded Council of Ministers following the May 21 cabinet swearing-in.",
+    url: "https://cms.tn.gov.in/cms_migrated/document/press_release/pr210526cm.JPG"
   }
 ];

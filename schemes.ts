@@ -102,5 +102,14 @@ export const schemes: Scheme[] = [
     desc: "Honble Chief Minister Vijay flagged off 40 new vehicles for the use of the Directorate of Medical and Rural Health Services.",
     date: "Signed: May 20, 2026 · CMO",
     color: "#00C9A7"
+  },
+  {
+    id: 20260521001,
+    tag: "GO · DAY 12",
+    name: "⚡ TNEB Green Energy Corruption Crackdown",
+    status: "ACTIVE", statusClass: "",
+    desc: "Within 12 days of taking office, CM Vijay's government initiated decisive action against entrenched irregularities at the Tamil Nadu Green Energy Corporation Limited (TNGECL). Energy Minister C.T.R. Nirmalkumar chaired a maiden review meeting at TNEB HQ, uncovering that senior officials had cleared solar and wind energy project approvals — including Letters of Award under the PM-KUSUM scheme — without knowledge of top management and in violation of the Model Code of Conduct during the election period. Action taken: (1) V. Kasi, Chief Finance Controller (Revenue), placed under suspension; (2) P. Chandrasekaran, Chief Engineer (Non-Conventional Energy) and TNGECL Director in-charge, placed under suspension; (3) All pension benefits of retired Director (Technical) S. Mangalanathan withheld pending departmental inquiry. A full audit of green energy approvals and tender processes is underway across TNEB and TNGECL.",
+    date: "Signed: May 21, 2026 · Energy Department / TNEB",
+    color: "#FF4757"
   }
 ];

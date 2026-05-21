@@ -56,5 +56,8 @@ export const newsFeed: FeedItem[] = [
   { id: 20260520012, date: "May 20, 2026", text: "Tamil Nadu State Election Commissioner called on Chief Minister Vijay.", source: "Source: CMO Press Release", color: "#FFB800" },
   { id: 20260520013, date: "May 20, 2026", text: "Representatives of ACMA Southern Region called on Chief Minister Vijay and discussed Auto Components Sector Development.", source: "Source: CMO Press Release", color: "#00C9A7" },
   { id: 20260520014, date: "May 20, 2026", text: "Chief Minister Vijay chaired a review meeting on granting permission to extract alluvial soil from water bodies for the benefit of farmers.", source: "Source: CMO Press Release", color: "#FF4757" },
-  { id: 20260520015, date: "May 20, 2026", text: "Honble Minister for School Education inspected facilities at Anna Centenary Library Complex.", source: "Source: CMO Press Release", color: "#FFB800" }
+  { id: 20260520015, date: "May 20, 2026", text: "Honble Minister for School Education inspected facilities at Anna Centenary Library Complex.", source: "Source: CMO Press Release", color: "#FFB800" },
+  { id: 20260521001, date: "May 21, 2026", text: "Tamil Nadu Electricity Board initiated action over alleged irregularities in Green Energy Approvals (Press Release No. 056).", source: "Source: CMO Press Release", color: "#FF4757" },
+  { id: 20260521002, date: "May 21, 2026", text: "State General Secretary and National Secretary of Indian Union Muslim League called on Chief Minister Vijay.", source: "Source: CMO Press Release", color: "#00C9A7" },
+  { id: 20260521003, date: "May 21, 2026", text: "Chief Minister Vijay photographed with Governor Rajendra Vishwanath Arlekar and all members of the newly expanded Council of Ministers after swearing-in.", source: "Source: CMO Press Release", color: "#FF6B00" }
 ];
