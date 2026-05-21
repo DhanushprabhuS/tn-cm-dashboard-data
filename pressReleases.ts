@@ -49,6 +49,294 @@ export const pressReleases: PressRelease[] = [
     url: ""
   },
   {
+    id: 20260510004,
+    dept: "CMO",
+    date: "May 10, 2026",
+    title: "Honble Governor of Tamil Nadu administered the Oath of Office and Oath of Secrecy to Thiru C. Joseph Vijay as the Honble Chief Minister of Tamil Nadu",
+    summary: "Swearing-in Ceremony of Thiru C. Joseph Vijay as Chief Minister, held at Nehru Indoor Stadium, Chennai, with the Governor administering the oath.",
+    url: "https://cms.tn.gov.in/cms_migrated/document/press_release/pr100526d.jpg"
+  },
+  {
+    id: 20260510005,
+    dept: "CMO",
+    date: "May 10, 2026",
+    title: "The Chief Secretary extended warm welcome to Thiru C. Joseph Vijay, Honble Chief Minister designate",
+    summary: "The Chief Secretary welcomed the new Chief Minister designate upon his arrival for the Swearing-in Ceremony.",
+    url: "https://cms.tn.gov.in/cms_migrated/document/press_release/pr100526a.jpg"
+  },
+  {
+    id: 20260510006,
+    dept: "CMO",
+    date: "May 10, 2026",
+    title: "Honble Chief Minister received an enthusiastic welcome from the general public upon his arrival to the Secretariat",
+    summary: "The newly sworn-in Chief Minister was greeted by members of the public upon his first arrival at the Secretariat.",
+    url: "https://cms.tn.gov.in/cms_migrated/document/press_release/pr100526r.jpg"
+  },
+  {
+    id: 20260510007,
+    dept: "CMO",
+    date: "May 10, 2026",
+    title: "Thiru Rahul Gandhi was extended warm welcome by the Honble Chief Minister designate",
+    summary: "Leader of the Opposition in Lok Sabha, Thiru Rahul Gandhi, was welcomed by the Chief Minister designate at the swearing-in ceremony.",
+    url: "https://cms.tn.gov.in/cms_migrated/document/press_release/pr100526i.jpg"
+  },
+  {
+    id: 20260510008,
+    dept: "CMO",
+    date: "May 10, 2026",
+    title: "Honble Governor took group photo with the Honble Chief Minister and newly inducted Ministers",
+    summary: "A group photograph of the Governor, Chief Minister, and the new Council of Ministers with Thiru Rahul Gandhi.",
+    url: "https://cms.tn.gov.in/cms_migrated/document/press_release/pr100526u.jpg"
+  },
+  {
+    id: 20260510009,
+    dept: "CMO",
+    date: "May 10, 2026",
+    title: "Honble Governor administered Oath of Office to Thiru Karuppaiah as Pro-tem Speaker",
+    summary: "The Governor administered the oath of office to the Pro-tem Speaker of the Tamil Nadu Legislative Assembly in the presence of the Chief Minister.",
+    url: "https://cms.tn.gov.in/cms_migrated/document/press_release/pr100526_za.jpg"
+  },
+  {
+    id: 20260510010,
+    dept: "CMO",
+    date: "May 10, 2026",
+    title: "Honble Chief Minister called on the Dravidar Kazhagam President Thiru K. Veeramani",
+    summary: "The new Chief Minister paid a visit to the Dravidar Kazhagam President at Periyar Thidal, Chennai.",
+    url: "https://cms.tn.gov.in/cms_migrated/document/press_release/pr100526_zd.jpg"
+  },
+  {
+    id: 20260510011,
+    dept: "CMO",
+    date: "May 10, 2026",
+    title: "Honble Chief Minister paid floral tributes at Thanthai Periyar Memorial",
+    summary: "The Chief Minister paid respects at the Thanthai Periyar Memorial.",
+    url: "https://cms.tn.gov.in/cms_migrated/document/press_release/pr100526_ze.jpg"
+  },
+  {
+    id: 20260510012,
+    dept: "CMO",
+    date: "May 10, 2026",
+    title: "Honble Chief Minister signed Government Orders for free electricity scheme and other initiatives",
+    summary: "Upon assuming office, the CM signed G.O.s for a free electricity scheme, the formation of 'Singa Pen' special force, and anti-narcotics units.",
+    url: "https://cms.tn.gov.in/cms_migrated/document/press_release/pr100526_cs.jpg"
+  },
+  {
+    id: 20260510013,
+    dept: "CMO",
+    date: "May 10, 2026",
+    title: "Honble Chief Minister chaired a meeting on the status of Law and Order",
+    summary: "The Chief Minister reviewed the prevailing law and order situation in the state.",
+    url: "https://cms.tn.gov.in/cms_migrated/document/press_release/pr100526x.jpg"
+  },
+  {
+    id: 20260510014,
+    dept: "CMO",
+    date: "May 10, 2026",
+    title: "Honble Chief Minister signed three significant Government orders to fulfill election manifesto promises",
+    summary: "The Chief Minister's first official actions included signing G.O.s for key electoral promises.",
+    url: "https://cms.tn.gov.in/cms_migrated/document/press_release/pr100526o.jpg"
+  },
+  {
+    id: 20260510015,
+    dept: "CMO",
+    date: "May 10, 2026",
+    title: "Inaugural address of Thiru. C. Joseph Vijay after being sworn in as the Honble Chief Minister",
+    summary: "The text and summary of the new Chief Minister's first address after taking the oath of office.",
+    url: "https://cms.tn.gov.in/cms_migrated/document/press_release/pr100526j.jpg"
+  },
+  {
+    id: 20260511001,
+    dept: "CMO",
+    date: "May 11, 2026",
+    title: "The Pro-tem Speaker administered oath to the Honble Chief Minister as Member of the Legislative Assembly",
+    summary: "The Chief Minister took oath as an MLA from the Pro-tem Speaker.",
+    url: "https://cms.tn.gov.in/cms_migrated/document/press_release/pr110526_a.jpg"
+  },
+  {
+    id: 20260511002,
+    dept: "CMO",
+    date: "May 11, 2026",
+    title: "Nominations for Assembly Speaker and Deputy Speaker posts were filed in the presence of Honble Chief Minister",
+    summary: "Nominations for the key legislative positions were filed in the Chief Minister's presence.",
+    url: "https://cms.tn.gov.in/cms_migrated/document/press_release/pr110526_d.jpg"
+  },
+  {
+    id: 20260511003,
+    dept: "CMO",
+    date: "May 11, 2026",
+    title: "Honble Chief Minister called on former Chief Minister Thiru M.K. Stalin",
+    summary: "The new Chief Minister called on and exchanged greetings with the former Chief Minister.",
+    url: "https://cms.tn.gov.in/cms_migrated/document/press_release/pr110526_f.jpg"
+  },
+  {
+    id: 20260511004,
+    dept: "CMO",
+    date: "May 11, 2026",
+    title: "Honble Chief Minister called on Thiru Vaiko, General Secretary, MDMK",
+    summary: "The Chief Minister met with the MDMK general secretary.",
+    url: "https://cms.tn.gov.in/cms_migrated/document/press_release/pr110526_h.jpg"
+  },
+  {
+    id: 20260511005,
+    dept: "CMO",
+    date: "May 11, 2026",
+    title: "Honble Chief Minister called on Dr. Anbumani Ramadoss, President, PMK",
+    summary: "The Chief Minister met with the PMK president.",
+    url: "https://cms.tn.gov.in/cms_migrated/document/press_release/pr110526_i.jpg"
+  },
+  {
+    id: 20260511006,
+    dept: "CMO",
+    date: "May 11, 2026",
+    title: "Honble Chief Minister called on Thiru Seeman, Chief Coordinator, Naam Tamilar Katchi",
+    summary: "The Chief Minister met with the Naam Tamilar Katchi chief coordinator.",
+    url: "https://cms.tn.gov.in/cms_migrated/document/press_release/pr110526_j.jpg"
+  },
+  {
+    id: 20260511007,
+    dept: "CMO",
+    date: "May 11, 2026",
+    title: "Honble Chief Minister received a petition from Thiru P. Ayyakannu regarding pending dues",
+    summary: "The Chief Minister met with a farmers' association president who submitted a petition on pending dues.",
+    url: "https://cms.tn.gov.in/cms_migrated/document/press_release/pr110526_k.jpg"
+  },
+  {
+    id: 20260512001,
+    dept: "CMO",
+    date: "May 12, 2026",
+    title: "Honble Chief Minister delivered felicitation address on the assumption of Office by the Speaker and Deputy Speaker",
+    summary: "The Chief Minister spoke at the ceremony where the new Speaker and Deputy Speaker of the Assembly assumed office.",
+    url: "https://cms.tn.gov.in/cms_migrated/document/press_release/pr120526d.jpg"
+  },
+  {
+    id: 20260512002,
+    dept: "CMO",
+    date: "May 12, 2026",
+    title: "Thiru J.C.D. Prabhakar assumed office as Speaker of the Tamil Nadu Legislative Assembly",
+    summary: "The newly elected Speaker took office in the presence of the Chief Minister.",
+    url: "https://cms.tn.gov.in/cms_migrated/document/press_release/pr120526a.jpg"
+  },
+  {
+    id: 20260512003,
+    dept: "CMO",
+    date: "May 12, 2026",
+    title: "Honble Chief Minister called on Professor Kader Mohideen, National President, IUML",
+    summary: "The Chief Minister met with the national president of the Indian Union Muslim League.",
+    url: "https://cms.tn.gov.in/cms_migrated/document/press_release/pr120526h.jpg"
+  },
+  {
+    id: 20260512004,
+    dept: "CMO",
+    date: "May 12, 2026",
+    title: "Honble Chief Minister felicitated Thiru M. Ravishankar on his assumption as Deputy Speaker",
+    summary: "The Chief Minister congratulated the new Deputy Speaker of the Assembly.",
+    url: "https://cms.tn.gov.in/cms_migrated/document/press_release/pr120526i.jpg"
+  },
+  {
+    id: 20260512005,
+    dept: "CMO",
+    date: "May 12, 2026",
+    title: "Honble Chief Minister felicitated Thiru J.C.D. Prabhakar on his assumption as Speaker",
+    summary: "The Chief Minister congratulated the new Speaker of the Assembly.",
+    url: "https://cms.tn.gov.in/cms_migrated/document/press_release/pr120526_j.jpg"
+  },
+  {
+    id: 20260512006,
+    dept: "CMO",
+    date: "May 12, 2026",
+    title: "Honble Chief Minister called on Thiru Thol. Thirumavalavan, President, VCK",
+    summary: "The Chief Minister met with the Viduthalai Chiruthaigal Katchi president.",
+    url: "https://cms.tn.gov.in/cms_migrated/document/press_release/pr120526k.jpg"
+  },
+  {
+    id: 20260512007,
+    dept: "CMO",
+    date: "May 12, 2026",
+    title: "Honble Chief Minister called on Thiru K. Selvaperunthagai, President, TNCC",
+    summary: "The Chief Minister met with the Tamil Nadu Congress Committee president.",
+    url: "https://cms.tn.gov.in/cms_migrated/document/press_release/pr120526l.jpg"
+  },
+  {
+    id: 20260512008,
+    dept: "CMO",
+    date: "May 12, 2026",
+    title: "Honble Chief Minister called on AIADMK legislators",
+    summary: "The Chief Minister met with several AIADMK legislators.",
+    url: "https://cms.tn.gov.in/cms_migrated/document/press_release/pr120526m.jpg"
+  },
+  {
+    id: 20260512009,
+    dept: "CMO",
+    date: "May 12, 2026",
+    title: "Honble Chief Minister chaired a review meeting on Municipal and Rural Development Departments",
+    summary: "The Chief Minister reviewed the functioning of key infrastructure and rural development departments.",
+    url: "https://cms.tn.gov.in/cms_migrated/document/press_release/pr120526g.jpg"
+  },
+  {
+    id: 20260512010,
+    dept: "CMO",
+    date: "May 12, 2026",
+    title: "Honble Chief Minister ordered closure of 717 liquor retail shops located near sensitive places",
+    summary: "A major policy decision to close liquor shops located near places of worship, educational institutions, and bus stands within two weeks.",
+    url: "https://cms.tn.gov.in/cms_migrated/document/press_release/pr120526_007.PDF"
+  },
+  {
+    id: 20260513001,
+    dept: "CMO",
+    date: "May 13, 2026",
+    title: "Honble Chief Minister delivered felicitation address after winning the vote of confidence",
+    summary: "The Chief Minister's address to the Legislative Assembly after successfully proving his majority.",
+    url: "https://cms.tn.gov.in/cms_migrated/document/press_release/pr130526a.jpg"
+  },
+  {
+    id: 20260513002,
+    dept: "CMO",
+    date: "May 13, 2026",
+    title: "Statement by the Honble Chief Minister urging the Union Government to cancel NEET",
+    summary: "The Chief Minister released a formal statement requesting the central government to abolish NEET and base medical admissions on Class 12 marks.",
+    url: "https://cms.tn.gov.in/cms_migrated/document/press_release/pr130526_e_016.pdf"
+  },
+  {
+    id: 20260514001,
+    dept: "CMO",
+    date: "May 14, 2026",
+    title: "Honble Chief Minister chaired a review meeting on the financial position of the State",
+    summary: "The Chief Minister met with Finance Department officials to review the state's financial health.",
+    url: "https://cms.tn.gov.in/cms_migrated/document/press_release/pr140526a.jpg"
+  },
+  {
+    id: 20260514002,
+    dept: "CMO",
+    date: "May 14, 2026",
+    title: "Honble Chief Minister chaired review meeting on the functioning of the Industries Department",
+    summary: "A review meeting on the performance and functioning of the Industries, Investment Promotion and Commerce Department.",
+    url: "https://cms.tn.gov.in/cms_migrated/document/press_release/pr140526b.jpg"
+  },
+  {
+    id: 20260514003,
+    dept: "CMO",
+    date: "May 14, 2026",
+    title: "Text of the D.O. Letter of the Hon'ble Chief Minister regarding import duty on cotton",
+    summary: "The text of a letter from the Chief Minister to the Prime Minister urging the withdrawal of import duty on cotton.",
+    url: "https://cms.tn.gov.in/cms_migrated/document/press_release/pr140526_020.pdf"
+  },
+  {
+    id: 20260514004,
+    dept: "CMO",
+    date: "May 14, 2026",
+    title: "Honble Chief Minister announced increase in dearness allowance for Government Employees",
+    summary: "The Chief Minister announced a hike in dearness allowance for state government employees and teachers from 58% to 60%.",
+    url: "https://cms.tn.gov.in/cms_migrated/document/press_release/pr140526_019.pdf"
+  },
+  {
+    id: 20260514005,
+    dept: "CMO",
+    date: "May 14, 2026",
+    title: "Honble Chief Minister facilitated early credit of Kalaignar Magalir Urimai Thogai for May 2026",
+    summary: "The Chief Minister announced the early disbursement of a monthly financial assistance scheme to beneficiaries' bank accounts.",
+    url: "https://cms.tn.gov.in/cms_migrated/document/press_release/pr140526_018.pdf"
+  },
+  {
     id: 20260515001,
     dept: "Chief Electoral Officer",
     date: "May 15, 2026",
@@ -474,7 +762,7 @@ export const pressReleases: PressRelease[] = [
   },
   {
     id: 20260521003,
-    dept: "CMO / Governor",
+    dept: "CMO",
     date: "May 21, 2026",
     title: "Honble Chief Minister with the Honble Governor and members of the new Council of Ministers – Group Photograph",
     summary: "Official group photograph of Chief Minister Vijay with Governor Rajendra Vishwanath Arlekar and all members of the newly expanded Council of Ministers following the May 21 cabinet swearing-in.",
