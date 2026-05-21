@@ -390,7 +390,7 @@ export const pressReleases: PressRelease[] = [
     date: "May 20, 2026",
     title: "Honble Chief Minister paid floral tribute to the portrait of Dravidian Luminary Pandithar Ayothidasar on his 181st birth anniversary",
     summary: "Honble Chief Minister Vijay paid floral tribute to the portrait of Dravidian Luminary Pandithar Ayothidasar on his 181st birth anniversary.",
-    url: "https://cms.tn.gov.in/cms_migrated/document/press_release/pr200526_050.pdf"
+    url: "https://cms.tn.gov.in/cms_migrated/document/press_release/pr200526_cm_1.jpg"
   },
   {
     id: 20260520006,
@@ -399,5 +399,61 @@ export const pressReleases: PressRelease[] = [
     title: "Honble Minister for Public Works and Sports Development facilitated direct interaction with sportspersons and sports associations",
     summary: "Honble Minister for Public Works and Sports Development facilitated direct interaction with sportspersons and sports associations.",
     url: "https://cms.tn.gov.in/cms_migrated/document/press_release/pr200526_049.pdf"
+  },
+  {
+    id: 20260520007,
+    dept: "CMO",
+    date: "May 20, 2026",
+    title: "Representatives of Tamil Nadu Small and Tiny Industries Association (TANSTIA) called on the Honble Chief Minister",
+    summary: "Representatives of Tamil Nadu Small and Tiny Industries Association (TANSTIA) called on Chief Minister Vijay.",
+    url: "https://cms.tn.gov.in/cms_migrated/document/press_release/pr200526_cm4.jpg"
+  },
+  {
+    id: 20260520008,
+    dept: "CMO",
+    date: "May 20, 2026",
+    title: "Representatives of Tamil Nadu Cauvery Farmers Association called on the Honble Chief Minister",
+    summary: "Representatives of Tamil Nadu Cauvery Farmers Association called on Chief Minister Vijay.",
+    url: "https://cms.tn.gov.in/cms_migrated/document/press_release/pr200526_cm6.jpg"
+  },
+  {
+    id: 20260520009,
+    dept: "CMO",
+    date: "May 20, 2026",
+    title: "Representatives of Textile Industry Associations called on the Honble Chief Minister and discussed Textile Sector Development",
+    summary: "Representatives of Textile Industry Associations called on Chief Minister Vijay and discussed Textile Sector Development.",
+    url: "https://cms.tn.gov.in/cms_migrated/document/press_release/pr200526_cm8.jpg"
+  },
+  {
+    id: 20260520010,
+    dept: "CMO",
+    date: "May 20, 2026",
+    title: "Tamil Nadu State Election Commissioner called on the Honble Chief Minister",
+    summary: "Tamil Nadu State Election Commissioner called on Chief Minister Vijay.",
+    url: "https://cms.tn.gov.in/cms_migrated/document/press_release/pr200526_cm9.jpg"
+  },
+  {
+    id: 20260520011,
+    dept: "CMO",
+    date: "May 20, 2026",
+    title: "Representatives of ACMA Southern Region called on the Honble Chief Minister and discussed Auto Components Sector Development",
+    summary: "Representatives of ACMA Southern Region called on Chief Minister Vijay and discussed Auto Components Sector Development.",
+    url: "https://cms.tn.gov.in/cms_migrated/document/press_release/pr200526_cm10.jpg"
+  },
+  {
+    id: 20260520012,
+    dept: "CMO",
+    date: "May 20, 2026",
+    title: "Honble Chief Minister chaired a review meeting on granting permission to extract alluvial soil from water bodies for the benefit of farmers",
+    summary: "Chief Minister Vijay chaired a review meeting on granting permission to extract alluvial soil from water bodies for the benefit of farmers.",
+    url: "https://cms.tn.gov.in/cms_migrated/document/press_release/pr200526r.jpg"
+  },
+  {
+    id: 20260520013,
+    dept: "School Education",
+    date: "May 20, 2026",
+    title: "Honble Minister for School Education, Tamil Development, Information and Publicity inspected facilities at Anna Centenary Library Complex",
+    summary: "Honble Minister for School Education, Tamil Development, Information and Publicity inspected facilities at Anna Centenary Library Complex.",
+    url: "https://cms.tn.gov.in/cms_migrated/document/press_release/pr200526_sedu2.jpg"
   }
 ];

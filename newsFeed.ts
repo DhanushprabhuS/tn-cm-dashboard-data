@@ -35,6 +35,7 @@ export const newsFeed: FeedItem[] = [
   { id: 20260517001, date: "May 17, 2026", text: "Rajinikanth breaks silence on Vijay becoming TN CM, expressing he was 'extremely shocked' but defends friendship with MK Stalin.", source: "Source: Times of India", color: "#FFB800" },
   { id: 20260518001, date: "May 18, 2026", text: "The Chairman of Federation of Indian Chambers of Commerce and Industry (FICCI) Tamil Nadu State Council called on Hon'ble Chief Minister Vijay.", source: "Source: CMO Press Release", color: "#00C9A7" },
   { id: 20260518002, date: "May 18, 2026", text: "CM Vijay demands rollback of petrol and diesel price hike.", source: "Source: Mathrubhumi", color: "#FF6B00" },
+  { id: 20260518003, date: "May 18, 2026", text: "CM Vijay recalls Mullivaikkal genocide, reaffirming solidarity for the rights of Tamils across the world.", source: "Source: Times of India", color: "#FFB800" },
   { id: 20260519001, date: "May 19, 2026", text: "IAS Officer Trainees allotted to Tamil Nadu for the year 2025 called on Chief Minister Vijay.", source: "Source: CMO Press Release", color: "#FF6B00" },
   { id: 20260519002, date: "May 19, 2026", text: "CM Vijay met with representatives of Differently Abled Persons and rights activists from the transgender community.", source: "Source: CMO Press Release", color: "#00C9A7" },
   { id: 20260519003, date: "May 19, 2026", text: "Executive Vice Chairperson and Officials of Apollo Hospitals called on Hon'ble Chief Minister Vijay.", source: "Source: CMO Press Release", color: "#1A73E8" },
@@ -49,5 +50,11 @@ export const newsFeed: FeedItem[] = [
   { id: 20260520006, date: "May 20, 2026", text: "Honble Minister for Public Works and Sports Development facilitated direct interaction with sportspersons and sports associations.", source: "Source: CMO Press Release", color: "#FF4757" },
   { id: 20260520007, date: "May 20, 2026", text: "Chief Minister Vijay writes to PM Modi requesting intervention to ensure uninterrupted fertiliser supply to Tamil Nadu amid Strait of Hormuz crisis.", source: "Source: India Today", color: "#FF4757" },
   { id: 20260520008, date: "May 20, 2026", text: "CM Vijay confirms two Congress MLAs will be inducted into the cabinet, pausing the induction of AIADMK rebels amid pressure from allies.", source: "Source: Times of India", color: "#1A73E8" },
-  { id: 20260520009, date: "May 20, 2026", text: "CM Vijay recalls Mullivaikkal genocide, reaffirming solidarity for the rights of Tamils across the world.", source: "Source: Times of India", color: "#FFB800" }
+  { id: 20260520009, date: "May 20, 2026", text: "Representatives of Tamil Nadu Small and Tiny Industries Association (TANSTIA) called on Chief Minister Vijay.", source: "Source: CMO Press Release", color: "#00C9A7" },
+  { id: 20260520010, date: "May 20, 2026", text: "Representatives of Tamil Nadu Cauvery Farmers Association called on Chief Minister Vijay.", source: "Source: CMO Press Release", color: "#FF6B00" },
+  { id: 20260520011, date: "May 20, 2026", text: "Representatives of Textile Industry Associations called on Chief Minister Vijay and discussed Textile Sector Development.", source: "Source: CMO Press Release", color: "#1A73E8" },
+  { id: 20260520012, date: "May 20, 2026", text: "Tamil Nadu State Election Commissioner called on Chief Minister Vijay.", source: "Source: CMO Press Release", color: "#FFB800" },
+  { id: 20260520013, date: "May 20, 2026", text: "Representatives of ACMA Southern Region called on Chief Minister Vijay and discussed Auto Components Sector Development.", source: "Source: CMO Press Release", color: "#00C9A7" },
+  { id: 20260520014, date: "May 20, 2026", text: "Chief Minister Vijay chaired a review meeting on granting permission to extract alluvial soil from water bodies for the benefit of farmers.", source: "Source: CMO Press Release", color: "#FF4757" },
+  { id: 20260520015, date: "May 20, 2026", text: "Honble Minister for School Education inspected facilities at Anna Centenary Library Complex.", source: "Source: CMO Press Release", color: "#FFB800" }
 ];
