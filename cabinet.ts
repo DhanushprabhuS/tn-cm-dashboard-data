@@ -370,8 +370,6 @@ export const cabinetMinisters: CabinetMinister[] = [
     title: "Finance, Planning & Development",
     depts: ["Finance", "Pensions", "Planning & Development"],
     bio: "46-year-old with Doctorate in Management Science from JNT University, Hyderabad. Part of leading private educational institution in Chennai.",
-    note: "First Woman Finance Minister of TN",
-    variant: "highlight",
   },
   {
     id: 20260521024,
