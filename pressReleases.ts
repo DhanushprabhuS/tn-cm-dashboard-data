@@ -767,5 +767,109 @@ export const pressReleases: PressRelease[] = [
     title: "Honble Chief Minister with the Honble Governor and members of the new Council of Ministers – Group Photograph",
     summary: "Official group photograph of Chief Minister Vijay with Governor Rajendra Vishwanath Arlekar and all members of the newly expanded Council of Ministers following the May 21 cabinet swearing-in.",
     url: "https://cms.tn.gov.in/cms_migrated/document/press_release/pr210526cm.JPG"
+  },
+  {
+    id: 20260522001,
+    dept: "CMO",
+    date: "May 22, 2026",
+    title: "Honble Governor administered Oath of Office and Secrecy to Ministers in the presence of the Honble Chief Minister",
+    summary: "The Governor administered the oath of office and secrecy to newly appointed ministers — VCK's Vanni Arasu and IUML's A.M. Shahjahan — in the presence of Chief Minister Vijay, completing the coalition cabinet expansion.",
+    url: "https://cms.tn.gov.in/cms_migrated/document/press_release/pr220526a.jpg"
+  },
+  {
+    id: 20260522002,
+    dept: "Public Works and Sports Development",
+    date: "May 22, 2026",
+    title: "Honble Minister for Public Works and Sports Development chaired consultative meeting with sports association representatives at Nehru Indoor Stadium",
+    summary: "The Minister for Public Works and Sports Development held a consultative meeting with sports association representatives to discuss development initiatives.",
+    url: "https://cms.tn.gov.in/cms_migrated/document/press_release/pr220526_pwsd1.jpg"
+  },
+  {
+    id: 20260522003,
+    dept: "Human Resources Management",
+    date: "May 22, 2026",
+    title: "Honble Minister for Human Resources Management chaired review meeting on department schemes",
+    summary: "The Minister for Human Resources Management reviewed the schemes and functioning of the department.",
+    url: "https://cms.tn.gov.in/cms_migrated/document/press_release/pr220526_hr1.JPG"
+  },
+  {
+    id: 20260522004,
+    dept: "School Education, Tamil Development, Information and Publicity",
+    date: "May 22, 2026",
+    title: "Representatives of Tamil Nadu Theatre and Multiplex Owners Association called on the Honble Minister for School Education, Tamil Development, Information and Publicity",
+    summary: "The Minister met with representatives from the theatre and multiplex owners association to discuss relevant matters.",
+    url: "https://cms.tn.gov.in/cms_migrated/document/press_release/pr220526_sedu.jpg"
+  },
+  {
+    id: 20260522005,
+    dept: "Health and Family Welfare",
+    date: "May 22, 2026",
+    title: "Representatives of Tamil Nadu Government Doctors Association and Chennai Medical College Alumni Welfare Association called on the Honble Minister for Health and Family Welfare",
+    summary: "The Health Minister met with doctors' association representatives to discuss healthcare issues.",
+    url: "https://cms.tn.gov.in/cms_migrated/document/press_release/pr220526_hfw1.jpg"
+  },
+  {
+    id: 20260522006,
+    dept: "CMO",
+    date: "May 22, 2026",
+    title: "Chairman of Kothari Industrial Corporation called on the Honble Chief Minister",
+    summary: "The Chairman of Kothari Industrial Corporation met with the Chief Minister for discussions.",
+    url: "https://cms.tn.gov.in/cms_migrated/document/press_release/pr220526f.jpg"
+  },
+  {
+    id: 20260522007,
+    dept: "CMO",
+    date: "May 22, 2026",
+    title: "The Chairman and Managing Director of MRF Limited called on the Honble Chief Minister",
+    summary: "The CMD of MRF Limited met with the Chief Minister for discussions.",
+    url: "https://cms.tn.gov.in/cms_migrated/document/press_release/pr220526e.jpg"
+  },
+  {
+    id: 20260522008,
+    dept: "Forests",
+    date: "May 22, 2026",
+    title: "Honble Minister for Forests chaired review meeting on schemes implemented by the Forest Department",
+    summary: "The Forest Minister reviewed the implementation of various schemes by the Forest Department.",
+    url: "https://cms.tn.gov.in/cms_migrated/document/press_release/pr220526_fst1.jpeg"
+  },
+  {
+    id: 20260522009,
+    dept: "CMO",
+    date: "May 22, 2026",
+    title: "Ministers newly inducted into the Council called on the Honble Chief Minister",
+    summary: "Newly inducted ministers — VCK's Vanni Arasu (Social Justice) and IUML's A.M. Shahjahan (Minorities Welfare) — met with Chief Minister Vijay after joining the Council, completing the TVK-led coalition cabinet.",
+    url: "https://cms.tn.gov.in/cms_migrated/document/press_release/pr220526d.jpg"
+  },
+  {
+    id: 20260522010,
+    dept: "CMOr",
+    date: "May 22, 2026",
+    title: "President of Viduthalai Chiruthaigal Katchi and Member of Parliament called on Honble Chief Minister",
+    summary: "The VCK President and MP met with the Chief Minister for discussions.",
+    url: "https://cms.tn.gov.in/cms_migrated/document/press_release/pr220526c.jpg"
+  },
+  {
+    id: 20260522011,
+    dept: "CMO",
+    date: "May 22, 2026",
+    title: "Congress joins Tamil Nadu Government after 59 years — S. Rajesh Kumar and P. Viswanathan inducted as Ministers",
+    summary: "For the first time since 1967, the Indian National Congress is part of the Tamil Nadu government. S. Rajesh Kumar (Killiyoor) takes charge as Tourism Minister and P. Viswanathan (Melur) as Higher Education Minister, marking a historic return of Congress to power in TN after 59 years.",
+    url: "https://www.tn.gov.in/press_release.php"
+  },
+  {
+    id: 20260522012,
+    dept: "CMO / VCK",
+    date: "May 22, 2026",
+    title: "VCK's Vanni Arasu sworn in as Minister for Social Justice, Adi Dravidar Welfare and Hill Tribes",
+    summary: "Vanni Arasu, Deputy General Secretary of Viduthalai Chiruthaigal Katchi (VCK) and MLA from Tindivanam, was sworn in as Minister for Social Justice, Adi Dravidar Welfare and Hill Tribes, marking VCK's entry into the Vijay-led coalition cabinet.",
+    url: "https://www.tn.gov.in/press_release.php"
+  },
+  {
+    id: 20260522013,
+    dept: "CMO / IUML",
+    date: "May 22, 2026",
+    title: "IUML's A.M. Shahjahan sworn in as Minister for Minorities Welfare and Wakf Board",
+    summary: "A.M. Shahjahan, Indian Union Muslim League MLA from Papanasam (Thanjavur district), was sworn in as Minister for Minorities Welfare and Wakf Board, completing the coalition power-sharing arrangement with TVK, Congress, VCK, and IUML all represented in the cabinet.",
+    url: "https://www.tn.gov.in/press_release.php"
   }
 ];

@@ -120,5 +120,14 @@ export const schemes: Scheme[] = [
     desc: "Within 12 days of taking office, CM Vijay's government initiated decisive action against entrenched irregularities at the Tamil Nadu Green Energy Corporation Limited (TNGECL). Energy Minister C.T.R. Nirmalkumar chaired a maiden review meeting at TNEB HQ, uncovering that senior officials had cleared solar and wind energy project approvals — including Letters of Award under the PM-KUSUM scheme — without knowledge of top management and in violation of the Model Code of Conduct during the election period. Action taken: (1) V. Kasi, Chief Finance Controller (Revenue), placed under suspension; (2) P. Chandrasekaran, Chief Engineer (Non-Conventional Energy) and TNGECL Director in-charge, placed under suspension; (3) All pension benefits of retired Director (Technical) S. Mangalanathan withheld pending departmental inquiry. A full audit of green energy approvals and tender processes is underway across TNEB and TNGECL.",
     date: "Signed: May 21, 2026 · Energy Department / TNEB",
     color: "#FF4757"
-  }
+  },
+  {
+    id: 20260522001,
+    tag: "GO · DAY 13",
+    name: "🤝 Coalition Power-Sharing — Congress, VCK & IUML Join Cabinet",
+    status: "ACTIVE", statusClass: "",
+    desc: "CM Vijay completed the TVK-led coalition power-sharing arrangement on May 22, 2026, with three alliance parties inducted into the Council of Ministers. Congress joins the Tamil Nadu government after 59 years (since 1967): S. Rajesh Kumar (Tourism) and P. Viswanathan (Higher Education). VCK's Vanni Arasu takes charge of Social Justice, Adi Dravidar Welfare & Hill Tribes. IUML's A.M. Shahjahan takes charge of Minorities Welfare & Wakf Board. The expanded 35-member cabinet represents TVK's commitment to an inclusive coalition governance model.",
+    date: "Signed: May 22, 2026 · CMO",
+    color: "#1A73E8"
+  },
 ];
