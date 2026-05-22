@@ -3,6 +3,7 @@
  *
  * HOW TO UPDATE:
  *   - Append new session entries at the bottom with a new id (YYYYMMDD001).
+ *   - dateValue: "YYYY-MM-DD" proper date value for UI filtering.
  *   - highlights: array of HTML strings — use <strong> and <em> for emphasis.
  *   - voteResult: optional — when a confidence/no-confidence vote is held.
  *     The app renders this as a visual vote bar automatically.
@@ -24,6 +25,7 @@ export interface VoteResult {
 export interface AssemblySession {
   id: number;                    // YYYYMMDD001 — calendar date of the session
   date: string;                  // "May 11, 2026" — used by dateSortFn
+  dateValue: string;             // "YYYY-MM-DD"
   dayNum: number;                // Calendar day e.g. 11
   month: string;                 // "May 2026"
   badgeLabel: string;            // "Day 1"
@@ -38,6 +40,7 @@ export const assemblyLog: AssemblySession[] = [
   {
     id: 20260510001,
     date: "May 10, 2026",
+    dateValue: "2026-05-10",
     dayNum: 10,
     month: "May 2026",
     badgeLabel: "Pre-session",
@@ -51,6 +54,7 @@ export const assemblyLog: AssemblySession[] = [
   {
     id: 20260511001,
     date: "May 11, 2026",
+    dateValue: "2026-05-11",
     dayNum: 11,
     month: "May 2026",
     badgeLabel: "Day 1",
@@ -67,6 +71,7 @@ export const assemblyLog: AssemblySession[] = [
   {
     id: 20260512001,
     date: "May 12, 2026",
+    dateValue: "2026-05-12",
     dayNum: 12,
     month: "May 2026",
     badgeLabel: "Day 2",
@@ -85,6 +90,7 @@ export const assemblyLog: AssemblySession[] = [
   {
     id: 20260513001,
     date: "May 13, 2026",
+    dateValue: "2026-05-13",
     dayNum: 13,
     month: "May 2026",
     badgeLabel: "Day 3",

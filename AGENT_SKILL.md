@@ -4,6 +4,36 @@ This file tells the AI agent **what to search**, **where to search it**, and **e
 
 ---
 
+## Step -1 — Run the Press Release Scraper First
+
+Before any manual searching, run the automated scraper to fetch today's official press releases from `tn.gov.in`.
+
+**Command (Windows CMD):**
+```
+python c:\PROJECT\others\data\scraping\press_release_script.py
+```
+
+**What it returns:** A JSON object with all press releases for today's date, including title, image/PDF links, and auto-detected department.
+
+**How to use the output:**
+1. Check each scraped entry against existing `pressReleases.ts` entries for today's date
+2. For any entry NOT already in `pressReleases.ts`, add it using this mapping:
+
+| Scraper field | pressReleases.ts field |
+|---|---|
+| `title` | `title` |
+| `primary_link` | `url` (use this — it picks PDF over image automatically) |
+| `dept` | `dept` (cross-check with Dept Name Standardization table below) |
+| `date` (scraper format `"May 22 ,2026"`) | `date` (reformat to `"May 22, 2026"`) |
+
+> ⚠️ The scraper's `dept` field is a rough guess. Always verify against the title and use the **Dept Name Standardization** table at the bottom of this file.
+
+> ⚠️ The scraper only catches official `tn.gov.in` releases. Still run Steps 1–5 for news, GOs, manifesto updates, and cabinet changes.
+
+**If scraper returns `status: "error"`:** Fall back to manually browsing `https://www.tn.gov.in/press_release.php`.
+
+---
+
 ## Step 0 — Determine the Last Updated Date
 
 Before searching anything, read the last updated date from the data files to avoid duplicates.
@@ -57,6 +87,7 @@ CM Vijay's direct orders, Government Orders (GOs), Bills tabled in Assembly, and
   statusClass: "",              // "" for ACTIVE, "pending" for PENDING
   desc: "Full description of what the scheme does. Who benefits, how to avail, departments involved.",
   date: "Signed: [Month DD, YYYY] · [Department Name]",
+  dateValue: "YYYY-MM-DD",      // proper machine-readable date e.g. "2026-05-22"
   color: "#FF6B00"              // pick a color: #FF6B00 | #FF4757 | #00C9A7 | #1A73E8 | #FFB800
 },
 ```
@@ -67,9 +98,11 @@ CM Vijay's direct orders, Government Orders (GOs), Bills tabled in Assembly, and
   id: YYYYMMDD00N,
   dept: "CMO",                  // or the specific dept e.g. "Energy Dept"
   date: "Month DD, YYYY",
+  dateValue: "YYYY-MM-DD",      // proper machine-readable date e.g. "2026-05-22"
   title: "Exact title of the order/statement",
   summary: "1-2 sentence summary of what was decided/announced.",
-  url: ""                       // add cms.tn.gov.in URL if available
+  url: "",                      // add cms.tn.gov.in URL if available
+  highlight: true               // set to true ONLY if it is a major industrial / corporate / investor meeting
 },
 ```
 
@@ -83,9 +116,11 @@ CM Vijay's direct orders, Government Orders (GOs), Bills tabled in Assembly, and
 {
   id: YYYYMMDD00N,
   date: "Month DD, YYYY",
+  dateValue: "YYYY-MM-DD",      // proper machine-readable date e.g. "2026-05-22"
   text: "What CM Vijay did — meeting, statement, inspection etc.",
   source: "Source: CMO Press Release",  // or "Source: The Hindu" etc.
-  color: "#FF6B00"
+  color: "#FF6B00",
+  highlight: true               // set to true ONLY if it is a major industrial / corporate / investor meeting
 },
 ```
 
@@ -123,11 +158,13 @@ Try constructing URLs for today's date and check if they exist (HTTP 200 = exist
                                 // "Energy Dept", "Health Dept", "TN Legislative Assembly",
                                 // "Municipal Admin", "Chief Electoral Officer" etc.
   date: "Month DD, YYYY",       // MUST match this exact format e.g. "May 17, 2026"
+  dateValue: "YYYY-MM-DD",      // proper machine-readable date e.g. "2026-05-22"
   title: "Title of the press release — match official title closely",
   summary: "1-2 sentences. What happened, who was involved, outcome or significance.",
-  url: "https://cms.tn.gov.in/cms_migrated/document/press_release/prDDMMYY[code].[jpg|pdf]"
+  url: "https://cms.tn.gov.in/cms_migrated/document/press_release/prDDMMYY[code].[jpg|pdf]",
   //   ↑ Use actual URL if found. For .jpg images: shows thumbnail in app.
   //   For .pdf: shows "View on tn.gov.in" link. If no URL: use ""
+  highlight: true               // set to true ONLY if it is a major industrial / corporate / investor meeting
 },
 ```
 
@@ -192,7 +229,7 @@ Rules:
 
 Also update **`newsFeed.ts`** with a feed item about the implementation:
 ```typescript
-{ id: YYYYMMDD00N, date: "Month DD, YYYY", text: "CM Vijay implements [Promise Name] — [key detail].", source: "Source: [publication]", color: "#00C9A7" },
+{ id: YYYYMMDD00N, date: "Month DD, YYYY", dateValue: "YYYY-MM-DD", text: "CM Vijay implements [Promise Name] — [key detail].", source: "Source: [publication]", color: "#00C9A7" },
 ```
 
 And **`ticker.ts`** with a MANIFESTO tag item:
@@ -231,6 +268,7 @@ Tamil Nadu assembly "passed" OR "tabled" bill [AFTER LAST DATE]
 {
   id: YYYYMMDD001,              // session date
   date: "Month DD, YYYY",       // "June 15, 2026"
+  dateValue: "YYYY-MM-DD",      // proper machine-readable date e.g. "2026-05-22"
   dayNum: 15,                   // calendar day number
   month: "June 2026",
   badgeLabel: "Day N",          // increment from last session (e.g. "Day 4")
@@ -275,7 +313,7 @@ Example addition for a confirmed new session:
 
 **`newsFeed.ts`** — Add feed item for session news:
 ```typescript
-{ id: YYYYMMDD00N, date: "Month DD, YYYY", text: "TN Assembly: [what happened in brief].", source: "Source: TN Assembly / The Hindu", color: "#1A73E8" },
+{ id: YYYYMMDD00N, date: "Month DD, YYYY", dateValue: "YYYY-MM-DD", text: "TN Assembly: [what happened in brief].", source: "Source: TN Assembly / The Hindu", color: "#1A73E8" },
 ```
 
 **`ticker.ts`** — Add for major session events:
@@ -352,9 +390,11 @@ Also update **`pressReleases.ts`**:
   id: YYYYMMDD001,
   dept: "Lok Bhavan",
   date: "Month DD, YYYY",
+  dateValue: "YYYY-MM-DD",      // proper machine-readable date e.g. "2026-05-22"
   title: "Governor Approves [New/Revised] Cabinet Portfolio Allocation",
   summary: "[Minister name] appointed as Minister for [portfolio]. [Any other changes].",
-  url: ""
+  url: "",
+  highlight: false
 },
 ```
 
@@ -374,6 +414,8 @@ Run through this checklist after making all updates:
 [ ] All new ids follow YYYYMMDD### format
 [ ] No duplicate ids exist in any file
 [ ] All new `date` fields are in "Month DD, YYYY" format
+[ ] All new entries in newsFeed.ts, pressReleases.ts, assemblyLog.ts, and schemes.ts include the correct `dateValue` in `"YYYY-MM-DD"` format (matching the date in the id)
+[ ] pressReleases.ts and newsFeed.ts: new investor/industrial meetings correctly flag `highlight: true`
 [ ] pressReleases.ts: new entries are appended at the BOTTOM
 [ ] assemblyLog.ts: new sessions are appended at the BOTTOM
 [ ] manifesto.ts: only existing entries updated, no new rows added
