@@ -320,6 +320,8 @@ export const cabinetMinisters: CabinetMinister[] = [
     title: "Artificial Intelligence & Information Technology",
     depts: ["AI", "IT & Digital Services"],
     bio: "60-year-old landlord and businessman. B.E. from Madras University, completed Business Leadership Programme at IIM Bangalore.",
+    note: "First AI Minister",
+    variant: "highlight",
   },
   {
     id: 20260521019,

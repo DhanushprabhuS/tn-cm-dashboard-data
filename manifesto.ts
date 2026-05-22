@@ -30,4 +30,5 @@ export const manifesto: ManifestoPromise[] = [
   { id: 20260510007, icon: "🎓",  title: "Education Dropout Aid",  amount: "₹15,000/yr",   status: "⏳ Pending implementation",     progress: "5%",   color: "var(--gold)"    },
   { id: 20260510008, icon: "👴",  title: "Senior Citizen Pension", amount: "₹3,000/mo",    status: "⏳ Pending rollout",            progress: "5%",   color: "var(--gold)"    },
   { id: 20260510009, icon: "🌾",  title: "Crop Loan Waiver",       amount: "Small Farmers", status: "⏳ Pending",                  progress: "3%",   color: "var(--gold)"    },
+  { id: 20260521001, icon: "🤖",  title: "AI & IT Department",     amount: "Dedicated Ministry", status: "✅ Established — May 21",   progress: "100%", color: "var(--saffron)" },
 ];

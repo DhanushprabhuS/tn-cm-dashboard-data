@@ -104,6 +104,15 @@ export const schemes: Scheme[] = [
     color: "#00C9A7"
   },
   {
+    id: 20260521002,
+    tag: "GO · DAY 12",
+    name: "🤖 Dedicated AI & IT Department Established",
+    status: "ACTIVE", statusClass: "",
+    desc: "Tamil Nadu became one of the first Indian states to create a dedicated Artificial Intelligence department at the cabinet level. Minister R. Kumar (Velachery) appointed to oversee AI, Information Technology & Digital Services. TN joins Kerala as a trailblazer among Indian states granting AI a standalone ministry. The move signals Tamil Nadu's ambition to lead India's AI-driven governance and digital economy.",
+    date: "Signed: May 21, 2026 · IT & AI Department",
+    color: "#7C3AED"
+  },
+  {
     id: 20260521001,
     tag: "GO · DAY 12",
     name: "⚡ TNEB Green Energy Corruption Crackdown",
