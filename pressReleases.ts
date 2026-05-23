@@ -1,6 +1,6 @@
 /**
  * pressReleases.ts — Official Government Press Releases from tn.gov.in / cms.tn.gov.in
- * Agent Last Updated: May 19, 2026
+ * Agent Last Updated: May 23, 2026
  *
  * THIS IS THE PRIMARY FILE THE AI AGENT UPDATES — check daily.
  *
@@ -1023,6 +1023,69 @@ export const pressReleases: PressRelease[] = [
     dateValue: "2026-05-23",
     title: "Minister Aadhav Arjuna guarantees job security and redeployment for closed TASMAC shop workers",
     summary: "Hon'ble Minister for Public Works and Sports Development Aadhav Arjuna assured that no TASMAC employee will lose their livelihood due to the closure of 717 liquor outlets, stating the government is working on redeploying affected staff to vacant positions in other state departments.",
+    url: "https://www.tn.gov.in/press_release.php"
+  },
+  {
+    id: 20260523004,
+    dept: "Transport",
+    date: "May 23, 2026",
+    dateValue: "2026-05-23",
+    title: "Honble Minister for Transport travelled in a Government Bus from Saidapet to the Guindy Race Course Bus Stop and interacted with the public",
+    summary: "The Minister for Transport personally travelled in a government bus from Saidapet to Guindy Race Course Bus Stop to experience public transport conditions first-hand and interact directly with commuters, reinforcing the government's commitment to improving state bus services.",
+    url: "https://cms.tn.gov.in/cms_migrated/document/press_release/pr230526_073.pdf"
+  },
+  {
+    id: 20260523005,
+    dept: "Prohibition & Excise",
+    date: "May 23, 2026",
+    dateValue: "2026-05-23",
+    title: "Honble Minister for Prohibition and Excise chaired a meeting to review the activities of the Department",
+    summary: "The Minister for Prohibition and Excise chaired a comprehensive review meeting on the activities and ongoing functions of the Prohibition and Excise department.",
+    url: "https://cms.tn.gov.in/cms_migrated/document/press_release/pr230526_072.pdf"
+  },
+  {
+    id: 20260523006,
+    dept: "Prohibition & Excise",
+    date: "May 23, 2026",
+    dateValue: "2026-05-23",
+    title: "Honble Minister for Prohibition and Excise chaired a meeting in connection with the closing of 717 TASMAC Liquor Shops",
+    summary: "The Minister for Prohibition and Excise chaired a dedicated meeting to review the implementation progress for closing 717 TASMAC liquor outlets across Tamil Nadu, in line with the Vijay government's election pledge on partial prohibition.",
+    url: "https://cms.tn.gov.in/cms_migrated/document/press_release/pr230526_071.pdf"
+  },
+  {
+    id: 20260523007,
+    dept: "CMO",
+    date: "May 23, 2026",
+    dateValue: "2026-05-23",
+    title: "Social Media Post of the Honble Chief Minister regarding the tragedy that befell a 10-year-old girl in Coimbatore",
+    summary: "Chief Minister Vijay took to social media to express grief and outrage over the brutal sexual assault and killing of a 10-year-old girl in Coimbatore, demanding swift justice and directing the police to take the strictest action against the accused.",
+    url: "https://cms.tn.gov.in/cms_migrated/document/press_release/pr230526_070.pdf"
+  },
+  {
+    id: 20260523008,
+    dept: "Health",
+    date: "May 23, 2026",
+    dateValue: "2026-05-23",
+    title: "Sports Development Authority of Tamil Nadu invites online applications from meritorious sportspersons to fill 3 vacancies for the post of Ophthalmic Assistant in the Tamil Nadu Medical Subordinate Service under the 3 percent sports reservation quota",
+    summary: "Sports Development Authority of Tamil Nadu (SDTA) has invited online applications from meritorious sportspersons to fill 3 vacancies for the post of Ophthalmic Assistant in the Tamil Nadu Medical Subordinate Service under the 3 percent sports reservation quota.",
+    url: "https://cms.tn.gov.in/cms_migrated/document/press_release/pr230526_068.pdf"
+  },
+  {
+    id: 20260523009,
+    dept: "Electricity",
+    date: "May 23, 2026",
+    dateValue: "2026-05-23",
+    title: "Honble Minister for Energy Resources and Law inaugurated the 80th Annual Day celebrations of the Tamil Nadu Electricity Board Engineers Association",
+    summary: "The Minister for Energy Resources and Law inaugurated the 80th Annual Day celebrations of the Tamil Nadu Electricity Board (TNEB) Engineers Association, marking a significant milestone in the history of TNEB's workforce.",
+    url: "https://cms.tn.gov.in/cms_migrated/document/press_release/pr230526e.jpeg"
+  },
+  {
+    id: 20260523010,
+    dept: "Home / Police",
+    date: "May 23, 2026",
+    dateValue: "2026-05-23",
+    title: "TN Police arrest 844 rowdies in 3-day state-wide crackdown; drugs worth ₹1.43 crore seized",
+    summary: "Acting on CM Vijay's directives, Tamil Nadu Police conducted a state-wide anti-rowdy operation over 3 days — 15,349 rowdies identified and examined; 3,246 apprehended; 844 (488 history-sheeters + 356 non-history-sheeters) remanded to judicial custody. Additionally, 294 NDPS cases registered, 419 drug offenders arrested, and 267.756 kg ganja + 2,476 narcotic tablets worth ₹1.43 crore seized.",
     url: "https://www.tn.gov.in/press_release.php"
   }
 ];
