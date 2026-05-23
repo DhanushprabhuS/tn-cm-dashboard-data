@@ -26,4 +26,7 @@ export const tickerItems: TickerItem[] = [
   { id: 20260513002, tag: "ASSEMBLY",  tagIcon: "🗳️", text: "TVK won 108 seats — First non-Dravidian party govt since 1967" },
   { id: 20260513003, tag: "MANIFESTO", tagIcon: "📊",  text: "₹2,500/month for women below 60 years — Implementation pending" },
   { id: 20260700001, tag: "UPCOMING",  tagIcon: "📋",  text: "First full budget 2026–27 expected June–July 2026" },
+  { id: 20260522001, tag: "CABINET",   tagIcon: "👥",  text: "Cabinet expansion complete with 35 ministers from TVK, INC, VCK, and IUML coalition" },
+  { id: 20260523001, tag: "DELHI VISIT", tagIcon: "✈️", text: "CM Vijay visits New Delhi for the first time since taking office to meet PM Modi and President Murmu" },
+  { id: 20260523002, tag: "WELFARE",     tagIcon: "💼", text: "PWD Minister Aadhav Arjuna guarantees job security and alternative government positions for closed TASMAC shop workers" }
 ];

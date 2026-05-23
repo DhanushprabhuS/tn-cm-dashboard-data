@@ -988,5 +988,41 @@ export const pressReleases: PressRelease[] = [
     title: "IUML's A.M. Shahjahan sworn in as Minister for Minorities Welfare and Wakf Board",
     summary: "A.M. Shahjahan, Indian Union Muslim League MLA from Papanasam (Thanjavur district), was sworn in as Minister for Minorities Welfare and Wakf Board, completing the coalition power-sharing arrangement with TVK, Congress, VCK, and IUML all represented in the cabinet.",
     url: "https://www.tn.gov.in/press_release.php"
+  },
+  {
+    id: 20260522014,
+    dept: "CMO",
+    date: "May 22, 2026",
+    dateValue: "2026-05-22",
+    title: "Malaysian Prime Minister Anwar Ibrahim holds telephone conversation with Hon'ble Chief Minister Vijay",
+    summary: "Prime Minister Anwar Ibrahim called Chief Minister Vijay to congratulate him on assuming office. The two leaders discussed strengthening cultural and economic ties between Malaysia and Tamil Nadu. PM Anwar also expressed hope to visit Tamil Nadu during his visit to India in September 2026.",
+    url: "https://www.tn.gov.in/press_release.php"
+  },
+  {
+    id: 20260523001,
+    dept: "CMO",
+    date: "May 23, 2026",
+    dateValue: "2026-05-23",
+    title: "Hon'ble Chief Minister Vijay departs on first official visit to New Delhi",
+    summary: "Chief Minister Vijay is scheduled to embark on his first official trip to the national capital since taking office to meet with Prime Minister Narendra Modi, President Droupadi Murmu, and other Union ministers.",
+    url: "https://www.tn.gov.in/press_release.php"
+  },
+  {
+    id: 20260523002,
+    dept: "CMO",
+    date: "May 23, 2026",
+    dateValue: "2026-05-23",
+    title: "Chief Minister Vijay tables comprehensive memorandum to Prime Minister Modi seeking pending central funds",
+    summary: "During his first official visit to New Delhi, Chief Minister Vijay submitted a comprehensive memorandum to Prime Minister Narendra Modi, requesting the release of pending central funds for Tamil Nadu and support for key state developmental projects.",
+    url: "https://www.tn.gov.in/press_release.php"
+  },
+  {
+    id: 20260523003,
+    dept: "PWD",
+    date: "May 23, 2026",
+    dateValue: "2026-05-23",
+    title: "Minister Aadhav Arjuna guarantees job security and redeployment for closed TASMAC shop workers",
+    summary: "Hon'ble Minister for Public Works and Sports Development Aadhav Arjuna assured that no TASMAC employee will lose their livelihood due to the closure of 717 liquor outlets, stating the government is working on redeploying affected staff to vacant positions in other state departments.",
+    url: "https://www.tn.gov.in/press_release.php"
   }
 ];
