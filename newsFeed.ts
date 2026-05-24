@@ -18,6 +18,7 @@ export interface FeedItem {
   source: string;
   color: string;    // CSS hex
   highlight?: boolean; // true for major company / foreign investor meetings with CM
+  link?: string;
 }
 
 export const newsFeed: FeedItem[] = [
@@ -83,5 +84,8 @@ export const newsFeed: FeedItem[] = [
   { id: 20260523003, date: "May 23, 2026", dateValue: "2026-05-23", text: "TN Police conducts state-wide anti-rowdy crackdown on CM Vijay's orders — 844 rowdies (488 history-sheeters + 356 non-history-sheeters) sent to judicial custody out of 3,246 apprehended over 3 days. 294 NDPS cases registered; 419 drug offenders arrested; 267.756 kg ganja + 2,476 narcotic tablets worth ₹1.43 crore seized across Tamil Nadu.", source: "Source: DGP Press Release / Tamil Oneindia", color: "#FF4757" },
   { id: 20260523004, date: "May 23, 2026", dateValue: "2026-05-23", text: "Transport Minister personally boarded a government bus from Saidapet to Guindy Race Course Bus Stop to experience commuter conditions first-hand and interact with the public, in a direct public-connect initiative.", source: "Source: CMO Press Release", color: "#00C9A7" },
   { id: 20260523005, date: "May 23, 2026", dateValue: "2026-05-23", text: "CM Vijay posts on social media condemning the brutal sexual assault and killing of a 10-year-old girl in Coimbatore, expressing grief and demanding the strictest action from police against the accused.", source: "Source: CMO Press Release", color: "#FF4757" },
-  { id: 20260523006, date: "May 23, 2026", dateValue: "2026-05-23", text: "Minister for Prohibition and Excise chairs dedicated meeting on the closure of 717 TASMAC liquor shops, reviewing implementation progress of the TVK government's partial prohibition pledge.", source: "Source: CMO Press Release", color: "#FFB800" }
+  { id: 20260523006, date: "May 23, 2026", dateValue: "2026-05-23", text: "Minister for Prohibition and Excise chairs dedicated meeting on the closure of 717 TASMAC liquor shops, reviewing implementation progress of the TVK government's partial prohibition pledge.", source: "Source: CMO Press Release", color: "#FFB800" },
+  { id: 20260524001, date: "May 24, 2026", dateValue: "2026-05-24", text: "Tamil Nadu CM Vijay orders daily law and order reviews; DGP holds meetings with district SPs and city commissioners via video conferencing to ensure public safety.", source: "Source: Tamil Oneindia", color: "#FF4757", link: "https://tamil.oneindia.com/news/tamilnadu/tamil-nadu-cm-vijay-orders-daily-law-order-review-dgp-holds-meetings-with-district-sps-802239.html" },
+  { id: 20260524002, date: "May 24, 2026", dateValue: "2026-05-24", text: "CM Vijay assures severe punishment against the accused in the Tamil Nadu minor sexual assault and murder case.", source: "Source: Zee News", color: "#FF4757", link: "https://zeenews.india.com/india/tamil-nadu-minor-sexual-assault-murder-case-cm-vijay-assures-severe-punishment-against-accused-3049941.html" },
+  { id: 20260524003, date: "May 24, 2026", dateValue: "2026-05-24", text: "CM Vijay personally spoke with the mother of the 10-year-old victim in the Coimbatore case, assuring her that the government will take strict action and ensure severe punishment for the accused.", source: "Source: Times of India", color: "#FF4757", link: "https://timesofindia.indiatimes.com/city/chennai/coimbatore-minor-girl-murder-cm-vijay-orders-fast-track-probe-vows-strict-punishment/articleshow/131276657.cms" }
 ];
