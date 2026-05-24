@@ -28,7 +28,7 @@ export interface PressRelease {
 export const pressReleases: PressRelease[] = [
   {
     id: 20260510001,
-    dept: "Home Dept",
+    dept: "CMO",
     date: "May 10, 2026",
     dateValue: "2026-05-10",
     title: "Establishment of Singa Pen Sirappu Athiradi Padai",
@@ -37,7 +37,7 @@ export const pressReleases: PressRelease[] = [
   },
   {
     id: 20260510002,
-    dept: "Energy Dept (D3)",
+    dept: "CMO",
     date: "May 10, 2026",
     dateValue: "2026-05-10",
     title: "Free Electricity — 200 Units for Eligible Households",
@@ -46,7 +46,7 @@ export const pressReleases: PressRelease[] = [
   },
   {
     id: 20260510003,
-    dept: "Home Dept",
+    dept: "CMO",
     date: "May 10, 2026",
     dateValue: "2026-05-10",
     title: "65 Anti-Narcotic Task Force Stations — District-wise Rollout",
@@ -1032,7 +1032,7 @@ export const pressReleases: PressRelease[] = [
     dateValue: "2026-05-23",
     title: "Honble Minister for Transport travelled in a Government Bus from Saidapet to the Guindy Race Course Bus Stop and interacted with the public",
     summary: "The Minister for Transport personally travelled in a government bus from Saidapet to Guindy Race Course Bus Stop to experience public transport conditions first-hand and interact directly with commuters, reinforcing the government's commitment to improving state bus services.",
-    url: "https://cms.tn.gov.in/cms_migrated/document/press_release/pr230526_073.pdf"
+    url: "https://cms.tn.gov.in/cms_migrated/document/press_release/pr230526g.JPG"
   },
   {
     id: 20260523005,
