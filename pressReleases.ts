@@ -1435,5 +1435,107 @@ export const pressReleases: PressRelease[] = [
     summary: "Honble Chief Minister directed immediate legal action and strict punishment against heinous crimes",
     imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr250526a.jpg", "https://cms.tn.gov.in/cms_migrated/document/press_release/pr250526b.jpg"],
     pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr250526_079.pdf"]
+  },
+{
+    id: 20260525004,
+    dept: ["CMO"],
+    date: "May 25, 2026",
+    dateValue: "2026-05-25",
+    title: "Chairman and Managing Director of TVS Motor Company called on the Honble Chief Minister",
+    summary: "The CMD of TVS Motor Company met with the Chief Minister, likely to discuss investment and industrial cooperation in Tamil Nadu.",
+    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr250526d.jpg"],
+    pdfUrls: [],
+    highlight: true
+  },
+  {
+    id: 20260525005,
+    dept: ["CMO"],
+    date: "May 25, 2026",
+    dateValue: "2026-05-25",
+    title: "Chairperson and representatives of M.S. Swaminathan Research Foundation called on the Honble Chief Minister",
+    summary: "The Chairperson and representatives of M.S. Swaminathan Research Foundation met with the Chief Minister, likely to discuss agricultural research and rural development initiatives.",
+    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr250526e.jpg"],
+    pdfUrls: []
+  },
+  {
+    id: 20260525006,
+    dept: ["CMO"],
+    date: "May 25, 2026",
+    dateValue: "2026-05-25",
+    title: "Representatives of Tamil Nadu Hotels Association and Chennai Hotels Association called on the Honble Chief Minister",
+    summary: "Leaders of the Tamil Nadu Hotels Association and Chennai Hotels Association met with the Chief Minister to discuss issues and opportunities in the hospitality sector.",
+    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr250526f.jpg"],
+    pdfUrls: []
+  },
+  {
+    id: 20260525007,
+    dept: ["Information and Publicity"],
+    date: "May 25, 2026",
+    dateValue: "2026-05-25",
+    title: "Honble Minister for Artificial Intelligence, Information Technology and Digital Services chaired review meeting on ELCOT operations and future plans",
+    summary: "The Minister for AI, IT and Digital Services chaired a comprehensive review of ELCOT's current operations and future roadmap to strengthen Tamil Nadu's digital infrastructure.",
+    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr250526_it.jpg"],
+    pdfUrls: []
+  },
+  {
+    id: 20260525008,
+    dept: ["Education"],
+    date: "May 25, 2026",
+    dateValue: "2026-05-25",
+    title: "Singapore consulate officials held discussions with Honble Minister for School Education, Tamil Development, Information and Publicity on new initiatives and innovative schemes in Tamil Nadu School Education Department",
+    summary: "Officials from the Singapore Consulate met with the School Education Minister to explore collaboration on innovative educational initiatives and schemes being implemented in Tamil Nadu schools.",
+    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr250526_sedu1.jpg"],
+    pdfUrls: []
+  },
+  {
+    id: 20260525009,
+    dept: ["Electricity"],
+    date: "May 25, 2026",
+    dateValue: "2026-05-25",
+    title: "Honble Minister for Energy Resources and Law held discussions with power distribution companies and contractors at Kalaivanar Arangam, Chennai",
+    summary: "The Energy Resources and Law Minister convened a meeting with power distribution companies and contractors at Kalaivanar Arangam to review operations and address sector challenges.",
+    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr250526_engy.jpg"],
+    pdfUrls: []
+  },
+  {
+    id: 20260525010,
+    dept: ["General"],
+    date: "May 25, 2026",
+    dateValue: "2026-05-25",
+    title: "Honble Minister for Commercial Taxes and Registration chaired a review meeting with senior officials of the Commercial Taxes and Registration Department",
+    summary: "The Commercial Taxes and Registration Minister held a review meeting with senior departmental officials to assess revenue performance and streamline registration processes.",
+    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr250526_ctax.jpg"],
+    pdfUrls: []
+  },
+  {
+    id: 20260525011,
+    dept: ["CMO"],
+    date: "May 25, 2026",
+    dateValue: "2026-05-25",
+    title: "Chairman of Tamil Nadu Urban Habitat Development Board called on the Honble Chief Minister",
+    summary: "The Chairman of the Tamil Nadu Urban Habitat Development Board called on the Chief Minister, likely to discuss urban housing and habitat development projects across the state.",
+    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr250526g.jpg"],
+    pdfUrls: []
+  },
+  {
+    id: 20260525012,
+    dept: ["General"],
+    date: "May 25, 2026",
+    dateValue: "2026-05-25",
+    title: "Honble Minister for Natural Resources ordered temporary closure of 18 stone quarries operating in violation of rules in Tenkasi District",
+    summary: "The Natural Resources Minister ordered the immediate temporary closure of 18 stone quarries in Tenkasi District found to be operating in violation of regulatory norms.",
+    imageUrls: [],
+    pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr250526_082.pdf"]
+  },
+  {
+    id: 20260525013,
+    dept: ["CMO"],
+    date: "May 25, 2026",
+    dateValue: "2026-05-25",
+    title: "Honble Chief Minister reviewed legal measures on the proposed Mekedatu dam project",
+    summary: "Chief Minister reviewed the legal strategy and measures being pursued by Tamil Nadu regarding the proposed Mekedatu dam project on the Cauvery river, reaffirming the state's opposition.",
+    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr250526c.jpg"],
+    pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr250526_081.pdf"]
   }
+
 ];
