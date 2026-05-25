@@ -547,7 +547,7 @@ export const pressReleases: PressRelease[] = [
     dateValue: "2026-05-15",
     title: "CM's Statement on Kalaignar Magalir Urimai Thittam — Restructuring Underway, ₹1,000 for May to be Credited Soon",
     summary: "CM Vijay stated the government requires time to restructure the Kalaignar Magalir Urimai Thittam (KMUT). May 2026 assistance of ₹1,000 will be credited directly to beneficiaries' bank accounts shortly. TVK has promised to raise the monthly amount to ₹2,500. Separately, ₹1,000 each was deposited to ~6 lakh students under Tamil Pudhalvan and Pudhumai Penn schemes.",
-    imageUrls: [ ],
+    imageUrls: [],
     pdfUrls: []
   },
   {
@@ -1073,7 +1073,7 @@ export const pressReleases: PressRelease[] = [
     dateValue: "2026-05-22",
     title: "Congress joins Tamil Nadu Government after 59 years — S. Rajesh Kumar and P. Viswanathan inducted as Ministers",
     summary: "For the first time since 1967, the Indian National Congress is part of the Tamil Nadu government. S. Rajesh Kumar (Killiyoor) takes charge as Tourism Minister and P. Viswanathan (Melur) as Higher Education Minister, marking a historic return of Congress to power in TN after 59 years.",
-    imageUrls: [ ],
+    imageUrls: [],
     pdfUrls: []
   },
   {
@@ -1083,7 +1083,7 @@ export const pressReleases: PressRelease[] = [
     dateValue: "2026-05-22",
     title: "VCK's Vanni Arasu sworn in as Minister for Social Justice, Adi Dravidar Welfare and Hill Tribes",
     summary: "Vanni Arasu, Deputy General Secretary of Viduthalai Chiruthaigal Katchi (VCK) and MLA from Tindivanam, was sworn in as Minister for Social Justice, Adi Dravidar Welfare and Hill Tribes, marking VCK's entry into the Vijay-led coalition cabinet.",
-    imageUrls: [ ],
+    imageUrls: [],
     pdfUrls: []
   },
   {
@@ -1093,7 +1093,7 @@ export const pressReleases: PressRelease[] = [
     dateValue: "2026-05-22",
     title: "IUML's A.M. Shahjahan sworn in as Minister for Minorities Welfare and Wakf Board",
     summary: "A.M. Shahjahan, Indian Union Muslim League MLA from Papanasam (Thanjavur district), was sworn in as Minister for Minorities Welfare and Wakf Board, completing the coalition power-sharing arrangement with TVK, Congress, VCK, and IUML all represented in the cabinet.",
-    imageUrls: [ ],
+    imageUrls: [],
     pdfUrls: []
   },
   {
@@ -1103,7 +1103,7 @@ export const pressReleases: PressRelease[] = [
     dateValue: "2026-05-22",
     title: "Malaysian Prime Minister Anwar Ibrahim holds telephone conversation with Hon'ble Chief Minister Vijay",
     summary: "Prime Minister Anwar Ibrahim called Chief Minister Vijay to congratulate him on assuming office. The two leaders discussed strengthening cultural and economic ties between Malaysia and Tamil Nadu. PM Anwar also expressed hope to visit Tamil Nadu during his visit to India in September 2026.",
-    imageUrls: [ ],
+    imageUrls: [],
     pdfUrls: []
   },
   {
@@ -1113,7 +1113,7 @@ export const pressReleases: PressRelease[] = [
     dateValue: "2026-05-23",
     title: "Hon'ble Chief Minister Vijay departs on first official visit to New Delhi",
     summary: "Chief Minister Vijay is scheduled to embark on his first official trip to the national capital since taking office to meet with Prime Minister Narendra Modi, President Droupadi Murmu, and other Union ministers.",
-    imageUrls: [ ],
+    imageUrls: [],
     pdfUrls: []
   },
   {
@@ -1123,7 +1123,7 @@ export const pressReleases: PressRelease[] = [
     dateValue: "2026-05-23",
     title: "Chief Minister Vijay tables comprehensive memorandum to Prime Minister Modi seeking pending central funds",
     summary: "During his first official visit to New Delhi, Chief Minister Vijay submitted a comprehensive memorandum to Prime Minister Narendra Modi, requesting the release of pending central funds for Tamil Nadu and support for key state developmental projects.",
-    imageUrls: [ ],
+    imageUrls: [],
     pdfUrls: []
   },
   {
@@ -1133,7 +1133,7 @@ export const pressReleases: PressRelease[] = [
     dateValue: "2026-05-23",
     title: "Minister Aadhav Arjuna guarantees job security and redeployment for closed TASMAC shop workers",
     summary: "Hon'ble Minister for Public Works and Sports Development Aadhav Arjuna assured that no TASMAC employee will lose their livelihood due to the closure of 717 liquor outlets, stating the government is working on redeploying affected staff to vacant positions in other state departments.",
-    imageUrls: [ ],
+    imageUrls: [],
     pdfUrls: []
   },
   {
@@ -1203,91 +1203,11 @@ export const pressReleases: PressRelease[] = [
     dateValue: "2026-05-23",
     title: "TN Police arrest 844 rowdies in 3-day state-wide crackdown; drugs worth ₹1.43 crore seized",
     summary: "Acting on CM Vijay's directives, Tamil Nadu Police conducted a state-wide anti-rowdy operation over 3 days — 15,349 rowdies identified and examined; 3,246 apprehended; 844 (488 history-sheeters + 356 non-history-sheeters) remanded to judicial custody. Additionally, 294 NDPS cases registered, 419 drug offenders arrested, and 267.756 kg ganja + 2,476 narcotic tablets worth ₹1.43 crore seized.",
-    imageUrls: [ ],
+    imageUrls: [],
     pdfUrls: []
   },
   {
-    id: 20260522001,
-    dept: ["CMO"],
-    date: "May 22, 2026",
-    dateValue: "2026-05-22",
-    title: "Honble Governor administered Oath of Office and Secrecy to Ministers in the presence of the Honble Chief Minister",
-    summary: "Honble Governor administered Oath of Office and Secrecy to Ministers in the presence of the Honble Chief Minister",
-    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr220526a.jpg","https://cms.tn.gov.in/cms_migrated/document/press_release/pr220526b.jpg"],
-    pdfUrls: []
-  },
-  {
-    id: 20260522002,
-    dept: ["CMO"],
-    date: "May 22, 2026",
-    dateValue: "2026-05-22",
-    title: "President of Viduthalai Chiruthaigal Katchi and Member of Parliament called on Honble Chief Minister",
-    summary: "President of Viduthalai Chiruthaigal Katchi and Member of Parliament called on Honble Chief Minister",
-    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr220526c.jpg"],
-    pdfUrls: []
-  },
-  {
-    id: 20260522003,
-    dept: ["CMO"],
-    date: "May 22, 2026",
-    dateValue: "2026-05-22",
-    title: "Ministers newly inducted into the Council called on the Honble Chief Minister",
-    summary: "Ministers newly inducted into the Council called on the Honble Chief Minister",
-    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr220526d.jpg"],
-    pdfUrls: []
-  },
-  {
-    id: 20260522004,
-    dept: ["Forests"],
-    date: "May 22, 2026",
-    dateValue: "2026-05-22",
-    title: "Honble Minister for Forests chaired review meeting on schemes implemented by the Forest Department",
-    summary: "Honble Minister for Forests chaired review meeting on schemes implemented by the Forest Department",
-    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr220526_fst1.JPG","https://cms.tn.gov.in/cms_migrated/document/press_release/pr220526_fst2.JPG"],
-    pdfUrls: []
-  },
-  {
-    id: 20260522005,
-    dept: ["CMO"],
-    date: "May 22, 2026",
-    dateValue: "2026-05-22",
-    title: "The Chairman and Managing Director of MRF Limited called on the Honble Chief Minister",
-    summary: "The Chairman and Managing Director of MRF Limited called on the Honble Chief Minister",
-    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr220526e.jpg"],
-    pdfUrls: []
-  },
-  {
-    id: 20260522006,
-    dept: ["CMO"],
-    date: "May 22, 2026",
-    dateValue: "2026-05-22",
-    title: "Chairman of Kothari Industrial Corporation called on the Honble Chief Minister",
-    summary: "Chairman of Kothari Industrial Corporation called on the Honble Chief Minister",
-    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr220526f.jpg"],
-    pdfUrls: []
-  },
-  {
-    id: 20260522007,
-    dept: ["Health"],
-    date: "May 22, 2026",
-    dateValue: "2026-05-22",
-    title: "Representatives of Tamil Nadu Government Doctors Association and Chennai Medical College Alumni Welfare Association called on the Honble Minister for Health and Family Welfare",
-    summary: "Representatives of Tamil Nadu Government Doctors Association and Chennai Medical College Alumni Welfare Association called on the Honble Minister for Health and Family Welfare",
-    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr220526_hfw1.jpg"],
-    pdfUrls: []
-  },
-  {
-    id: 20260522008,
-    dept: ["Education"],
-    date: "May 22, 2026",
-    dateValue: "2026-05-22",
-    title: "Representatives of Tamil Nadu Theatre and Multiplex Owners Association called on the Honble Minister for School Education, Tamil Development, Information and Publicity",
-    summary: "Representatives of Tamil Nadu Theatre and Multiplex Owners Association called on the Honble Minister for School Education, Tamil Development, Information and Publicity",
-    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr220526_sedu.jpg"],
-    pdfUrls: []
-  },
-  {
-    id: 20260522009,
+    id: 20260522015,
     dept: ["General"],
     date: "May 22, 2026",
     dateValue: "2026-05-22",
@@ -1297,7 +1217,7 @@ export const pressReleases: PressRelease[] = [
     pdfUrls: []
   },
   {
-    id: 20260522010,
+    id: 20260522016,
     dept: ["Information and Publicity"],
     date: "May 22, 2026",
     dateValue: "2026-05-22",
@@ -1307,17 +1227,17 @@ export const pressReleases: PressRelease[] = [
     pdfUrls: []
   },
   {
-    id: 20260522011,
+    id: 20260522017,
     dept: ["Revenue"],
     date: "May 22, 2026",
     dateValue: "2026-05-22",
     title: "Honble Minister for Revenue and Disaster Management chaired a review meeting of the department and inspected the State Emergency Operations Centre, Ezhilagam, Chennai",
     summary: "Honble Minister for Revenue and Disaster Management chaired a review meeting of the department and inspected the State Emergency Operations Centre, Ezhilagam, Chennai",
-    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr220526l.jpg","https://cms.tn.gov.in/cms_migrated/document/press_release/pr220526k.jpg"],
+    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr220526l.jpg", "https://cms.tn.gov.in/cms_migrated/document/press_release/pr220526k.jpg"],
     pdfUrls: []
   },
   {
-    id: 20260522012,
+    id: 20260522018,
     dept: ["Food and Civil Supplies"],
     date: "May 22, 2026",
     dateValue: "2026-05-22",
@@ -1327,7 +1247,7 @@ export const pressReleases: PressRelease[] = [
     pdfUrls: []
   },
   {
-    id: 20260522013,
+    id: 20260522019,
     dept: ["General"],
     date: "May 22, 2026",
     dateValue: "2026-05-22",
@@ -1337,7 +1257,7 @@ export const pressReleases: PressRelease[] = [
     pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr220526_067.pdf"]
   },
   {
-    id: 20260522014,
+    id: 20260522020,
     dept: ["General"],
     date: "May 22, 2026",
     dateValue: "2026-05-22",
@@ -1347,7 +1267,7 @@ export const pressReleases: PressRelease[] = [
     pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr220526_066.pdf"]
   },
   {
-    id: 20260522015,
+    id: 20260522021,
     dept: ["General"],
     date: "May 22, 2026",
     dateValue: "2026-05-22",
@@ -1357,7 +1277,7 @@ export const pressReleases: PressRelease[] = [
     pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr220526_065.pdf"]
   },
   {
-    id: 20260522016,
+    id: 20260522022,
     dept: ["CMO"],
     date: "May 22, 2026",
     dateValue: "2026-05-22",
@@ -1367,7 +1287,7 @@ export const pressReleases: PressRelease[] = [
     pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr220526_064.pdf"]
   },
   {
-    id: 20260522017,
+    id: 20260522023,
     dept: ["General"],
     date: "May 22, 2026",
     dateValue: "2026-05-22",
@@ -1377,33 +1297,13 @@ export const pressReleases: PressRelease[] = [
     pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr220526_063.pdf"]
   },
   {
-    id: 20260522018,
-    dept: ["General"],
-    date: "May 22, 2026",
-    dateValue: "2026-05-22",
-    title: "Honble Minister for Human Resources Management chaired review meeting on department schemes",
-    summary: "Honble Minister for Human Resources Management chaired review meeting on department schemes",
-    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr220526_hr1.JPG","https://cms.tn.gov.in/cms_migrated/document/press_release/pr220526_hr2.JPG"],
-    pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr220526_062.pdf"]
-  },
-  {
-    id: 20260522019,
-    dept: ["Public Works"],
-    date: "May 22, 2026",
-    dateValue: "2026-05-22",
-    title: "Honble Minister for Public Works and Sports Development chaired consultative meeting with sports association representatives at Nehru Indoor Stadium",
-    summary: "Honble Minister for Public Works and Sports Development chaired consultative meeting with sports association representatives at Nehru Indoor Stadium",
-    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr220526_pwsd1.jpg"],
-    pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr220526_061.pdf"]
-  },
-  {
     id: 20260524001,
     dept: ["Electricity"],
     date: "May 24, 2026",
     dateValue: "2026-05-24",
     title: "Honble Minister for Energy Resources and Law conducted a comprehensive inspection of the Puzhal Central Prison to review the operations and infrastructure of the Prisons Department",
     summary: "Honble Minister for Energy Resources and Law conducted a comprehensive inspection of the Puzhal Central Prison to review the operations and infrastructure of the Prisons Department",
-    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr240526_3.jpg","https://cms.tn.gov.in/cms_migrated/document/press_release/pr240526_2.jpg","https://cms.tn.gov.in/cms_migrated/document/press_release/pr240526_1.jpg"],
+    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr240526_3.jpg", "https://cms.tn.gov.in/cms_migrated/document/press_release/pr240526_2.jpg", "https://cms.tn.gov.in/cms_migrated/document/press_release/pr240526_1.jpg"],
     pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr240526_077.pdf"]
   },
   {
@@ -1413,7 +1313,7 @@ export const pressReleases: PressRelease[] = [
     dateValue: "2026-05-24",
     title: "Honble Minister for Hindu Religious and Charitable Endowments conducted inspection at various temples in Tiruchirappalli district",
     summary: "Honble Minister for Hindu Religious and Charitable Endowments conducted inspection at various temples in Tiruchirappalli district",
-    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr240526_hrce1.jpeg","https://cms.tn.gov.in/cms_migrated/document/press_release/pr240526_hrce2.jpeg","https://cms.tn.gov.in/cms_migrated/document/press_release/pr240526_hrce3.jpeg","https://cms.tn.gov.in/cms_migrated/document/press_release/pr240526_hrce4.jpeg","https://cms.tn.gov.in/cms_migrated/document/press_release/pr240526_hrce5.jpeg"],
+    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr240526_hrce1.jpeg", "https://cms.tn.gov.in/cms_migrated/document/press_release/pr240526_hrce2.jpeg", "https://cms.tn.gov.in/cms_migrated/document/press_release/pr240526_hrce3.jpeg", "https://cms.tn.gov.in/cms_migrated/document/press_release/pr240526_hrce4.jpeg", "https://cms.tn.gov.in/cms_migrated/document/press_release/pr240526_hrce5.jpeg"],
     pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr240526_076.pdf"]
   },
   {
@@ -1423,31 +1323,11 @@ export const pressReleases: PressRelease[] = [
     dateValue: "2026-05-24",
     title: "The Tamil Nadu players who won the Squash World Cup called on the Honble Minister for Public Works and Sports at the Secretariat",
     summary: "The Tamil Nadu players who won the Squash World Cup called on the Honble Minister for Public Works and Sports at the Secretariat",
-    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr240526_sd1.jpeg","https://cms.tn.gov.in/cms_migrated/document/press_release/pr240526_sd2.jpeg"],
+    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr240526_sd1.jpeg", "https://cms.tn.gov.in/cms_migrated/document/press_release/pr240526_sd2.jpeg"],
     pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr240526_075.pdf"]
   },
   {
-    id: 20260521001,
-    dept: ["CMO"],
-    date: "May 21, 2026",
-    dateValue: "2026-05-21",
-    title: "Honble Chief Minister with the Honble Governor and members of the new Council of Ministers – Group Photograph",
-    summary: "Honble Chief Minister with the Honble Governor and members of the new Council of Ministers – Group Photograph",
-    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr210526cm.JPG"],
-    pdfUrls: []
-  },
-  {
-    id: 20260521002,
-    dept: ["CMO"],
-    date: "May 21, 2026",
-    dateValue: "2026-05-21",
-    title: "State General Secretary and National Secretary of Indian Union Muslim League called on the Honble Chief Minister",
-    summary: "State General Secretary and National Secretary of Indian Union Muslim League called on the Honble Chief Minister",
-    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr210526c.JPG"],
-    pdfUrls: []
-  },
-  {
-    id: 20260521003,
+    id: 20260521004,
     dept: ["Revenue"],
     date: "May 21, 2026",
     dateValue: "2026-05-21",
@@ -1457,7 +1337,7 @@ export const pressReleases: PressRelease[] = [
     pdfUrls: []
   },
   {
-    id: 20260521004,
+    id: 20260521005,
     dept: ["Food and Civil Supplies"],
     date: "May 21, 2026",
     dateValue: "2026-05-21",
@@ -1467,7 +1347,7 @@ export const pressReleases: PressRelease[] = [
     pdfUrls: []
   },
   {
-    id: 20260521005,
+    id: 20260521006,
     dept: ["Labour"],
     date: "May 21, 2026",
     dateValue: "2026-05-21",
@@ -1477,7 +1357,7 @@ export const pressReleases: PressRelease[] = [
     pdfUrls: []
   },
   {
-    id: 20260521006,
+    id: 20260521007,
     dept: ["Education"],
     date: "May 21, 2026",
     dateValue: "2026-05-21",
@@ -1487,7 +1367,7 @@ export const pressReleases: PressRelease[] = [
     pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr210526_060.pdf"]
   },
   {
-    id: 20260521007,
+    id: 20260521008,
     dept: ["Health"],
     date: "May 21, 2026",
     dateValue: "2026-05-21",
@@ -1497,7 +1377,7 @@ export const pressReleases: PressRelease[] = [
     pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr210526_059.pdf"]
   },
   {
-    id: 20260521008,
+    id: 20260521009,
     dept: ["Housing"],
     date: "May 21, 2026",
     dateValue: "2026-05-21",
@@ -1507,7 +1387,7 @@ export const pressReleases: PressRelease[] = [
     pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr210526_058.pdf"]
   },
   {
-    id: 20260521009,
+    id: 20260521010,
     dept: ["Education"],
     date: "May 21, 2026",
     dateValue: "2026-05-21",
@@ -1517,7 +1397,7 @@ export const pressReleases: PressRelease[] = [
     pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr210526_057.pdf"]
   },
   {
-    id: 20260521010,
+    id: 20260521011,
     dept: ["Electricity"],
     date: "May 21, 2026",
     dateValue: "2026-05-21",
@@ -1525,5 +1405,35 @@ export const pressReleases: PressRelease[] = [
     summary: "Tamil Nadu Electricity Board initiated action over alleged irregularities in Green Energy Approvals",
     imageUrls: [],
     pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr210526_056.pdf"]
+  },
+  {
+    id: 20260525001,
+    dept: ["Education"],
+    date: "May 25, 2026",
+    dateValue: "2026-05-25",
+    title: "Honble Minister for School Education, Tamil Development, Information and Publicity issued appointment orders to six tailoring teachers selec ted through the Teachers Recruitment Board",
+    summary: "Honble Minister for School Education, Tamil Development, Information and Publicity issued appointment orders to six tailoring teachers selec ted through the Teachers Recruitment Board",
+    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr250526_sedu.jpg"],
+    pdfUrls: []
+  },
+  {
+    id: 20260525002,
+    dept: ["Public Works"],
+    date: "May 25, 2026",
+    dateValue: "2026-05-25",
+    title: "Honble Minister for Public Works and Sports Development presented financial assistance to aspiring olympians and interacted with young athletes at Nehru Indoor Stadium",
+    summary: "Honble Minister for Public Works and Sports Development presented financial assistance to aspiring olympians and interacted with young athletes at Nehru Indoor Stadium",
+    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr250526_pwsd1.jpg", "https://cms.tn.gov.in/cms_migrated/document/press_release/pr250526_pwsd2.jpg", "https://cms.tn.gov.in/cms_migrated/document/press_release/pr250526_pwsd3.jpg", "https://cms.tn.gov.in/cms_migrated/document/press_release/pr250526_pwsd4.jpg", "https://cms.tn.gov.in/cms_migrated/document/press_release/pr250526_pwsd5.jpg"],
+    pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr250526_080.pdf"]
+  },
+  {
+    id: 20260525003,
+    dept: ["CMO"],
+    date: "May 25, 2026",
+    dateValue: "2026-05-25",
+    title: "Honble Chief Minister directed immediate legal action and strict punishment against heinous crimes",
+    summary: "Honble Chief Minister directed immediate legal action and strict punishment against heinous crimes",
+    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr250526a.jpg", "https://cms.tn.gov.in/cms_migrated/document/press_release/pr250526b.jpg"],
+    pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr250526_079.pdf"]
   }
 ];
