@@ -96,12 +96,13 @@ CM Vijay's direct orders, Government Orders (GOs), Bills tabled in Assembly, and
 ```typescript
 {
   id: YYYYMMDD00N,
-  dept: "CMO",                  // or the specific dept e.g. "Energy Dept"
+  dept: ["CMO"],                // array of departments e.g. ["Energy Dept"]
   date: "Month DD, YYYY",
   dateValue: "YYYY-MM-DD",      // proper machine-readable date e.g. "2026-05-22"
   title: "Exact title of the order/statement",
   summary: "1-2 sentence summary of what was decided/announced.",
-  url: "",                      // add cms.tn.gov.in URL if available
+  imageUrls: [],                // array of image URLs if available
+  pdfUrls: [],                  // array of PDF URLs if available
   highlight: true               // set to true ONLY if it is a major industrial / corporate / investor meeting
 },
 ```
@@ -154,16 +155,16 @@ Try constructing URLs for today's date and check if they exist (HTTP 200 = exist
 ```typescript
 {
   id: YYYYMMDD00N,              // N increments: 001, 002, 003 for same date
-  dept: "CMO",                  // Use exact dept: "CMO", "Home Dept", "Finance Dept",
+  dept: ["CMO"],                // Array of exact depts: "CMO", "Home Dept", "Finance Dept",
                                 // "Energy Dept", "Health Dept", "TN Legislative Assembly",
                                 // "Municipal Admin", "Chief Electoral Officer" etc.
   date: "Month DD, YYYY",       // MUST match this exact format e.g. "May 17, 2026"
   dateValue: "YYYY-MM-DD",      // proper machine-readable date e.g. "2026-05-22"
   title: "Title of the press release — match official title closely",
   summary: "1-2 sentences. What happened, who was involved, outcome or significance.",
-  url: "https://cms.tn.gov.in/cms_migrated/document/press_release/prDDMMYY[code].[jpg|pdf]",
-  //   ↑ Use actual URL if found. For .jpg images: shows thumbnail in app.
-  //   For .pdf: shows "View on tn.gov.in" link. If no URL: use ""
+  imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/prDDMMYY[code].jpg"],
+  pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/prDDMMYY[code].pdf"],
+  //   ↑ Use actual URLs if found.
   highlight: true               // set to true ONLY if it is a major industrial / corporate / investor meeting
 },
 ```
@@ -388,12 +389,13 @@ Also update **`pressReleases.ts`**:
 ```typescript
 {
   id: YYYYMMDD001,
-  dept: "Lok Bhavan",
+  dept: ["Lok Bhavan"],
   date: "Month DD, YYYY",
   dateValue: "YYYY-MM-DD",      // proper machine-readable date e.g. "2026-05-22"
   title: "Governor Approves [New/Revised] Cabinet Portfolio Allocation",
   summary: "[Minister name] appointed as Minister for [portfolio]. [Any other changes].",
-  url: "",
+  imageUrls: [],
+  pdfUrls: [],
   highlight: false
 },
 ```
