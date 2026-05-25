@@ -3,12 +3,45 @@ from bs4 import BeautifulSoup
 import json
 from datetime import datetime
 import re
+import argparse
+import base64
 
-def scrape_tn_press_releases():
+def scrape_tn_press_releases(target_date=None):
     """
-    Scrape press releases from Tamil Nadu government website for today's date
+    Scrape press releases from Tamil Nadu government website for a given date (defaults to today)
     """
-    url = "https://www.tn.gov.in/press_release.php"
+    today = datetime.now()
+    dt = today
+    is_today = True
+    
+    if target_date:
+        try:
+            # Try parsing standard YYYY-MM-DD format first
+            dt = datetime.strptime(target_date, "%Y-%m-%d")
+            today_date_str = dt.strftime("%B %d ,%Y")
+            if dt.date() != today.date():
+                is_today = False
+        except ValueError:
+            # Fallback to accepting the exact string
+            today_date_str = target_date
+            try:
+                dt = datetime.strptime(target_date, "%B %d ,%Y")
+                if dt.date() != today.date():
+                    is_today = False
+            except ValueError:
+                pass
+    else:
+        # Get today's date in the format used on the website (e.g., "May 22 ,2026")
+        today_date_str = today.strftime("%B %d ,%Y")  # Format: May 22 ,2026
+
+    if is_today:
+        url = "https://www.tn.gov.in/press_release.php"
+    else:
+        month_str = dt.strftime("%m")
+        year_str = dt.strftime("%Y")
+        month_b64 = base64.b64encode(month_str.encode('utf-8')).decode('utf-8')
+        year_b64 = base64.b64encode(year_str.encode('utf-8')).decode('utf-8')
+        url = f"https://www.tn.gov.in/press_release_archieves.php?field_press_month_value={month_b64}&field_press_date_value={year_b64}"
     
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
@@ -19,10 +52,6 @@ def scrape_tn_press_releases():
         response.raise_for_status()
         
         soup = BeautifulSoup(response.content, 'html.parser')
-        
-        # Get today's date in the format used on the website (e.g., "May 22 ,2026")
-        today = datetime.now()
-        today_date_str = today.strftime("%B %d ,%Y")  # Format: May 22 ,2026
         
         press_releases = []
         
@@ -143,5 +172,14 @@ def determine_department(title):
 
 # Run the scraper and print JSON output
 if __name__ == "__main__":
-    result = scrape_tn_press_releases()
+    parser = argparse.ArgumentParser(description="Scrape press releases from Tamil Nadu government website.")
+    parser.add_argument(
+        "--date", 
+        type=str, 
+        help="Date to scrape in format YYYY-MM-DD or 'Month DD ,YYYY' (e.g., '2026-05-22' or 'May 22 ,2026'). Defaults to today.",
+        default=None
+    )
+    args = parser.parse_args()
+    
+    result = scrape_tn_press_releases(args.date)
     print(json.dumps(result, indent=2, ensure_ascii=False))
