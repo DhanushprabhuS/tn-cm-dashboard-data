@@ -144,4 +144,15 @@ export const schemes: Scheme[] = [
     dateValue: "2026-05-22",
     color: "#1A73E8"
   },
+{
+  id: 20260525001,
+  tag: "ANNOUNCED · May 25",
+  name: "🌾 Cooperative Bank Crop Loan Waiver Scheme — Structured Relief for Farmers",
+  status: "ACTIVE",
+  statusClass: "",
+  desc: "CM Vijay announced a tiered cooperative bank crop loan waiver benefiting 14.22 lakh farmers at ₹2,044 crore total expenditure. Marginal farmers: full waiver up to ₹50,000; loans ₹50k–₹1L get graded relief (₹40k→₹10k). Small farmers: 50% waiver up to ₹50k; graded relief above. Large farmers: flat ₹5,000 relief. Announced at Secretariat review chaired by CM with Agriculture, Cooperation, and Finance Ministers.",
+  date: "Announced: May 25, 2026 · Agriculture & Cooperation Dept",
+  dateValue: "2026-05-25",
+  color: "#16a34a"
+},
 ];
