@@ -547,7 +547,7 @@ export const pressReleases: PressRelease[] = [
     dateValue: "2026-05-15",
     title: "CM's Statement on Kalaignar Magalir Urimai Thittam — Restructuring Underway, ₹1,000 for May to be Credited Soon",
     summary: "CM Vijay stated the government requires time to restructure the Kalaignar Magalir Urimai Thittam (KMUT). May 2026 assistance of ₹1,000 will be credited directly to beneficiaries' bank accounts shortly. TVK has promised to raise the monthly amount to ₹2,500. Separately, ₹1,000 each was deposited to ~6 lakh students under Tamil Pudhalvan and Pudhumai Penn schemes.",
-    imageUrls: ["https://www.tn.gov.in/press_release.php"],
+    imageUrls: [ ],
     pdfUrls: []
   },
   {
@@ -1073,7 +1073,7 @@ export const pressReleases: PressRelease[] = [
     dateValue: "2026-05-22",
     title: "Congress joins Tamil Nadu Government after 59 years — S. Rajesh Kumar and P. Viswanathan inducted as Ministers",
     summary: "For the first time since 1967, the Indian National Congress is part of the Tamil Nadu government. S. Rajesh Kumar (Killiyoor) takes charge as Tourism Minister and P. Viswanathan (Melur) as Higher Education Minister, marking a historic return of Congress to power in TN after 59 years.",
-    imageUrls: ["https://www.tn.gov.in/press_release.php"],
+    imageUrls: [ ],
     pdfUrls: []
   },
   {
@@ -1083,7 +1083,7 @@ export const pressReleases: PressRelease[] = [
     dateValue: "2026-05-22",
     title: "VCK's Vanni Arasu sworn in as Minister for Social Justice, Adi Dravidar Welfare and Hill Tribes",
     summary: "Vanni Arasu, Deputy General Secretary of Viduthalai Chiruthaigal Katchi (VCK) and MLA from Tindivanam, was sworn in as Minister for Social Justice, Adi Dravidar Welfare and Hill Tribes, marking VCK's entry into the Vijay-led coalition cabinet.",
-    imageUrls: ["https://www.tn.gov.in/press_release.php"],
+    imageUrls: [ ],
     pdfUrls: []
   },
   {
@@ -1093,7 +1093,7 @@ export const pressReleases: PressRelease[] = [
     dateValue: "2026-05-22",
     title: "IUML's A.M. Shahjahan sworn in as Minister for Minorities Welfare and Wakf Board",
     summary: "A.M. Shahjahan, Indian Union Muslim League MLA from Papanasam (Thanjavur district), was sworn in as Minister for Minorities Welfare and Wakf Board, completing the coalition power-sharing arrangement with TVK, Congress, VCK, and IUML all represented in the cabinet.",
-    imageUrls: ["https://www.tn.gov.in/press_release.php"],
+    imageUrls: [ ],
     pdfUrls: []
   },
   {
@@ -1103,7 +1103,7 @@ export const pressReleases: PressRelease[] = [
     dateValue: "2026-05-22",
     title: "Malaysian Prime Minister Anwar Ibrahim holds telephone conversation with Hon'ble Chief Minister Vijay",
     summary: "Prime Minister Anwar Ibrahim called Chief Minister Vijay to congratulate him on assuming office. The two leaders discussed strengthening cultural and economic ties between Malaysia and Tamil Nadu. PM Anwar also expressed hope to visit Tamil Nadu during his visit to India in September 2026.",
-    imageUrls: ["https://www.tn.gov.in/press_release.php"],
+    imageUrls: [ ],
     pdfUrls: []
   },
   {
@@ -1113,7 +1113,7 @@ export const pressReleases: PressRelease[] = [
     dateValue: "2026-05-23",
     title: "Hon'ble Chief Minister Vijay departs on first official visit to New Delhi",
     summary: "Chief Minister Vijay is scheduled to embark on his first official trip to the national capital since taking office to meet with Prime Minister Narendra Modi, President Droupadi Murmu, and other Union ministers.",
-    imageUrls: ["https://www.tn.gov.in/press_release.php"],
+    imageUrls: [ ],
     pdfUrls: []
   },
   {
@@ -1123,7 +1123,7 @@ export const pressReleases: PressRelease[] = [
     dateValue: "2026-05-23",
     title: "Chief Minister Vijay tables comprehensive memorandum to Prime Minister Modi seeking pending central funds",
     summary: "During his first official visit to New Delhi, Chief Minister Vijay submitted a comprehensive memorandum to Prime Minister Narendra Modi, requesting the release of pending central funds for Tamil Nadu and support for key state developmental projects.",
-    imageUrls: ["https://www.tn.gov.in/press_release.php"],
+    imageUrls: [ ],
     pdfUrls: []
   },
   {
@@ -1133,7 +1133,7 @@ export const pressReleases: PressRelease[] = [
     dateValue: "2026-05-23",
     title: "Minister Aadhav Arjuna guarantees job security and redeployment for closed TASMAC shop workers",
     summary: "Hon'ble Minister for Public Works and Sports Development Aadhav Arjuna assured that no TASMAC employee will lose their livelihood due to the closure of 717 liquor outlets, stating the government is working on redeploying affected staff to vacant positions in other state departments.",
-    imageUrls: ["https://www.tn.gov.in/press_release.php"],
+    imageUrls: [ ],
     pdfUrls: []
   },
   {
@@ -1203,7 +1203,7 @@ export const pressReleases: PressRelease[] = [
     dateValue: "2026-05-23",
     title: "TN Police arrest 844 rowdies in 3-day state-wide crackdown; drugs worth ₹1.43 crore seized",
     summary: "Acting on CM Vijay's directives, Tamil Nadu Police conducted a state-wide anti-rowdy operation over 3 days — 15,349 rowdies identified and examined; 3,246 apprehended; 844 (488 history-sheeters + 356 non-history-sheeters) remanded to judicial custody. Additionally, 294 NDPS cases registered, 419 drug offenders arrested, and 267.756 kg ganja + 2,476 narcotic tablets worth ₹1.43 crore seized.",
-    imageUrls: ["https://www.tn.gov.in/press_release.php"],
+    imageUrls: [ ],
     pdfUrls: []
   },
   {
