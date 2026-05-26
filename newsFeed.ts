@@ -91,4 +91,32 @@ export const newsFeed: FeedItem[] = [
   { id: 20260525001, date: "May 25, 2026", dateValue: "2026-05-25", text: "Following the tragic Coimbatore incident, the court has ordered swift proceedings, as CM Vijay demands expeditious trials and severe punishment for the accused.", source: "Source: Mathrubhumi / Zee News", color: "#FF4757" },
   { id: 20260525002, date: "May 25, 2026", dateValue: "2026-05-25", text: "Thousands of rowdies have been remanded to judicial custody following the massive state-wide crackdown by Tamil Nadu Police, acting on CM Vijay's directives.", source: "Source: Asianet Newsable / Tamil Oneindia", color: "#FF4757" },
   { id: 20260525003, date: "May 25, 2026", dateValue: "2026-05-25", text: "Tamil Nadu Transport Minister ordered the mandatory installation of Vehicle Location Tracking Devices (VLTDs) in all public vehicles across the state to enhance passenger safety.", source: "Source: ETAuto / Times of India", color: "#00C9A7" }
+  , {
+    "id": 20260526003,
+    "date": "May 26, 2026",
+    "dateValue": "2026-05-26",
+    "text": "CM Joseph Vijay heads to Delhi for his first official visit as Chief Minister. Scheduled to meet PM Narendra Modi to discuss state funds, welfare schemes, and Cauvery water dispute.",
+    "source": "Source: Recent news updates",
+    "color": "#FF0000",
+    "highlight": true
+  },
+  {
+    "id": 20260526002,
+    "date": "May 26, 2026",
+    "dateValue": "2026-05-26",
+    "text": "Natural Resources Minister T.K. Prabhu orders immediate closure of multiple stone quarries violating rules. Over 40 quarries (including 18 in Tenkasi and 23 in Virudhunagar) temporarily shut down after inspections and drone surveys revealed excess mining and illegal operations.",
+    "source": "Source: The New Indian Express, Polimer News",
+    "color": "#FF4500",
+    "highlight": false
+  },
+  {
+    "id": 20260526001,
+    "date": "May 26, 2026",
+    "dateValue": "2026-05-26",
+    "text": "Minister T.K. Prabhu vows zero tolerance for corruption in the Natural Resources department and promises public accessibility. He initiates a full statewide audit of over 2,000 quarries to curb illegal mining.",
+    "source": "Source: The Hindu",
+    "color": "#FF4500",
+    "highlight": false
+  },
+
 ];
