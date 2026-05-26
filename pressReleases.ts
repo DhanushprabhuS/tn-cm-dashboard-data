@@ -1,4 +1,4 @@
-]/**
+/**
  * pressReleases.ts — Official Government Press Releases from tn.gov.in / cms.tn.gov.in
  * Agent Last Updated: May 26, 2026
  *
