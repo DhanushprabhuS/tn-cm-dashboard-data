@@ -1,6 +1,6 @@
 /**
  * ticker.ts — Breaking-news ticker items scrolling at the top of the dashboard.
- * Agent Last Updated: May 19, 2026
+ * Agent Last Updated: May 26, 2026
  *
  * HOW TO UPDATE:
  *   - Append new entries at the bottom with a new id (YYYYMMDD###).

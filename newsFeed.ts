@@ -1,6 +1,6 @@
 /**
  * newsFeed.ts — Live updates feed (meetings, statements, CMO releases).
- * Agent Last Updated: May 23, 2026
+ * Agent Last Updated: May 26, 2026
  *
  * HOW TO UPDATE:
  *   - Append new entries at the bottom with a new id (YYYYMMDD###).
