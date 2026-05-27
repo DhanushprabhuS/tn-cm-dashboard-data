@@ -1,6 +1,6 @@
 /**
  * pressReleases.ts — Official Government Press Releases from tn.gov.in / cms.tn.gov.in
- * Agent Last Updated: May 26, 2026
+ * Agent Last Updated: May 27, 2026
  *
  * THIS IS THE PRIMARY FILE THE AI AGENT UPDATES — check daily.
  *
@@ -1509,11 +1509,11 @@ export const pressReleases: PressRelease[] = [
   },
   {
     id: 20260526008,
-    dept: ["General"],
+    dept: ["HR & CE"],
     date: "May 26, 2026",
     dateValue: "2026-05-26",
     title: "Honble Minister for Hindu Religious and Charitable Endowments chaired review meeting on department schemes, activities and ongoing works",
-    summary: "Honble Minister for Hindu Religious and Charitable Endowments chaired review meeting on department schemes, activities and ongoing works",
+    summary: "The HR&CE Minister chaired a review of departmental schemes, temple administration activities, and ongoing infrastructure works under the Hindu Religious and Charitable Endowments department.",
     imageUrls: [],
     pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr260526_093.pdf"]
   },
@@ -1523,7 +1523,7 @@ export const pressReleases: PressRelease[] = [
     date: "May 26, 2026",
     dateValue: "2026-05-26",
     title: "Text of the D.O. Letter of the Honble Chief Minister to the Honble Prime Minister regarding the proposed Mekedatu Dam bhoomi pooja and safeguarding Tamil Nadu's rights",
-    summary: "Text of the D.O. Letter of the Honble Chief Minister to the Honble Prime Minister regarding the proposed Mekedatu Dam bhoomi pooja and safeguarding Tamil Nadu's rights",
+    summary: "CM Vijay wrote to PM Modi opposing the proposed bhoomi pooja for the Mekedatu dam project, urging the Centre to reject Karnataka's DPR and protect Tamil Nadu's Cauvery water rights as guaranteed by the Supreme Court.",
     imageUrls: [],
     pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr260526_092.pdf"]
   },
@@ -1627,6 +1627,286 @@ export const pressReleases: PressRelease[] = [
     summary: "Chief Minister reviewed the legal strategy and measures being pursued by Tamil Nadu regarding the proposed Mekedatu dam project on the Cauvery river, reaffirming the state's opposition.",
     imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr250526c.jpg"],
     pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr250526_081.pdf"]
+  },
+  {
+    id: 20260526010,
+    dept: ["Co-operation"],
+    date: "May 26, 2026",
+    dateValue: "2026-05-26",
+    title: "Honble Minister for Cooperation chaired review meeting on Cooperation Department activities and schemes",
+    summary: "The Cooperation Minister chaired a review meeting assessing the department's activities, cooperative society performance, and ongoing welfare schemes.",
+    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr260526_co1.jpg"],
+    pdfUrls: []
+  },
+  {
+    id: 20260526011,
+    dept: ["Backward Classes Welfare"],
+    date: "May 26, 2026",
+    dateValue: "2026-05-26",
+    title: "Honble Minister for Backward Classes Welfare inspected social justice women's college hostels and the newly constructed hostel building",
+    summary: "The Backward Classes Welfare Minister inspected hostels at social justice women's colleges, including a newly constructed hostel building, to review student facilities and accommodation standards.",
+    imageUrls: [
+      "https://cms.tn.gov.in/cms_migrated/document/press_release/pr260526_bw1.jpg",
+      "https://cms.tn.gov.in/cms_migrated/document/press_release/pr260526_bw2.jpg"
+    ],
+    pdfUrls: []
+  },
+  {
+    id: 20260526012,
+    dept: ["Transport"],
+    date: "May 26, 2026",
+    dateValue: "2026-05-26",
+    title: "Honble Minister for Transport held review meeting on vehicle registration auctions, women and child safety, real-time vehicle monitoring and road safety measures",
+    summary: "The Transport Minister reviewed vehicle registration auctions, women and child safety initiatives in public transport, real-time vehicle monitoring systems, and road safety measures.",
+    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr260526_transport.png"],
+    pdfUrls: []
+  },
+  {
+    id: 20260526013,
+    dept: ["Water Resources"],
+    date: "May 26, 2026",
+    dateValue: "2026-05-26",
+    title: "From Water Resources department - Flood warning issued for residents along the south pennaiyar river following increased inflow into Krishnagiri dam",
+    summary: "The Water Resources Department issued a flood warning for residents living along the South Pennaiyar river following a significant increase in inflow into the Krishnagiri dam.",
+    imageUrls: [],
+    pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr260526_104.pdf"]
+  },
+  {
+    id: 20260526014,
+    dept: ["Prohibition & Excise"],
+    date: "May 26, 2026",
+    dateValue: "2026-05-26",
+    title: "Honble Minister for Prohibition and Excise requested TASMAC employees to resume duty",
+    summary: "The Prohibition and Excise Minister formally requested TASMAC employees to return to duty, following disruptions related to the closure of 717 liquor shops near sensitive locations.",
+    imageUrls: [],
+    pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr260526_103.pdf"]
+  },
+  {
+    id: 20260526015,
+    dept: ["Minorities Welfare"],
+    date: "May 26, 2026",
+    dateValue: "2026-05-26",
+    title: "Honble Minister for Minorities Welfare and Waqf Board chaired review meeting on department activities and schemes",
+    summary: "The Minorities Welfare and Waqf Board Minister chaired a review of departmental activities and welfare schemes benefiting minority communities across Tamil Nadu.",
+    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr260526_mwwb.jpg"],
+    pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr260526_102.pdf"]
+  },
+  {
+    id: 20260526016,
+    dept: ["Natural Resources"],
+    date: "May 26, 2026",
+    dateValue: "2026-05-26",
+    title: "Honble Minister for Natural Resources ordered temporary closure of 23 stone quarries for violations in Virudhunagar district",
+    summary: "The Natural Resources Minister ordered the immediate temporary closure of 23 stone quarries in Virudhunagar district found to be operating in violation of regulatory norms, as part of the government's crackdown on illegal mining.",
+    imageUrls: [],
+    pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr260526_101.pdf"]
+  },
+  {
+    id: 20260526017,
+    dept: ["Natural Resources"],
+    date: "May 26, 2026",
+    dateValue: "2026-05-26",
+    title: "Honble Minister for Natural Resources inaugurated anganwadi centre constructed under district mineral foundation fund in Virudhunagar district",
+    summary: "The Natural Resources Minister inaugurated a new anganwadi centre built using district mineral foundation funds in Virudhunagar district, supporting early childhood care and nutrition in the region.",
+    imageUrls: [],
+    pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr260526_100.pdf"]
+  },
+  {
+    id: 20260526018,
+    dept: ["Industries"],
+    date: "May 26, 2026",
+    dateValue: "2026-05-26",
+    title: "Honble Minister for Industries, Investment Promotion and Commerce inspected Manapparai SIPCOT Industrial Park and Mega Food Park in Tiruchirappalli District",
+    summary: "The Industries Minister inspected the Manapparai SIPCOT Industrial Park and Mega Food Park in Tiruchirappalli to assess infrastructure, ongoing projects, and investment prospects.",
+    imageUrls: [
+      "https://cms.tn.gov.in/cms_migrated/document/press_release/pr260526_indu1.jpeg",
+      "https://cms.tn.gov.in/cms_migrated/document/press_release/pr260526_indu2.jpeg",
+      "https://cms.tn.gov.in/cms_migrated/document/press_release/pr260526_indu3.jpeg",
+      "https://cms.tn.gov.in/cms_migrated/document/press_release/pr260526_indu4.jpeg",
+      "https://cms.tn.gov.in/cms_migrated/document/press_release/pr260526_indu5.jpeg"
+    ],
+    pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr260526_099.pdf"]
+  },
+  {
+    id: 20260526019,
+    dept: ["Water Resources"],
+    date: "May 26, 2026",
+    dateValue: "2026-05-26",
+    title: "From Water Resources Department - 51st meeting of the Cauvery Water Management Authority",
+    summary: "Tamil Nadu representatives attended the 51st meeting of the Cauvery Water Management Authority (CWMA), reviewing inter-state water sharing compliance and reservoir levels.",
+    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr260526_wrd.jpg"],
+    pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr260526_098.pdf"]
+  },
+  {
+    id: 20260526020,
+    dept: ["Animal Husbandry"],
+    date: "May 26, 2026",
+    dateValue: "2026-05-26",
+    title: "Honble Minister for Animal Husbandry chaired review meeting with Senior Officials on department activities, schemes and public services",
+    summary: "The Animal Husbandry Minister chaired a review meeting with senior officials to assess the department's activities, veterinary services, and welfare schemes for livestock farmers.",
+    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr260526_an.jpg"],
+    pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr260526_097.pdf"]
+  },
+  {
+    id: 20260526021,
+    dept: ["Education"],
+    date: "May 26, 2026",
+    dateValue: "2026-05-26",
+    title: "From School Education Department - All Schools in Tamil Nadu to reopen uniformly for classes I to XII on 4th June 2026",
+    summary: "The School Education Department announced that all schools across Tamil Nadu will uniformly reopen for classes I to XII on June 4, 2026, for the new academic year.",
+    imageUrls: [],
+    pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr260526_096.pdf"]
+  },
+  {
+    id: 20260526022,
+    dept: ["CMO"],
+    date: "May 26, 2026",
+    dateValue: "2026-05-26",
+    title: "Honble Chief Minister chaired review meeting on safeguarding 69 percent reservation in student admissions and Government employment in Tamil Nadu",
+    summary: "Chief Minister Vijay chaired a high-level review meeting on strategies to safeguard and implement the 69% reservation policy in student admissions and state government employment.",
+    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr260526c.jpg"],
+    pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr260526_095.pdf"]
+  },
+  {
+    id: 20260526023,
+    dept: ["Rural Development"],
+    date: "May 26, 2026",
+    dateValue: "2026-05-26",
+    title: "Honble Minister for Rural Development and Water Resources held review meeting on development works and schemes in T. Nagar Constituency",
+    summary: "The Rural Development and Water Resources Minister held a review meeting on development works and welfare schemes being implemented in the T. Nagar constituency.",
+    imageUrls: [],
+    pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr260526_094.pdf"]
+  },
+  {
+    id: 20260526024,
+    dept: ["Labour"],
+    date: "May 26, 2026",
+    dateValue: "2026-05-26",
+    title: "Honble Minister for Labour Welfare and Skill Development inspected Government Industrial Training Institute at Ambattur, Chennai",
+    summary: "The Labour Welfare and Skill Development Minister inspected the Government ITI at Ambattur, Chennai, reviewing training infrastructure, courses offered, and student facilities.",
+    imageUrls: [
+      "https://cms.tn.gov.in/cms_migrated/document/press_release/pr260526_lwsd1.jpg",
+      "https://cms.tn.gov.in/cms_migrated/document/press_release/pr260526_lwsd2.jpg"
+    ],
+    pdfUrls: []
+  },
+  {
+    id: 20260526025,
+    dept: ["Agriculture"],
+    date: "May 26, 2026",
+    dateValue: "2026-05-26",
+    title: "Honble Minister for Agriculture and Farmers Welfare chaired review meeting on the functioning of Agricultural Engineering Department, TNAU and Seed Certification Directorate",
+    summary: "The Agriculture Minister reviewed the functioning of the Agricultural Engineering Department, Tamil Nadu Agricultural University (TNAU), and the Seed Certification Directorate to assess farm support services.",
+    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr260526_agri.jpg"],
+    pdfUrls: []
+  },
+  {
+    id: 20260527001,
+    dept: ["CMO"],
+    date: "May 27, 2026",
+    dateValue: "2026-05-27",
+    title: "Honble Chief Minister received at Tamil Nadu House in New Delhi by Senior Officials and accorded ceremonial guard of honour",
+    summary: "Chief Minister Vijay was received at Tamil Nadu House in New Delhi by senior state officials and accorded a ceremonial guard of honour, ahead of his official meetings with PM Modi, President Murmu, and Union Ministers.",
+    imageUrls: [
+      "https://cms.tn.gov.in/cms_migrated/document/press_release/pr270526c.jpg",
+      "https://cms.tn.gov.in/cms_migrated/document/press_release/pr270526a.jpg",
+      "https://cms.tn.gov.in/cms_migrated/document/press_release/pr270526b.jpg"
+    ],
+    pdfUrls: []
+  },
+  {
+    id: 20260527002,
+    dept: ["AI & IT"],
+    date: "May 27, 2026",
+    dateValue: "2026-05-27",
+    title: "Honble Minister for Artificial Intelligence, Information Technology and Digital Services inspected operations of TACTV head control room in Chennai",
+    summary: "The AI, IT and Digital Services Minister inspected the operations of the Tamil Arasu Cable TV (TACTV) head control room in Chennai, reviewing broadcast quality and operational systems.",
+    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr270526_it.jpg"],
+    pdfUrls: []
+  },
+  {
+    id: 20260527003,
+    dept: ["Rural Development"],
+    date: "May 27, 2026",
+    dateValue: "2026-05-27",
+    title: "Honble Minister for Rural Development and Water Resources chaired review meeting on key schemes implemented by the Rural Development and Panchayat Raj Department",
+    summary: "The Rural Development and Water Resources Minister chaired a review of key schemes under the Rural Development and Panchayat Raj Department, assessing implementation progress and fund utilisation.",
+    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr270526_rd.jpg"],
+    pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr270526_112.pdf"]
+  },
+  {
+    id: 20260527004,
+    dept: ["Energy Dept"],
+    date: "May 27, 2026",
+    dateValue: "2026-05-27",
+    title: "Honble Minister for Energy Resources and Law chaired review meeting on Law department activities",
+    summary: "The Energy Resources and Law Minister chaired a review meeting on Law department activities, covering pending cases, departmental performance, and legal reforms.",
+    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr270526_enrgy.jpg"],
+    pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr270526_111.pdf"]
+  },
+  {
+    id: 20260527005,
+    dept: ["Tourism"],
+    date: "May 27, 2026",
+    dateValue: "2026-05-27",
+    title: "Honble Minister for Tourism chaired review meeting on Tourism Department and Tamil Nadu Tourism Development Corporation Activities",
+    summary: "The Tourism Minister chaired a review of the Tourism Department and Tamil Nadu Tourism Development Corporation (TTDC), covering destination promotion, revenue, and infrastructure.",
+    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr270526_tour.jpg"],
+    pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr270526_110.pdf"]
+  },
+  {
+    id: 20260527006,
+    dept: ["Education"],
+    date: "May 27, 2026",
+    dateValue: "2026-05-27",
+    title: "Honble Minister for School Education, Tamil Development, Information and Publicity inspected construction works of the Bharat Scouts and Guides Headquarters building in Chennai and appreciated the talents of students in Cuddalore district",
+    summary: "The School Education Minister inspected construction of the Bharat Scouts and Guides Headquarters in Chennai and visited Cuddalore district to appreciate student talent and educational achievements.",
+    imageUrls: [
+      "https://cms.tn.gov.in/cms_migrated/document/press_release/pr270526_sedu.jpg",
+      "https://cms.tn.gov.in/cms_migrated/document/press_release/pr270526_sedu1.jpg",
+      "https://cms.tn.gov.in/cms_migrated/document/press_release/pr270526_sedu2.jpg"
+    ],
+    pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr270526_109.pdf"]
+  },
+  {
+    id: 20260527007,
+    dept: ["Milk & Dairy"],
+    date: "May 27, 2026",
+    dateValue: "2026-05-27",
+    title: "Honble Minister for Milk and Dairy Development chaired review meeting on department activities and schemes",
+    summary: "The Milk and Dairy Development Minister chaired a review of departmental activities and schemes, including milk procurement, farmer support, and Aavin cooperative operations.",
+    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr270526_md.jpg"],
+    pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr270526_108.pdf"]
+  },
+  {
+    id: 20260527008,
+    dept: ["CMO"],
+    date: "May 27, 2026",
+    dateValue: "2026-05-27",
+    title: "Greetings message from Honble Chief Minister on the occasion of Bakrid",
+    summary: "Chief Minister Vijay extended warm greetings to the people of Tamil Nadu, particularly the Muslim community, on the occasion of Bakrid (Eid al-Adha).",
+    imageUrls: [],
+    pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr270526_107.pdf"]
+  },
+  {
+    id: 20260527009,
+    dept: ["Public Works"],
+    date: "May 27, 2026",
+    dateValue: "2026-05-27",
+    title: "Honble Minister for Public Works and Sports Development provided financial assistance to chess player Vaishali for International Chess Tournaments",
+    summary: "The Public Works and Sports Development Minister sanctioned financial assistance to Indian chess player Vaishali to participate in upcoming International Chess Tournaments, supporting Tamil Nadu's sporting excellence.",
+    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr270526_pwsd1.jpg"],
+    pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr270526_106.pdf"]
+  },
+  {
+    id: 20260527010,
+    dept: ["Natural Resources"],
+    date: "May 27, 2026",
+    dateValue: "2026-05-27",
+    title: "Honble Minister for Natural Resources inspected quarry sites at Puliyooran village in Aruppukottai taluk, Virudhunagar district",
+    summary: "The Natural Resources Minister T.K. Prabhu personally inspected quarry sites at Puliyooran village in Aruppukottai taluk, Virudhunagar district, as part of the government's ongoing crackdown on illegal and violating quarry operations.",
+    imageUrls: [],
+    pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr270526_105.pdf"]
   }
 
 ];

@@ -1,6 +1,6 @@
 /**
  * ticker.ts — Breaking-news ticker items scrolling at the top of the dashboard.
- * Agent Last Updated: May 26, 2026
+ * Agent Last Updated: May 27, 2026
  *
  * HOW TO UPDATE:
  *   - Append new entries at the bottom with a new id (YYYYMMDD###).
@@ -28,5 +28,9 @@ export const tickerItems: TickerItem[] = [
   { id: 20260700001, tag: "UPCOMING",  tagIcon: "📋",  text: "First full budget 2026–27 expected June–July 2026" },
   { id: 20260522001, tag: "CABINET",   tagIcon: "👥",  text: "Cabinet expansion complete with 35 ministers from TVK, INC, VCK, and IUML coalition" },
   { id: 20260523001, tag: "DELHI VISIT", tagIcon: "✈️", text: "CM Vijay visits New Delhi for the first time since taking office to meet PM Modi and President Murmu" },
-  { id: 20260523002, tag: "WELFARE",     tagIcon: "💼", text: "PWD Minister Aadhav Arjuna guarantees job security and alternative government positions for closed TASMAC shop workers" }
+  { id: 20260523002, tag: "WELFARE",     tagIcon: "💼", text: "PWD Minister Aadhav Arjuna guarantees job security and alternative government positions for closed TASMAC shop workers" },
+  { id: 20260525004, tag: "POLICY",      tagIcon: "🎬", text: "5 shows/day now allowed for new Tamil films in first 7 days — CM Vijay amends Tamil Nadu Cinemas (Regulation) Rules, 1957" },
+  { id: 20260527001, tag: "DELHI",       tagIcon: "✈️", text: "May 27: CM Vijay in New Delhi — meets PM Modi at 4:30 PM; presents state memorandum on funds, welfare schemes, Cauvery & Mekedatu" },
+  { id: 20260527002, tag: "ASSEMBLY",    tagIcon: "🗳️", text: "4 AIADMK MLAs (Maragatham, Jayakumar, Sathyabama, Esakki Subaya) join TVK — AIADMK strength falls to 43 seats" },
+  { id: 20260527003, tag: "FARMERS",     tagIcon: "🌾", text: "Crop loan waiver up to ₹50,000 — 14.22 lakh small & marginal farmers to benefit; TN govt absorbs ₹2,044 crore" },
 ];

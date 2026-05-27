@@ -1,6 +1,6 @@
 /**
  * newsFeed.ts — Live updates feed (meetings, statements, CMO releases).
- * Agent Last Updated: May 26, 2026
+ * Agent Last Updated: May 27, 2026
  *
  * HOW TO UPDATE:
  *   - Append new entries at the bottom with a new id (YYYYMMDD###).
@@ -90,8 +90,9 @@ export const newsFeed: FeedItem[] = [
   { id: 20260524003, date: "May 24, 2026", dateValue: "2026-05-24", text: "CM Vijay personally spoke with the mother of the 10-year-old victim in the Coimbatore case, assuring her that the government will take strict action and ensure severe punishment for the accused.", source: "Source: Times of India", color: "#FF4757", link: "https://timesofindia.indiatimes.com/city/chennai/coimbatore-minor-girl-murder-cm-vijay-orders-fast-track-probe-vows-strict-punishment/articleshow/131276657.cms" },
   { id: 20260525001, date: "May 25, 2026", dateValue: "2026-05-25", text: "Following the tragic Coimbatore incident, the court has ordered swift proceedings, as CM Vijay demands expeditious trials and severe punishment for the accused.", source: "Source: Mathrubhumi / Zee News", color: "#FF4757" },
   { id: 20260525002, date: "May 25, 2026", dateValue: "2026-05-25", text: "Thousands of rowdies have been remanded to judicial custody following the massive state-wide crackdown by Tamil Nadu Police, acting on CM Vijay's directives.", source: "Source: Asianet Newsable / Tamil Oneindia", color: "#FF4757" },
-  { id: 20260525003, date: "May 25, 2026", dateValue: "2026-05-25", text: "Tamil Nadu Transport Minister ordered the mandatory installation of Vehicle Location Tracking Devices (VLTDs) in all public vehicles across the state to enhance passenger safety.", source: "Source: ETAuto / Times of India", color: "#00C9A7" }
-  , {
+  { id: 20260525003, date: "May 25, 2026", dateValue: "2026-05-25", text: "Tamil Nadu Transport Minister ordered the mandatory installation of Vehicle Location Tracking Devices (VLTDs) in all public vehicles across the state to enhance passenger safety.", source: "Source: ETAuto / Times of India", color: "#00C9A7" },
+  { id: 20260525004, date: "May 25, 2026", dateValue: "2026-05-25", text: "CM Vijay amends Tamil Nadu Cinemas (Regulation) Rules, 1957 — all theatres may now screen five shows per day for newly released Tamil films in their first seven days. Five daily shows also permitted on weekends, public holidays, and local festival days without requiring separate government or police approval.", source: "Source: The Statesman / India Today / Moneycontrol", color: "#FFB800" },
+  {
     "id": 20260526003,
     "date": "May 26, 2026",
     "dateValue": "2026-05-26",
@@ -118,5 +119,19 @@ export const newsFeed: FeedItem[] = [
     "color": "#FF4500",
     "highlight": false
   },
-
+  { id: 20260527001, date: "May 27, 2026", dateValue: "2026-05-27", text: "CM Vijay arrives in New Delhi for his first official visit as Chief Minister — meets PM Narendra Modi at 4:30 PM and presents a state memorandum covering pending central funds for welfare schemes, infrastructure project clearances, Cauvery water dispute, and request to reject Karnataka's Mekedatu dam DPR. Also scheduled to call on President Droupadi Murmu and meet Congress leadership.", source: "Source: The Print / Hindustan Times / ETV Bharat / CMO", color: "#1A73E8", highlight: true },
+  { id: 20260527002, date: "May 27, 2026", dateValue: "2026-05-27", text: "CM Vijay writes to PM Modi urging rejection of Karnataka's Detailed Project Report (DPR) for the Mekedatu dam — calls it a 'clear violation' of Supreme Court judgments protecting Tamil Nadu's Cauvery water rights.", source: "Source: New Indian Express / Times of India", color: "#FF4757" },
+  { id: 20260527003, date: "May 27, 2026", dateValue: "2026-05-27", text: "4 AIADMK MLAs — K. Maragatham, D. Jayakumar, V. Sathyabama, and Esakki Subaya — formally resign from the Assembly and join TVK. AIADMK's strength falls to 43 seats. EPS petitions Speaker to reject resignations citing pending anti-defection proceedings; DMK alleges horse-trading.", source: "Source: News18 / The Hindu Business Line / ABP Live / CNBCTV18", color: "#FFB800" },
+  { id: 20260527004, date: "May 27, 2026", dateValue: "2026-05-27", text: "CM Vijay orders swift, stringent police action in sexual assault cases following public outrage over the Coimbatore minor's case — directs DGP to ensure fast-track investigation and prosecution in all such cases across Tamil Nadu.", source: "Source: Rediff News / CMO Press Release", color: "#FF4757" },
+  { id: 20260527005, date: "May 27, 2026", dateValue: "2026-05-27", text: "CM Vijay announces crop loan waiver up to ₹50,000 for small and marginal farmers who borrowed from cooperative banks between May 2025 and February 2026 — over 14.22 lakh farmers to benefit; state exchequer to absorb ₹2,044 crore.", source: "Source: Deccan Chronicle / Daily Prabhat", color: "#00C9A7" },
+  { id: 20260527006, date: "May 27, 2026", dateValue: "2026-05-27", text: "Chief Minister Vijay received at Tamil Nadu House in New Delhi by senior officials and accorded a ceremonial guard of honour ahead of his official meetings with PM Modi, President Murmu, and Union Ministers.", source: "Source: CMO Press Release", color: "#FF6B00", highlight: true },
+  { id: 20260527007, date: "May 27, 2026", dateValue: "2026-05-27", text: "Chief Minister Vijay extends greetings to the people of Tamil Nadu on the occasion of Bakrid (Eid al-Adha).", source: "Source: CMO Press Release No. 107", color: "#00C9A7" },
+  { id: 20260527008, date: "May 27, 2026", dateValue: "2026-05-27", text: "Minister for AI, Information Technology and Digital Services R. Kumar inspected operations of the TACTV (Tamil Arasu Cable TV) head control room in Chennai.", source: "Source: CMO Press Release", color: "#7C3AED" },
+  { id: 20260527009, date: "May 27, 2026", dateValue: "2026-05-27", text: "Minister for Rural Development and Water Resources chaired a review meeting on key schemes implemented by the Rural Development and Panchayat Raj Department.", source: "Source: CMO Press Release No. 112", color: "#00C9A7" },
+  { id: 20260527010, date: "May 27, 2026", dateValue: "2026-05-27", text: "Minister for Energy Resources and Law chaired a review meeting on Law department activities.", source: "Source: CMO Press Release No. 111", color: "#FF4757" },
+  { id: 20260527011, date: "May 27, 2026", dateValue: "2026-05-27", text: "Minister for Tourism chaired a review meeting on Tourism Department and Tamil Nadu Tourism Development Corporation (TTDC) activities.", source: "Source: CMO Press Release No. 110", color: "#00C9A7" },
+  { id: 20260527012, date: "May 27, 2026", dateValue: "2026-05-27", text: "Minister for School Education, Tamil Development, Information and Publicity inspected construction works of the Bharat Scouts and Guides Headquarters building in Chennai, and appreciated the talents of students in Cuddalore district.", source: "Source: CMO Press Release No. 109", color: "#FFB800" },
+  { id: 20260527013, date: "May 27, 2026", dateValue: "2026-05-27", text: "Minister for Milk and Dairy Development chaired a review meeting on department activities and schemes.", source: "Source: CMO Press Release No. 108", color: "#FFB800" },
+  { id: 20260527014, date: "May 27, 2026", dateValue: "2026-05-27", text: "Minister for Public Works and Sports Development provided financial assistance to chess player Vaishali to participate in International Chess Tournaments.", source: "Source: CMO Press Release No. 106", color: "#FF4757" },
+  { id: 20260527015, date: "May 27, 2026", dateValue: "2026-05-27", text: "Minister for Natural Resources T.K. Prabhu personally inspected quarry sites at Puliyooran village in Aruppukottai taluk, Virudhunagar district, continuing the government's crackdown on illegal mining operations.", source: "Source: CMO Press Release No. 105", color: "#FF4500" },
 ];
