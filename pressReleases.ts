@@ -1907,6 +1907,39 @@ export const pressReleases: PressRelease[] = [
     summary: "The Natural Resources Minister T.K. Prabhu personally inspected quarry sites at Puliyooran village in Aruppukottai taluk, Virudhunagar district, as part of the government's ongoing crackdown on illegal and violating quarry operations.",
     imageUrls: [],
     pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr270526_105.pdf"]
+  },
+  {
+    id: 20260527011,
+    dept: ["Agriculture"],
+    date: "May 27, 2026",
+    dateValue: "2026-05-27",
+    title: "Honble Minister for Agriculture and Farmers Welfare inspected Semmozhi Poonga and Kalaignar Centenary Park in Chennai",
+    summary: "The Agriculture and Farmers Welfare Minister inspected Semmozhi Poonga and Kalaignar Centenary Park in Chennai, reviewing horticulture maintenance and public green space upkeep.",
+    imageUrls: [
+      "https://cms.tn.gov.in/cms_migrated/document/press_release/pr270526_agri1.jpg",
+      "https://cms.tn.gov.in/cms_migrated/document/press_release/pr270526_agri2.jpg"
+    ],
+    pdfUrls: []
+  },
+  {
+    id: 20260527012,
+    dept: ["Public Works & Sports Dept", "Education"],
+    date: "May 27, 2026",
+    dateValue: "2026-05-27",
+    title: "Honble Ministers for Public Works and Sports Development and School Education, Tamil Development, Information and Publicity chaired review meeting on joint scientific training initiatives for student well-being and drug abuse prevention",
+    summary: "The Ministers for Public Works and Sports Development and for School Education, Tamil Development, Information and Publicity jointly chaired a review meeting on scientific training initiatives aimed at student well-being and drug abuse prevention.",
+    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr270526_pwsd2.jpeg"],
+    pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr270526_114.pdf"]
+  },
+  {
+    id: 20260527013,
+    dept: ["Industries Dept"],
+    date: "May 27, 2026",
+    dateValue: "2026-05-27",
+    title: "Honble Minister for Industries, Investment Promotion and Commerce chaired review meeting on the activities of Tamil Nadu Cements Corporation and Guidance of Tamil Nadu",
+    summary: "The Industries, Investment Promotion and Commerce Minister chaired a review meeting on the activities of Tamil Nadu Cements Corporation and the Guidance of Tamil Nadu investment facilitation body, assessing operational performance and investor outreach.",
+    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr270526_indu.jpeg"],
+    pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr270526_113.pdf"]
   }
 
 ];
