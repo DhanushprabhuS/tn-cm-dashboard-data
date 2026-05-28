@@ -33,4 +33,5 @@ export const tickerItems: TickerItem[] = [
   { id: 20260527001, tag: "DELHI",       tagIcon: "✈️", text: "May 27: CM Vijay in New Delhi — meets PM Modi at 4:30 PM; presents state memorandum on funds, welfare schemes, Cauvery & Mekedatu" },
   { id: 20260527002, tag: "ASSEMBLY",    tagIcon: "🗳️", text: "4 AIADMK MLAs (Maragatham, Jayakumar, Sathyabama, Esakki Subaya) join TVK — AIADMK strength falls to 43 seats" },
   { id: 20260527003, tag: "FARMERS",     tagIcon: "🌾", text: "Crop loan waiver up to ₹50,000 — 14.22 lakh small & marginal farmers to benefit; TN govt absorbs ₹2,044 crore" },
+  { id: 20260528001, tag: "DELHI",       tagIcon: "✈️", text: "CM Vijay returns to Chennai after maiden Delhi visit — met PM Modi & FM Sitharaman; raised Mekedatu, fishermen, Tamil Thai Vazhthu" },
 ];

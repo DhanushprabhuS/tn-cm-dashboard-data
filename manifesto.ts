@@ -29,6 +29,6 @@ export const manifesto: ManifestoPromise[] = [
   { id: 20260510006, icon: "🏥",  title: "Family Health Insurance",amount: "₹25 Lakh",     status: "⏳ Announced, pending rollout", progress: "5%",   color: "var(--gold)"    },
   { id: 20260510007, icon: "🎓",  title: "Education Dropout Aid",  amount: "₹15,000/yr",   status: "⏳ Pending implementation",     progress: "5%",   color: "var(--gold)"    },
   { id: 20260510008, icon: "👴",  title: "Senior Citizen Pension", amount: "₹3,000/mo",    status: "⏳ Pending rollout",            progress: "5%",   color: "var(--gold)"    },
-  { id: 20260510009, icon: "🌾",  title: "Crop Loan Waiver",       amount: "Small Farmers", status: "⏳ Pending partilay done",                  progress: "50%",   color: "var(--gold)"    },
+  { id: 20260510009, icon: "🌾",  title: "Crop Loan Waiver",       amount: "Small Farmers", status: "⏳ Budget allocated — May 27",            progress: "60%",   color: "var(--gold)"    },
   { id: 20260521001, icon: "🤖",  title: "AI & IT Department",     amount: "Dedicated Ministry", status: "✅ Established — May 21",   progress: "100%", color: "var(--saffron)" },
 ];

@@ -1940,6 +1940,116 @@ export const pressReleases: PressRelease[] = [
     summary: "The Industries, Investment Promotion and Commerce Minister chaired a review meeting on the activities of Tamil Nadu Cements Corporation and the Guidance of Tamil Nadu investment facilitation body, assessing operational performance and investor outreach.",
     imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr270526_indu.jpeg"],
     pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr270526_113.pdf"]
+  },
+  {
+    id: 20260527014,
+    dept: ["CMO"],
+    date: "May 27, 2026",
+    dateValue: "2026-05-27",
+    title: "Honble Chief Minister called on and held discussions with the Honble Prime Minister of India in New Delhi",
+    summary: "Chief Minister Vijay called on Prime Minister Narendra Modi at Seva Teerth in New Delhi and held discussions on key Tamil Nadu priorities including the Mekedatu dam, Tamil fishermen, Tamil Thai Vazhthu, pending central funds, and DRDO project allocations.",
+    imageUrls: [],
+    pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr270526_115.pdf"]
+  },
+  {
+    id: 20260527015,
+    dept: ["CMO", "Finance Dept"],
+    date: "May 27, 2026",
+    dateValue: "2026-05-27",
+    title: "Honble Chief Minister called on and held discussions with the Honble Union Minister of Finance in New Delhi",
+    summary: "Chief Minister Vijay met Union Finance Minister Nirmala Sitharaman in New Delhi and discussed pending central funds for Tamil Nadu's welfare schemes, state infrastructure projects, and fiscal support requests.",
+    imageUrls: [],
+    pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr270526_116.pdf"]
+  },
+  {
+    id: 20260527016,
+    dept: ["Energy Dept"],
+    date: "May 27, 2026",
+    dateValue: "2026-05-27",
+    title: "Honble Minister for Energy Resources and Law visited the families of lightning strike victims and presented them with relief cheques under the State Disaster Response Fund",
+    summary: "The Minister for Energy Resources and Law visited the families of lightning strike victims and distributed relief cheques under the State Disaster Response Fund (SDRF), offering condolences and financial assistance to the affected families.",
+    imageUrls: [],
+    pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr270526_117.pdf"]
+  },
+  {
+    id: 20260527017,
+    dept: ["Housing"],
+    date: "May 27, 2026",
+    dateValue: "2026-05-27",
+    title: "Honble Minister for Housing and Urban Development chaired review meeting on various ongoing development works undertaken by the Housing and Urban Development Department",
+    summary: "The Housing and Urban Development Minister chaired a review of ongoing development works by the department, covering TNHB projects, urban housing scheme progress, and infrastructure development across Tamil Nadu.",
+    imageUrls: [],
+    pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr270526_118.pdf"]
+  },
+  {
+    id: 20260527018,
+    dept: ["CMO"],
+    date: "May 27, 2026",
+    dateValue: "2026-05-27",
+    title: "Text of the letter of the Honble Chief Minister addressed to the Honble Prime Minister of India regarding Tamil Thai Vazhthu",
+    summary: "Chief Minister Vijay&apos;s formal letter to PM Modi requesting Central Government clarification that Tamil Thai Vazhthu may be rendered before Vande Mataram at all Tamil Nadu state government events, resolving a longstanding protocol dispute.",
+    imageUrls: [],
+    pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr270526_119.pdf"]
+  },
+  {
+    id: 20260527019,
+    dept: ["Transport"],
+    date: "May 27, 2026",
+    dateValue: "2026-05-27",
+    title: "As per the orders of the Honble Chief Minister, the Honble Minister for Transport conducted a review meeting at the Secretariat on the functioning of the Tamil Nadu State Transport Corporations",
+    summary: "The Transport Minister conducted a Secretariat review meeting on the functioning of Tamil Nadu State Transport Corporations (TNSTC), covering operational performance, route rationalisation, revenue generation, and passenger safety improvements.",
+    imageUrls: [],
+    pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr270526_120.pdf"]
+  },
+  {
+    id: 20260527020,
+    dept: ["Forests"],
+    date: "May 27, 2026",
+    dateValue: "2026-05-27",
+    title: "A regional level review meeting of the Forest Department was held under the chairmanship of the Honble Minister for Forests",
+    summary: "The Forests Minister chaired a regional-level review meeting of the Forest Department, assessing forest conservation programmes, wildlife protection, anti-encroachment drives, and departmental scheme implementation across regions.",
+    imageUrls: [],
+    pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr270526_121.pdf"]
+  },
+  {
+    id: 20260527021,
+    dept: ["Finance Dept"],
+    date: "May 27, 2026",
+    dateValue: "2026-05-27",
+    title: "From Finance (Ways and Means-II) Department",
+    summary: "Official press release from the Finance (Ways and Means-II) Department on state treasury and fiscal management matters.",
+    imageUrls: [],
+    pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr270526_122.pdf"]
+  },
+  {
+    id: 20260527022,
+    dept: ["AI & IT"],
+    date: "May 27, 2026",
+    dateValue: "2026-05-27",
+    title: "Honble Minister for Artificial Intelligence, Information Technology and Digital Services chaired a meeting on the functioning and the future plans of iTNT Hub",
+    summary: "The AI, IT and Digital Services Minister R. Kumar chaired a review meeting on the functioning and future plans of iTNT Hub — Tamil Nadu&apos;s IT and innovation startup ecosystem, covering incubatee performance, funding, and expansion goals.",
+    imageUrls: [],
+    pdfUrls: []
+  },
+  {
+    id: 20260527023,
+    dept: ["Education"],
+    date: "May 27, 2026",
+    dateValue: "2026-05-27",
+    title: "Thiru S. Karthigaichelvan, Chief News Editor, News18 Tamil Nadu Television called on the Honble Minister for School Education, Tamil Development, Information and Publicity",
+    summary: "Thiru S. Karthigaichelvan, Chief News Editor of News18 Tamil Nadu Television, paid a courtesy call on the School Education, Tamil Development, Information and Publicity Minister.",
+    imageUrls: [],
+    pdfUrls: []
+  },
+  {
+    id: 20260528001,
+    dept: ["CMO"],
+    date: "May 28, 2026",
+    dateValue: "2026-05-28",
+    title: "Honble Chief Minister was extended warm send off at Tamil Nadu House, New Delhi with the ceremonial guard of honour",
+    summary: "Chief Minister Vijay was accorded a warm send-off with a ceremonial guard of honour at Tamil Nadu House, New Delhi, as he concluded his maiden official Delhi visit and returned to Chennai.",
+    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr280526a.jpg"],
+    pdfUrls: []
   }
 
 ];
