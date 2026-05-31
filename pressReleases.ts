@@ -2050,6 +2050,217 @@ export const pressReleases: PressRelease[] = [
     summary: "Chief Minister Vijay was accorded a warm send-off with a ceremonial guard of honour at Tamil Nadu House, New Delhi, as he concluded his maiden official Delhi visit and returned to Chennai.",
     imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr280526a.jpg"],
     pdfUrls: []
+  },
+  {
+    id: 20260529001,
+    dept: ["CMO"],
+    date: "May 29, 2026",
+    dateValue: "2026-05-29",
+    title: "State Chief Information Commissioner and State Information Commissioners called on the Honble Chief Minister",
+    summary: "The State Chief Information Commissioner and State Information Commissioners paid a courtesy call on Chief Minister Vijay at the Secretariat.",
+    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr290526_cm1.jpg"],
+    pdfUrls: []
+  },
+  {
+    id: 20260529002,
+    dept: ["CMO"],
+    date: "May 29, 2026",
+    dateValue: "2026-05-29",
+    title: "Chairman (Automotive Business) of Mahindra and Mahindra called on the Honble Chief Minister",
+    summary: "The Chairman (Automotive Business) of Mahindra and Mahindra met Chief Minister Vijay to discuss automotive sector growth and potential investment opportunities in Tamil Nadu.",
+    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr290526_cm2.jpg"],
+    pdfUrls: [],
+    highlight: true
+  },
+  {
+    id: 20260529003,
+    dept: ["CMO"],
+    date: "May 29, 2026",
+    dateValue: "2026-05-29",
+    title: "CEO, Managing Director and Head – Human Resources of Saint-Gobain India Private Limited called on the Honble Chief Minister",
+    summary: "Top executives from Saint-Gobain India met Chief Minister Vijay at the Secretariat to discuss their ongoing projects and future expansion plans in the state.",
+    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr290526_cm3.jpg"],
+    pdfUrls: [],
+    highlight: true
+  },
+  {
+    id: 20260529004,
+    dept: ["Education"],
+    date: "May 29, 2026",
+    dateValue: "2026-05-29",
+    title: "Managing Director of DCCL, Director of News Tamil, Associate Editor and Chief Reporter called on the Honble Minister for School Education",
+    summary: "Senior media representatives from News Tamil and DCCL paid a courtesy call on the Minister for School Education, Tamil Development, Information and Publicity.",
+    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr290526e.jpg"],
+    pdfUrls: []
+  },
+  {
+    id: 20260529005,
+    dept: ["Education"],
+    date: "May 29, 2026",
+    dateValue: "2026-05-29",
+    title: "Honble Minister for School Education inaugurated student admissions for the academic year 2026–2027 and distributed educational materials",
+    summary: "Minister for School Education inaugurated the 2026-27 student admissions and distributed educational materials at Dhanakoti Middle School, Chintadripet, Chennai.",
+    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr290526f.jpg", "https://cms.tn.gov.in/cms_migrated/document/press_release/pr290526g.jpg", "https://cms.tn.gov.in/cms_migrated/document/press_release/pr290526h.jpg"],
+    pdfUrls: []
+  },
+  {
+    id: 20260529006,
+    dept: ["AI & IT"],
+    date: "May 29, 2026",
+    dateValue: "2026-05-29",
+    title: "Honble Minister for AI and IT chaired a review meeting on the activities and future plans of the ITNT Hub at Anna University",
+    summary: "The Minister for Artificial Intelligence and Information Technology chaired a review of the ITNT Hub at Anna University, focusing on startup incubation and future innovation goals.",
+    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr290526i.jpg"],
+    pdfUrls: []
+  },
+  {
+    id: 20260529007,
+    dept: ["Public Works"],
+    date: "May 29, 2026",
+    dateValue: "2026-05-29",
+    title: "Honble Minister for Public Works and Sports Development chaired meeting on sustainable value-capture financing models for highways",
+    summary: "The PWD and Sports Development Minister chaired a meeting on developing world-class highways using sustainable value-capture financing models.",
+    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr290526_pwsd_3.JPG"],
+    pdfUrls: []
+  },
+  {
+    id: 20260529008,
+    dept: ["AI & IT"],
+    date: "May 29, 2026",
+    dateValue: "2026-05-29",
+    title: "Honble Minister for AI and IT chaired review meeting on Tamil Nadu Virtual Academy activities",
+    summary: "The Minister for Artificial Intelligence and Information Technology reviewed the activities and future plans of the Tamil Nadu Virtual Academy.",
+    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr290526_it.jpg"],
+    pdfUrls: []
+  },
+  {
+    id: 20260529009,
+    dept: ["Transport"],
+    date: "May 29, 2026",
+    dateValue: "2026-05-29",
+    title: "Honble Minister for Transport informed goods vehicle operators to use Tamil Nadu Suraksha Mitra Portal",
+    summary: "The Transport Minister directed national permit goods vehicle operators to utilize the Tamil Nadu Suraksha Mitra Portal for tracking device approvals.",
+    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr290526_transport.jpg"],
+    pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr290526_133.pdf"]
+  },
+  {
+    id: 20260529010,
+    dept: ["Transport"],
+    date: "May 29, 2026",
+    dateValue: "2026-05-29",
+    title: "Honble Minister for Transport announced free bus travel for students from school reopening day",
+    summary: "The Transport Minister announced that free bus travel for students will be available starting from the day schools reopen for the new academic year.",
+    imageUrls: [],
+    pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr290526_132.pdf"]
+  },
+  {
+    id: 20260529011,
+    dept: ["Education"],
+    date: "May 29, 2026",
+    dateValue: "2026-05-29",
+    title: "World Tamil Research Institute – Applications invited for 2026 admissions to Postgraduate Tamil Programmes",
+    summary: "The World Tamil Research Institute has invited applications for its 2026 postgraduate Tamil programmes.",
+    imageUrls: [],
+    pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr290526_131.pdf"]
+  },
+  {
+    id: 20260529012,
+    dept: ["Agriculture"],
+    date: "May 29, 2026",
+    dateValue: "2026-05-29",
+    title: "Honble Minister for Agriculture addressed the Kharif Campaign 2026 – National Agriculture Conference in New Delhi",
+    summary: "The Agriculture Minister participated in and addressed the Kharif Campaign 2026 National Agriculture Conference held in New Delhi.",
+    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr290526_agri1.jpg", "https://cms.tn.gov.in/cms_migrated/document/press_release/pr290526_agri2.JPG", "https://cms.tn.gov.in/cms_migrated/document/press_release/pr290526_agri3.JPG"],
+    pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr290526_e_130.pdf", "https://cms.tn.gov.in/cms_migrated/document/press_release/pr290526_t_130.pdf"]
+  },
+  {
+    id: 20260529013,
+    dept: ["Natural Resources"],
+    date: "May 29, 2026",
+    dateValue: "2026-05-29",
+    title: "Honble Minister for Natural Resources orders Statewide inspection of quarries and enforcement action",
+    summary: "The Natural Resources Minister ordered a comprehensive statewide inspection of quarries to enforce mining regulations and take action against violators.",
+    imageUrls: [],
+    pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr290526_129.pdf"]
+  },
+  {
+    id: 20260529014,
+    dept: ["Health"],
+    date: "May 29, 2026",
+    dateValue: "2026-05-29",
+    title: "From the Commissioner for the Welfare of Persons with Disabilities",
+    summary: "Official release regarding welfare initiatives for persons with disabilities.",
+    imageUrls: [],
+    pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr290526_128.pdf"]
+  },
+  {
+    id: 20260529015,
+    dept: ["Education"],
+    date: "May 29, 2026",
+    dateValue: "2026-05-29",
+    title: "Minister for Higher Education announced reopening of online portal for Government Arts and Science College admissions",
+    summary: "The Higher Education Minister announced that the online application portal for Government Arts and Science College admissions will reopen on June 1st, 2026.",
+    imageUrls: [],
+    pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr290526_127.pdf"]
+  },
+  {
+    id: 20260529016,
+    dept: ["Health", "Water Resources"],
+    date: "May 29, 2026",
+    dateValue: "2026-05-29",
+    title: "Honble Minister for Rural Development and Water Resources inspected construction of Urban Primary Health Centre in Kodambakkam",
+    summary: "The Minister for Rural Development and Water Resources inspected the ongoing construction of an Urban Primary Health Centre in Kodambakkam.",
+    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr290526_rd.jpg"],
+    pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr290526_126.pdf"]
+  },
+  {
+    id: 20260529017,
+    dept: ["Electricity"],
+    date: "May 29, 2026",
+    dateValue: "2026-05-29",
+    title: "Honble Minister for Energy Resources and Law distributed appointment orders to 50 persons",
+    summary: "The Energy Resources and Law Minister distributed appointment orders to 45 Assistant Pleaders and 5 Treasurers for Government Law Colleges.",
+    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr290526a.jpg", "https://cms.tn.gov.in/cms_migrated/document/press_release/pr290526b.jpg", "https://cms.tn.gov.in/cms_migrated/document/press_release/pr290526c.jpg", "https://cms.tn.gov.in/cms_migrated/document/press_release/pr290526d.jpg"],
+    pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr290526_125.pdf"]
+  },
+  {
+    id: 20260529018,
+    dept: ["CMO", "Public Works"],
+    date: "May 29, 2026",
+    dateValue: "2026-05-29",
+    title: "Honble Minister for Public Works and Sports Development distributed allotment orders to 495 SDAT hostel students",
+    summary: "As directed by the Chief Minister, the PWD and Sports Development Minister distributed allotment orders to 495 students enrolled in SDAT hostels.",
+    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr290526_pwsd1.jpg", "https://cms.tn.gov.in/cms_migrated/document/press_release/pr290526_pwsd2.jpg"],
+    pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr290526_124.pdf"]
+  },
+  {
+    id: 20260530001,
+    dept: ["Water Resources"],
+    date: "May 30, 2026",
+    dateValue: "2026-05-30",
+    title: "Release of water from Papanasam, Servalar and Manimuthar Reservoirs for irrigation",
+    summary: "Water Resources Department announced the release of water from Papanasam, Servalar, and Manimuthar reservoirs to support irrigation needs.",
+    imageUrls: [],
+    pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr300526_136.pdf"]
+  },
+  {
+    id: 20260530002,
+    dept: ["Water Resources"],
+    date: "May 30, 2026",
+    dateValue: "2026-05-30",
+    title: "Release of water from Pechiparai, Perunchani and Chittar dams for irrigation in Kanniyakumari",
+    summary: "Water from Pechiparai, Perunchani, and Chittar dams has been released for irrigation in the Kanniyakumari district.",
+    imageUrls: [],
+    pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr300526_135.pdf"]
+  },
+  {
+    id: 20260530003,
+    dept: ["CMO"],
+    date: "May 30, 2026",
+    dateValue: "2026-05-30",
+    title: "Condolence message from the Honble Chief Minister on the demise of Tmt Mohini Ammaiyar",
+    summary: "Chief Minister Vijay expressed his condolences on the passing of Tmt Mohini Ammaiyar, the mother of actor Ajith Kumar.",
+    imageUrls: [],
+    pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr300526_134.pdf"]
   }
-
 ];
