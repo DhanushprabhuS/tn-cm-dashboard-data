@@ -1,6 +1,6 @@
 /**
  * schemes.ts — Government Orders (GOs) and Active Schemes.
- * Agent Last Updated: May 22, 2026
+ * Agent Last Updated: June 01, 2026
  *
  * HOW TO UPDATE:
  *   - Append new entries at the bottom with a new id (YYYYMMDD###).
@@ -155,4 +155,15 @@ export const schemes: Scheme[] = [
   dateValue: "2026-05-25",
   color: "#16a34a"
 },
+{
+  id: 20260601001,
+  tag: "GO · JUNE 1",
+  name: "🚚 Thayumanavar Scheme — Doorstep PDS Delivery",
+  status: "ACTIVE",
+  statusClass: "",
+  desc: "A flagship welfare scheme ensuring doorstep delivery of essential PDS commodities to eligible beneficiaries. The scheme aims to improve accessibility and convenience for senior citizens and differently-abled persons. Doorstep delivery for the month of June scheduled for June 2nd and 3rd.",
+  date: "Announced: June 01, 2026 · Civil Supplies & Consumer Protection Dept",
+  dateValue: "2026-06-01",
+  color: "#00C9A7"
+}
 ];

@@ -1,6 +1,6 @@
 /**
  * newsFeed.ts — Live updates feed (meetings, statements, CMO releases).
- * Agent Last Updated: May 27, 2026
+ * Agent Last Updated: June 01, 2026
  *
  * HOW TO UPDATE:
  *   - Append new entries at the bottom with a new id (YYYYMMDD###).
@@ -150,4 +150,36 @@ export const newsFeed: FeedItem[] = [
   { id: 20260530001, date: "May 30, 2026", dateValue: "2026-05-30", text: "Water Resources Department ordered the release of water from Papanasam, Servalar, Manimuthar, and Kanniyakumari district dams for the benefit of farmers during the irrigation season.", source: "Source: CMO Press Release", color: "#FF6B00" },
   { id: 20260530002, date: "May 30, 2026", dateValue: "2026-05-30", text: "Chief Minister Vijay expressed profound grief and extended condolences to actor Ajith Kumar on the passing of his mother, Tmt Mohini Ammaiyar.", source: "Source: CMO Press Release", color: "#FF4757" },
   { id: 20260531001, date: "May 31, 2026", dateValue: "2026-05-31", text: "Chief Minister Vijay scheduled to visit Tiruchirappalli on June 1 for his first public address since assuming office, to thank voters for his election victory.", source: "Source: The Hindu BusinessLine / Times of India", color: "#1A73E8", highlight: true },
+  {
+    id: 20260601001,
+    date: "June 01, 2026",
+    dateValue: "2026-06-01",
+    text: "CM Vijay paid floral tributes to freedom fighter Anjalai Ammal on her 137th birth anniversary.",
+    source: "Source: CMO Press Release",
+    color: "#FF6B00"
+  },
+  {
+    id: 20260601002,
+    date: "June 01, 2026",
+    dateValue: "2026-06-01",
+    text: "CM Vijay congratulated Tmt. Venkita Subramani Mohana on her appointment as Supreme Court Judge via social media.",
+    source: "Source: CMO Press Release",
+    color: "#FF6B00"
+  },
+  {
+    id: 20260601003,
+    date: "June 01, 2026",
+    dateValue: "2026-06-01",
+    text: "Thayumanavar Scheme: Doorstep delivery of PDS commodities announced for June 2nd and 3rd for eligible beneficiaries.",
+    source: "Source: TN Government Press Release",
+    color: "#00C9A7"
+  },
+  {
+    id: 20260601004,
+    date: "June 01, 2026",
+    dateValue: "2026-06-01",
+    text: "Higher Education Minister announced 3,570 new seats and three new courses in Polytechnic Colleges for the 2026-27 academic year.",
+    source: "Source: CMO Press Release",
+    color: "#FFB800"
+  }
 ];

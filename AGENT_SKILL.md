@@ -46,7 +46,7 @@ Before searching anything, read the last updated date from the data files to avo
 4. All searches below should look for content AFTER this date
 ```
 
-**Current last entry as of this writing:** `id: 20260516006`, `date: "May 16, 2026"`
+**Current last entry as of this writing:** `id: 20260601009`, `date: "June 01, 2026"`
 
 > ⚠️ Never add entries with dates earlier than the last entry's date in pressReleases.ts — those already exist.
 

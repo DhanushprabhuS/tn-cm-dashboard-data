@@ -2262,5 +2262,95 @@ export const pressReleases: PressRelease[] = [
     summary: "Chief Minister Vijay expressed his condolences on the passing of Tmt Mohini Ammaiyar, the mother of actor Ajith Kumar.",
     imageUrls: [],
     pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr300526_134.pdf"]
+  },
+  {
+    id: 20260601001,
+    dept: ["Energy Dept"],
+    date: "June 01, 2026",
+    dateValue: "2026-06-01",
+    title: "Newly appointed Senior Officials called on the Honble Minister for Energy Resources and Law",
+    summary: "The newly appointed senior officials of the Energy and Law departments met with the Minister for Energy Resources and Law.",
+    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr010626_enrgy1.jpg", "https://cms.tn.gov.in/cms_migrated/document/press_release/pr010626_enrgy2.jpg", "https://cms.tn.gov.in/cms_migrated/document/press_release/pr010626_enrgy3.jpg"],
+    pdfUrls: []
+  },
+  {
+    id: 20260601002,
+    dept: ["Govt of TN"],
+    date: "June 01, 2026",
+    dateValue: "2026-06-01",
+    title: "Honble Minister for Social Justice chaired review meeting on Adi Dravidar Welfare Department schemes and projects",
+    summary: "A review meeting was held to assess the progress of schemes and projects under the Adi Dravidar and Tribal Welfare Department.",
+    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr010626_sj.jpg"],
+    pdfUrls: []
+  },
+  {
+    id: 20260601003,
+    dept: ["Tamil Development & Info Dept"],
+    date: "June 01, 2026",
+    dateValue: "2026-06-01",
+    title: "Honble Minister for Artificial Intelligence, Information Technology and Digital Services inspected IIT Madras Research Park",
+    summary: "The Minister for AI, IT and Digital Services reviewed the role of IIT Madras Research Park in innovation and startup development.",
+    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr010626_it1.jpg", "https://cms.tn.gov.in/cms_migrated/document/press_release/pr010626_it2.jpg"],
+    pdfUrls: []
+  },
+  {
+    id: 20260601004,
+    dept: ["School Education Dept"],
+    date: "June 01, 2026",
+    dateValue: "2026-06-01",
+    title: "Honble Minister for Higher Education announced three new courses and 3,570 additional seats in Polytechnic Colleges",
+    summary: "The Higher Education Minister announced the introduction of three new courses and an increase of 3,570 seats in Polytechnic Colleges for the academic year 2026-27.",
+    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr010626_hedu.jpg"],
+    pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr010626_143.pdf"]
+  },
+  {
+    id: 20260601005,
+    dept: ["Govt of TN"],
+    date: "June 01, 2026",
+    dateValue: "2026-06-01",
+    title: "EDII-TN training programme on You Too Can Be an Entrepreneur - English Version",
+    summary: "Entrepreneurship Development and Innovation Institute (EDII-TN) announced a five-day training programme for aspiring entrepreneurs.",
+    imageUrls: [],
+    pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr010626_e_142.pdf"]
+  },
+  {
+    id: 20260601006,
+    dept: ["Govt of TN"],
+    date: "June 01, 2026",
+    dateValue: "2026-06-01",
+    title: "EDII-TN training programme on You Too Can Be an Entrepreneur - Tamil Version",
+    summary: "The Tamil version of the five-day entrepreneurship training programme was announced by EDII-TN.",
+    imageUrls: [],
+    pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr010626_t_142.pdf"]
+  },
+  {
+    id: 20260601007,
+    dept: ["CMO"],
+    date: "June 01, 2026",
+    dateValue: "2026-06-01",
+    title: "Honble Chief Minister paid floral tribute to freedom fighter Anjalai Ammal on her 137th birth anniversary",
+    summary: "Chief Minister Vijay paid his respects to the late freedom fighter Anjalai Ammal on the occasion of her 137th birth anniversary.",
+    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr010626a.jpg"],
+    pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr010626_141.pdf"]
+  },
+  {
+    id: 20260601008,
+    dept: ["Govt of TN"],
+    date: "June 01, 2026",
+    dateValue: "2026-06-01",
+    title: "Thayumanavar Scheme - Doorstep delivery of PDS commodities on 2nd and 3rd June 2026",
+    summary: "Announcement regarding the doorstep delivery of PDS commodities under the Thayumanavar Scheme for eligible beneficiaries on June 2nd and 3rd.",
+    imageUrls: [],
+    pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr010626_140.pdf"]
+  },
+  {
+    id: 20260601009,
+    dept: ["CMO"],
+    date: "June 01, 2026",
+    dateValue: "2026-06-01",
+    title: "Social media post of the Honble Chief Minister congratulating Tmt. Venkita Subramani Mohana on her appointment as Supreme Court Judge",
+    summary: "Chief Minister Vijay shared a social media message congratulating Tmt. Venkita Subramani Mohana on her elevation to the Supreme Court as a Judge.",
+    imageUrls: [],
+    pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr010626_139.pdf"]
   }
 ];

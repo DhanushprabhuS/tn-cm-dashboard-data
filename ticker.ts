@@ -1,6 +1,6 @@
 /**
  * ticker.ts — Breaking-news ticker items scrolling at the top of the dashboard.
- * Agent Last Updated: May 27, 2026
+ * Agent Last Updated: June 01, 2026
  *
  * HOW TO UPDATE:
  *   - Append new entries at the bottom with a new id (YYYYMMDD###).
@@ -34,4 +34,6 @@ export const tickerItems: TickerItem[] = [
   { id: 20260527002, tag: "ASSEMBLY",    tagIcon: "🗳️", text: "4 AIADMK MLAs (Maragatham, Jayakumar, Sathyabama, Esakki Subaya) join TVK — AIADMK strength falls to 43 seats" },
   { id: 20260527003, tag: "FARMERS",     tagIcon: "🌾", text: "Crop loan waiver up to ₹50,000 — 14.22 lakh small & marginal farmers to benefit; TN govt absorbs ₹2,044 crore" },
   { id: 20260528001, tag: "DELHI",       tagIcon: "✈️", text: "CM Vijay returns to Chennai after maiden Delhi visit — met PM Modi & FM Sitharaman; raised Mekedatu, fishermen, Tamil Thai Vazhthu" },
+  { id: 20260601001, tag: "ORDER",     tagIcon: "📋", text: "Higher Education Dept announces 3,570 new seats in Polytechnic Colleges for 2026-27" },
+  { id: 20260601002, tag: "SCHEME",    tagIcon: "🚚", text: "Thayumanavar Scheme: Doorstep delivery of PDS commodities on June 2nd and 3rd" },
 ];
