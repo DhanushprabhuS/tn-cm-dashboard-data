@@ -2364,6 +2364,96 @@ export const pressReleases: PressRelease[] = [
     pdfUrls: []
   },
   {
+    id: 20260602002,
+    dept: ["CMO"],
+    date: "June 02, 2026",
+    dateValue: "2026-06-02",
+    title: "Member of Parliament P. Chidambaram called on the Honble Chief Minister",
+    summary: "Former Union Minister and MP P. Chidambaram met with Chief Minister Vijay at the Secretariat to discuss state and national administrative matters.",
+    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr020626a.jpg"],
+    pdfUrls: []
+  },
+  {
+    id: 20260602003,
+    dept: ["CMO"],
+    date: "June 02, 2026",
+    dateValue: "2026-06-02",
+    title: "General Officer Commanding, Dakshin Bharat Area, called on the Honble Chief Minister",
+    summary: "Major General rank officer commanding the Dakshin Bharat Area paid a courtesy call to the Chief Minister at the Secretariat.",
+    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr020626b.jpg"],
+    pdfUrls: []
+  },
+  {
+    id: 20260602004,
+    dept: ["CMO"],
+    date: "June 02, 2026",
+    dateValue: "2026-06-02",
+    title: "Chairman and Managing Director of LMW, called on the Honble Chief Minister",
+    summary: "The CMD of Lakshmi Machine Works (LMW) met with CM Vijay to discuss industrial development and manufacturing growth in the state.",
+    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr020626c.jpg"],
+    pdfUrls: []
+  },
+  {
+    id: 20260602005,
+    dept: ["Transport"],
+    date: "June 02, 2026",
+    dateValue: "2026-06-02",
+    title: "Representatives of Tamil Nadu Omni Bus Owners Association called on the Honble Chief Minister",
+    summary: "Representatives of the Omni Bus Owners Association met with the Chief Minister to discuss regulatory frameworks and sector challenges.",
+    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr020626d.jpg"],
+    pdfUrls: []
+  },
+  {
+    id: 20260602006,
+    dept: ["Adi Dravidar and Tribal Welfare"],
+    date: "June 02, 2026",
+    dateValue: "2026-06-02",
+    title: "Honble Minister for Social Justice chaired review meeting on tribal welfare department schemes and projects",
+    summary: "The Minister for Social Justice, Adi Dravidar and Tribal Welfare reviewed the progress of ongoing development schemes for tribal communities.",
+    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr020626_sj1.jpg"],
+    pdfUrls: []
+  },
+  {
+    id: 20260602007,
+    dept: ["AI & IT Dept"],
+    date: "June 02, 2026",
+    dateValue: "2026-06-02",
+    title: "Honble Minister for Artificial Intelligence, Information Technology and Digital Services inspected ICT Academy",
+    summary: "Minister R. Kumar inspected the ICT Academy and reviewed its skill development programs and employment generation initiatives for the youth.",
+    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr020626_ai1.jpg"],
+    pdfUrls: []
+  },
+  {
+    id: 20260602008,
+    dept: ["Public Works"],
+    date: "June 02, 2026",
+    dateValue: "2026-06-02",
+    title: "Honble Minister for Public Works and Sports Development presented Tamil Nadu’s road infrastructure proposals to the Union Minister for Road Transport and Highways",
+    summary: "Minister Aadhav Arjuna met Union Minister Nitin Gadkari in New Delhi to present proposals for key road infrastructure projects in Tamil Nadu.",
+    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr020626_pw1.jpg"],
+    pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr020626_156.pdf"]
+  },
+  {
+    id: 20260602009,
+    dept: ["Food and Civil Supplies"],
+    date: "June 02, 2026",
+    dateValue: "2026-06-02",
+    title: "Honble Minister for Food and Civil Supplies reviewed the functioning of the Tamil Nadu Food Commission",
+    summary: "The Food and Civil Supplies Minister reviewed the performance of the State Food Commission and measures to ensure food security.",
+    imageUrls: [],
+    pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr020626_155.pdf"]
+  },
+  {
+    id: 20260602010,
+    dept: ["CMO"],
+    date: "June 02, 2026",
+    dateValue: "2026-06-02",
+    title: "Birthday greetings of the Honble Chief Minister to Isaignani Ilaiyaraaja on his 83rd birthday",
+    summary: "Chief Minister Vijay extended warm birthday wishes to legendary music composer Isaignani Ilaiyaraaja, hailing his contribution to music and culture.",
+    imageUrls: [],
+    pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr020626_144.pdf"]
+  },
+  {
     id: 20260603001,
     dept: ["Education Dept", "Information & Publicity"],
     date: "June 03, 2026",
@@ -2372,5 +2462,67 @@ export const pressReleases: PressRelease[] = [
     summary: "On the occasion of the 103rd birth anniversary of Muthamizh Arignar Kalaignar, the Minister for School Education, Tamil Development, Information and Publicity paid floral tributes at his memorial.",
     imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr030626_sedu1.jpg"],
     pdfUrls: []
+  },
+  {
+    id: 20260603002,
+    dept: ["CMO"],
+    date: "June 03, 2026",
+    dateValue: "2026-06-03",
+    title: "Managing Director and Chief Executive Officer of Hyundai Motor India called on the Honble Chief Minister",
+    summary: "The MD and CEO of Hyundai Motor India met with CM Vijay at the Secretariat to discuss the company's continued operations and potential growth in the state's automotive sector.",
+    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr030626a.jpg"],
+    pdfUrls: [],
+    highlight: true
+  },
+  {
+    id: 20260603003,
+    dept: ["CMO"],
+    date: "June 03, 2026",
+    dateValue: "2026-06-03",
+    title: "Representatives of CODISSIA, COINTEC and CDIIC called on the Honble Chief Minister",
+    summary: "Representatives from Coimbatore-based industrial associations met with the Chief Minister to discuss MSME development and upcoming industrial exhibitions.",
+    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr030626b.jpg"],
+    pdfUrls: []
+  },
+  {
+    id: 20260603004,
+    dept: ["Education Dept", "Information & Publicity"],
+    date: "June 03, 2026",
+    dateValue: "2026-06-03",
+    title: "Representatives of Tamil News Readers Association called on the Honble Minister for School Education, Tamil Development, Information and Publicity",
+    summary: "The Tamil News Readers Association met with the Minister to discuss welfare measures and professional development for media professionals.",
+    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr030626_sedu3.jpg"],
+    pdfUrls: []
+  },
+  {
+    id: 20260603005,
+    dept: ["CMO"],
+    date: "June 03, 2026",
+    dateValue: "2026-06-03",
+    title: "Representatives of Leap Green Energy and Brookfield called on the Honble Chief Minister",
+    summary: "Major investors from Leap Green Energy and Brookfield Asset Management met CM Vijay to discuss renewable energy investments and sustainable infrastructure projects in Tamil Nadu.",
+    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr030626c.JPG"],
+    pdfUrls: [],
+    highlight: true
+  },
+  {
+    id: 20260603006,
+    dept: ["CMO"],
+    date: "June 03, 2026",
+    dateValue: "2026-06-03",
+    title: "Representatives of CREDAI Chennai, CREDAI Tamil Nadu and CREDAI National called on the Honble Chief Minister",
+    summary: "The Confederation of Real Estate Developers' Associations of India (CREDAI) representatives met with the CM to discuss urban planning, affordable housing, and real estate sector growth.",
+    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr030626d.JPG"],
+    pdfUrls: []
+  },
+  {
+    id: 20260603007,
+    dept: ["CMO"],
+    date: "June 03, 2026",
+    dateValue: "2026-06-03",
+    title: "Social media post of Honble Chief Minister on the 103rd birth anniversary of Muthamizh Arignar Kalaignar, former Chief Minister",
+    summary: "Chief Minister Vijay shared a poignant message on social media paying tribute to the legacy and contributions of former CM Kalaignar Karunanidhi on his birth anniversary.",
+    imageUrls: [],
+    pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr030626_158.pdf"]
   }
 ];

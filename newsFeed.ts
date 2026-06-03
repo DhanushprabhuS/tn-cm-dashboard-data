@@ -191,6 +191,30 @@ export const newsFeed: FeedItem[] = [
     color: "#00C9A7"
   },
   {
+    id: 20260602003,
+    date: "June 02, 2026",
+    dateValue: "2026-06-02",
+    text: "Member of Parliament P. Chidambaram and GOC Dakshin Bharat Area called on CM Vijay at the Secretariat.",
+    source: "Source: CMO Press Release",
+    color: "#1A73E8"
+  },
+  {
+    id: 20260602004,
+    date: "June 02, 2026",
+    dateValue: "2026-06-02",
+    text: "Minister Aadhav Arjuna met Union Minister Nitin Gadkari in Delhi to present TN's road infrastructure proposals.",
+    source: "Source: CMO Press Release",
+    color: "#FF4757"
+  },
+  {
+    id: 20260602005,
+    date: "June 02, 2026",
+    dateValue: "2026-06-02",
+    text: "CM Vijay extended birthday greetings to Isaignani Ilaiyaraaja on his 83rd birthday.",
+    source: "Source: Official CMO Statement",
+    color: "#00C9A7"
+  },
+  {
     id: 20260602002,
     date: "June 02, 2026",
     dateValue: "2026-06-02",
@@ -205,5 +229,31 @@ export const newsFeed: FeedItem[] = [
     text: "103rd Birth Anniversary of Kalaignar: TN Govt pays floral tributes at Marina memorial.",
     source: "Source: CMO Press Release",
     color: "#FFB800"
+  },
+  {
+    id: 20260603002,
+    date: "June 03, 2026",
+    dateValue: "2026-06-03",
+    text: "MD & CEO of Hyundai Motor India called on CM Vijay at the Secretariat — investment and automotive sector growth discussed.",
+    source: "Source: CMO Press Release",
+    color: "#FF6B00",
+    highlight: true
+  },
+  {
+    id: 20260603003,
+    date: "June 03, 2026",
+    dateValue: "2026-06-03",
+    text: "Representatives of Leap Green Energy and Brookfield Asset Management met CM Vijay to discuss renewable energy projects.",
+    source: "Source: CMO Press Release",
+    color: "#00C9A7",
+    highlight: true
+  },
+  {
+    id: 20260603004,
+    date: "June 03, 2026",
+    dateValue: "2026-06-03",
+    text: "CM Vijay met with representatives of industrial bodies (CODISSIA, CDIIC) and real estate associations (CREDAI).",
+    source: "Source: CMO Press Release",
+    color: "#1A73E8"
   }
 ];
