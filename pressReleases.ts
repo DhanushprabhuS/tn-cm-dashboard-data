@@ -2352,5 +2352,25 @@ export const pressReleases: PressRelease[] = [
     summary: "Chief Minister Vijay shared a social media message congratulating Tmt. Venkita Subramani Mohana on her elevation to the Supreme Court as a Judge.",
     imageUrls: [],
     pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr010626_139.pdf"]
+  },
+  {
+    id: 20260602001,
+    dept: ["CMO", "Municipal Admin"],
+    date: "June 02, 2026",
+    dateValue: "2026-06-02",
+    title: "Hon'ble Chief Minister signed MoU with Union Government for Jal Jeevan Mission 2.0 (Uyir Neer Iyakkam)",
+    summary: "CM Vijay signed a Memorandum of Understanding with the Union Government via video conferencing to implement Jal Jeevan Mission 2.0, securing ₹2,177.27 crore initial funding for state water infrastructure.",
+    imageUrls: [],
+    pdfUrls: []
+  },
+  {
+    id: 20260603001,
+    dept: ["Education Dept", "Information & Publicity"],
+    date: "June 03, 2026",
+    dateValue: "2026-06-03",
+    title: "Hon'ble Minister for School Education paid floral tribute to Muthamizh Arignar Kalaignar on his 103rd birth anniversary",
+    summary: "On the occasion of the 103rd birth anniversary of Muthamizh Arignar Kalaignar, the Minister for School Education, Tamil Development, Information and Publicity paid floral tributes at his memorial.",
+    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr030626_sedu1.jpg"],
+    pdfUrls: []
   }
 ];

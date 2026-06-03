@@ -36,4 +36,6 @@ export const tickerItems: TickerItem[] = [
   { id: 20260528001, tag: "DELHI",       tagIcon: "✈️", text: "CM Vijay returns to Chennai after maiden Delhi visit — met PM Modi & FM Sitharaman; raised Mekedatu, fishermen, Tamil Thai Vazhthu" },
   { id: 20260601001, tag: "ORDER",     tagIcon: "📋", text: "Higher Education Dept announces 3,570 new seats in Polytechnic Colleges for 2026-27" },
   { id: 20260601002, tag: "SCHEME",    tagIcon: "🚚", text: "Thayumanavar Scheme: Doorstep delivery of PDS commodities on June 2nd and 3rd" },
+  { id: 20260602001, tag: "ORDER",     tagIcon: "📋", text: "Jal Jeevan Mission 2.0 MoU signed — ₹2,177 crore secured for TN water projects" },
+  { id: 20260603001, tag: "EVENT",     tagIcon: "💐", text: "103rd Birth Anniversary of Kalaignar M. Karunanidhi celebrated across Tamil Nadu" }
 ];

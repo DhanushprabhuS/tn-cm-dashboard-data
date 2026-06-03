@@ -181,5 +181,29 @@ export const newsFeed: FeedItem[] = [
     text: "Higher Education Minister announced 3,570 new seats and three new courses in Polytechnic Colleges for the 2026-27 academic year.",
     source: "Source: CMO Press Release",
     color: "#FFB800"
+  },
+  {
+    id: 20260602001,
+    date: "June 02, 2026",
+    dateValue: "2026-06-02",
+    text: "CM Vijay signs MoU with Union Government for Jal Jeevan Mission 2.0; ₹2,177.27 crore allocated for TN water infrastructure.",
+    source: "Source: The Hindu / CMO",
+    color: "#00C9A7"
+  },
+  {
+    id: 20260602002,
+    date: "June 02, 2026",
+    dateValue: "2026-06-02",
+    text: "CM Vijay in Tiruchy: 'Graft-free administration is our priority; we will achieve it step by step.' Attacks DMK on corruption.",
+    source: "Source: New Indian Express",
+    color: "#FF6B00"
+  },
+  {
+    id: 20260603001,
+    date: "June 03, 2026",
+    dateValue: "2026-06-03",
+    text: "103rd Birth Anniversary of Kalaignar: TN Govt pays floral tributes at Marina memorial.",
+    source: "Source: CMO Press Release",
+    color: "#FFB800"
   }
 ];

@@ -165,5 +165,16 @@ export const schemes: Scheme[] = [
   date: "Announced: June 01, 2026 · Civil Supplies & Consumer Protection Dept",
   dateValue: "2026-06-01",
   color: "#00C9A7"
+},
+{
+  id: 20260602001,
+  tag: "GO · JUNE 2",
+  name: "🚰 Jal Jeevan Mission 2.0 (Uyir Neer Iyakkam)",
+  status: "ACTIVE",
+  statusClass: "",
+  desc: "Implementation of the second phase of Jal Jeevan Mission to strengthen rural and urban water infrastructure. The mission is extended until December 2028 with an initial central allocation of ₹2,177.27 crore to ensure sustainable access to safe drinking water across Tamil Nadu.",
+  date: "Signed: June 02, 2026 · Municipal Administration & Water Supply Dept",
+  dateValue: "2026-06-02",
+  color: "#1A73E8"
 }
 ];
