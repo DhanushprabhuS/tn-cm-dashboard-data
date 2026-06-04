@@ -255,5 +255,55 @@ export const newsFeed: FeedItem[] = [
     text: "CM Vijay met with representatives of industrial bodies (CODISSIA, CDIIC) and real estate associations (CREDAI).",
     source: "Source: CMO Press Release",
     color: "#1A73E8"
+  },
+  {
+    id: 20260604001,
+    date: "June 04, 2026",
+    dateValue: "2026-06-04",
+    text: "CM Vijay greets students on school reopening day (2026–27 academic year) — 'Education is the power that will brighten your future. Nurture lofty dreams, and work hard accordingly.'",
+    source: "Source: CMO Press Release No. 166",
+    color: "#FFB800"
+  },
+  {
+    id: 20260604002,
+    date: "June 04, 2026",
+    dateValue: "2026-06-04",
+    text: "Chairman and Managing Director of Thiagarajar Mills called on CM Vijay at the Secretariat to discuss the textile sector's growth and opportunities in Tamil Nadu.",
+    source: "Source: CMO Press Release",
+    color: "#FF6B00",
+    highlight: true
+  },
+  {
+    id: 20260604003,
+    date: "June 04, 2026",
+    dateValue: "2026-06-04",
+    text: "Director of IIT and faculty members called on CM Vijay to discuss academic collaboration and research partnerships with the state government.",
+    source: "Source: CMO Press Release",
+    color: "#1A73E8"
+  },
+  {
+    id: 20260604004,
+    date: "June 04, 2026",
+    dateValue: "2026-06-04",
+    text: "Labour Welfare Ministers visited injured workers at Rajalakshmi Medical College Hospital and inspected Hyundai&apos;s Irungattukottai facility in Kanchipuram district.",
+    source: "Source: CMO Press Release",
+    color: "#00C9A7"
+  },
+  {
+    id: 20260604005,
+    date: "June 04, 2026",
+    dateValue: "2026-06-04",
+    text: "Social Welfare Minister inspects the Chief Minister&apos;s Breakfast Scheme implementation at schools in Aminjikarai and Subbarayan Street, Chennai — quality and reach reviewed.",
+    source: "Source: CMO Press Release No. 168",
+    color: "#00C9A7"
+  },
+  {
+    id: 20260604006,
+    date: "June 04, 2026",
+    dateValue: "2026-06-04",
+    text: "🏭 MAJOR INVESTMENT: CM Vijay witnesses landmark MoU signing with Larsen &amp; Toubro (L&amp;T) — ₹18,600 crore investment across 3 projects: ₹15,000 cr AI Data Centre (Kancheepuram), ₹2,500 cr Electronics Manufacturing (Coimbatore), ₹1,100 cr Shipyard Expansion (Kattupalli). ~8,200 jobs to be created. First major industrial MoU of the Vijay government.",
+    source: "Source: The Hindu / New Indian Express / CMO Press Release No. 167",
+    color: "#FF6B00",
+    highlight: true
   }
 ];

@@ -1527,7 +1527,7 @@ export const pressReleases: PressRelease[] = [
     imageUrls: [],
     pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr260526_092.pdf"]
   },
-{
+  {
     id: 20260525004,
     dept: ["CMO"],
     date: "May 25, 2026",
@@ -2380,7 +2380,7 @@ export const pressReleases: PressRelease[] = [
     dateValue: "2026-06-02",
     title: "General Officer Commanding, Dakshin Bharat Area, called on the Honble Chief Minister",
     summary: "Major General rank officer commanding the Dakshin Bharat Area paid a courtesy call to the Chief Minister at the Secretariat.",
-    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr020626b.jpg"],
+    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr020626c.jpg"],
     pdfUrls: []
   },
   {
@@ -2390,7 +2390,7 @@ export const pressReleases: PressRelease[] = [
     dateValue: "2026-06-02",
     title: "Chairman and Managing Director of LMW, called on the Honble Chief Minister",
     summary: "The CMD of Lakshmi Machine Works (LMW) met with CM Vijay to discuss industrial development and manufacturing growth in the state.",
-    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr020626c.jpg"],
+    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr020626d.jpg"],
     pdfUrls: []
   },
   {
@@ -2400,7 +2400,7 @@ export const pressReleases: PressRelease[] = [
     dateValue: "2026-06-02",
     title: "Representatives of Tamil Nadu Omni Bus Owners Association called on the Honble Chief Minister",
     summary: "Representatives of the Omni Bus Owners Association met with the Chief Minister to discuss regulatory frameworks and sector challenges.",
-    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr020626d.jpg"],
+    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr020626e.jpg"],
     pdfUrls: []
   },
   {
@@ -2524,5 +2524,97 @@ export const pressReleases: PressRelease[] = [
     summary: "Chief Minister Vijay shared a poignant message on social media paying tribute to the legacy and contributions of former CM Kalaignar Karunanidhi on his birth anniversary.",
     imageUrls: [],
     pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr030626_158.pdf"]
+  },
+  {
+    id: 20260604001,
+    dept: ["CMO"],
+    date: "June 04, 2026",
+    dateValue: "2026-06-04",
+    title: "Social media post of the Honble Chief Minister greeting students on the reopening of schools",
+    summary: "Chief Minister Vijay posted a warm greeting on social media to students across Tamil Nadu as schools reopened for the 2026–27 academic year on June 4, urging them to nurture lofty dreams and work hard. Schools had been delayed from June 1 due to the extreme summer heat.",
+    imageUrls: [],
+    pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr040626_166.pdf"]
+  },
+  {
+    id: 20260604002,
+    dept: ["CMO"],
+    date: "June 04, 2026",
+    dateValue: "2026-06-04",
+    title: "Chairman and Managing Director of Thiagarajar Mills called on the Honble Chief Minister",
+    summary: "The Chairman and Managing Director of Thiagarajar Mills called on Chief Minister Vijay at the Secretariat to discuss the textile sector's growth and opportunities in Tamil Nadu.",
+    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr040626b.jpg"],
+    pdfUrls: [],
+    highlight: true
+  },
+  {
+    id: 20260604003,
+    dept: ["CMO"],
+    date: "June 04, 2026",
+    dateValue: "2026-06-04",
+    title: "Director of Indian Institute of Technology and faculty members called on the Honble Chief Minister",
+    summary: "The Director of IIT and faculty members called on Chief Minister Vijay to discuss academic collaboration, research partnerships, and the state's role in supporting higher technical education.",
+    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr040626c.jpg"],
+    pdfUrls: []
+  },
+  {
+    id: 20260604004,
+    dept: ["Energy Dept"],
+    date: "June 04, 2026",
+    dateValue: "2026-06-04",
+    title: "Director General of Prisons and Correctional Services called on the Honble Minister for Energy Resources and Law",
+    summary: "The Director General of Prisons and Correctional Services met with the Minister for Energy Resources and Law to discuss matters concerning the correctional services and prison administration in Tamil Nadu.",
+    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr040626_enrgy.jpg"],
+    pdfUrls: []
+  },
+  {
+    id: 20260604005,
+    dept: ["Labour Dept"],
+    date: "June 04, 2026",
+    dateValue: "2026-06-04",
+    title: "Honble Ministers for Labour Welfare and Skill Development and Non-Resident Tamils Welfare visited injured workers at Rajalakshmi Medical College Hospital",
+    summary: "The Ministers for Labour Welfare and Skill Development and Non-Resident Tamils Welfare visited workers injured in a workplace accident at Rajalakshmi Medical College Hospital, expressing the government's concern and assuring all possible support.",
+    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr040626_lwsd.jpg"],
+    pdfUrls: []
+  },
+  {
+    id: 20260604006,
+    dept: ["Labour Dept", "Industries Dept"],
+    date: "June 04, 2026",
+    dateValue: "2026-06-04",
+    title: "Honble Ministers for Labour Welfare and Skill Development and Non-Resident Tamils Welfare inspected Hyundai's Irungattukottai Facility in Kanchipuram District",
+    summary: "The Ministers for Labour Welfare and Non-Resident Tamils Welfare inspected Hyundai's manufacturing facility at Irungattukottai in Kanchipuram District to review labour conditions, skill development initiatives, and employment practices at the plant.",
+    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr040626_lwsd1.jpg"],
+    pdfUrls: []
+  },
+  {
+    id: 20260604007,
+    dept: ["School Education Dept"],
+    date: "June 04, 2026",
+    dateValue: "2026-06-04",
+    title: "Honble Minister for School Education distributed educational kits, inaugurated digital smart boards and presented awards to students for the academic year 2026–2027",
+    summary: "On the occasion of school reopening, the Minister for School Education, Tamil Development, Information and Publicity distributed educational kits, inaugurated digital smart boards, and presented awards to outstanding students to mark the start of the 2026–27 academic year.",
+    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr040626_sedu1.jpg", "https://cms.tn.gov.in/cms_migrated/document/press_release/pr040626_sedu2.jpg", "https://cms.tn.gov.in/cms_migrated/document/press_release/pr040626_sedu3.JPG"],
+    pdfUrls: []
+  },
+  {
+    id: 20260604008,
+    dept: ["CMO", "Social Welfare"],
+    date: "June 04, 2026",
+    dateValue: "2026-06-04",
+    title: "Honble Minister for Social Welfare and Women Empowerment inspected the Chief Minister's Breakfast Scheme at Schools in Aminjikarai and Subbarayan Street, Chennai",
+    summary: "The Minister for Social Welfare and Women Empowerment inspected the implementation of the Chief Minister's Breakfast Scheme at schools in Aminjikarai and Subbarayan Street, Chennai, to review quality and reach of the flagship nutritional programme.",
+    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr040626_swwe1.jpg", "https://cms.tn.gov.in/cms_migrated/document/press_release/pr040626_swwe2.jpg"],
+    pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr040626_168.pdf"]
+  },
+  {
+    id: 20260604009,
+    dept: ["CMO", "Industries Dept"],
+    date: "June 04, 2026",
+    dateValue: "2026-06-04",
+    title: "Honble Chief Minister witnessed the signing of MoU with Larsen and Toubro — ₹18,600 Crore Investment in Tamil Nadu",
+    summary: "Chief Minister Vijay witnessed the signing of a landmark MoU between the Tamil Nadu Government and Larsen & Toubro (L&T) for a total investment of ₹18,600 crore across three mega projects: a ₹15,000 crore Hyperscale & Edge AI Data Centre in Kancheepuram, a ₹2,500 crore Electronics & Electrical Systems Manufacturing facility in Coimbatore, and a ₹1,100 crore Shipyard Expansion at Kattupalli, Tiruvallur. The deal is expected to generate approximately 8,200 jobs and is the first major industrial MoU signed by the Vijay government.",
+    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr040626a.jpg"],
+    pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr040626_167.pdf"],
+    highlight: true
   }
 ];

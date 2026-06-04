@@ -41,5 +41,8 @@ export const tickerItems: TickerItem[] = [
   { id: 20260602003, tag: "GREETING",  tagIcon: "🎂", text: "CM Vijay extends 83rd birthday wishes to Isaignani Ilaiyaraaja" },
   { id: 20260603001, tag: "EVENT",     tagIcon: "💐", text: "103rd Birth Anniversary of Kalaignar M. Karunanidhi celebrated across Tamil Nadu" },
   { id: 20260603002, tag: "INDUSTRY",  tagIcon: "🚗", text: "CM Vijay meets Hyundai India MD & CEO to discuss automotive sector expansion" },
-  { id: 20260603003, tag: "ENERGY",    tagIcon: "🔋", text: "Brookfield and Leap Green Energy representatives meet CM Vijay for green energy talks" }
+  { id: 20260603003, tag: "ENERGY",    tagIcon: "🔋", text: "Brookfield and Leap Green Energy representatives meet CM Vijay for green energy talks" },
+  { id: 20260604001, tag: "SCHOOLS",   tagIcon: "📚", text: "Jun 4: Schools reopen for 2026–27 academic year — CM Vijay greets students across Tamil Nadu" },
+  { id: 20260604002, tag: "INDUSTRY",  tagIcon: "🏭", text: "Thiagarajar Mills CMD calls on CM Vijay at Secretariat — textile sector growth discussed" },
+  { id: 20260604003, tag: "INVESTMENT",tagIcon: "💰", text: "L&T MoU: ₹18,600 cr investment in TN — AI Data Centre (₹15,000 cr), Electronics (₹2,500 cr), Shipyard Kattupalli (₹1,100 cr) — 8,200 jobs" }
 ];

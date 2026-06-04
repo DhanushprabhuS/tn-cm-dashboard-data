@@ -46,7 +46,7 @@ Before searching anything, read the last updated date from the data files to avo
 4. All searches below should look for content AFTER this date
 ```
 
-**Current last entry as of this writing:** `id: 20260601009`, `date: "June 01, 2026"`
+**Current last entry as of this writing:** `id: 20260604009`, `date: "June 04, 2026"`
 
 > ⚠️ Never add entries with dates earlier than the last entry's date in pressReleases.ts — those already exist.
 
@@ -190,7 +190,10 @@ Any news indicating that a TVK manifesto promise has been **implemented, funded,
 | 20260510006 | Family Health Insurance | ₹25 Lakh | ⏳ Announced |
 | 20260510007 | Education Dropout Aid | ₹15,000/yr | ⏳ Pending |
 | 20260510008 | Senior Citizen Pension | ₹3,000/mo | ⏳ Pending |
-| 20260510009 | Crop Loan Waiver | Small Farmers | ⏳ Pending |
+| 20260510009 | Crop Loan Waiver | Small Farmers | ⏳ Budget allocated — May 27 |
+| 20260521001 | AI & IT Department | Dedicated Ministry | ✅ Established — May 21 |
+| 20260604001 | TNSIA — Strategic Investment Authority | Rs. 50,000 Crore | ⏳ In Progress — Jun 04 |
+| 20260604002 | 10 Lakh New Jobs in 5 Years | 10 Lakh Jobs | ⏳ In Progress — Jun 04 |
 
 ### Where to search
 ```
