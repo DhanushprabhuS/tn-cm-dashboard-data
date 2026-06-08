@@ -2616,5 +2616,386 @@ export const pressReleases: PressRelease[] = [
     imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr040626a.jpg"],
     pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr040626_167.pdf"],
     highlight: true
+  },
+  {
+    id: 20260604010,
+    dept: ["CMO"],
+    date: "June 04, 2026",
+    dateValue: "2026-06-04",
+    title: "Honble Chief Minister witnessed the signing of MoU with Larsen and Toubro",
+    summary: "Chief Minister Vijay witnessed the signing of a significant MoU with Larsen and Toubro for major investment in Tamil Nadu's industrial and technology sectors.",
+    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr040626a.jpg"],
+    pdfUrls: [],
+    highlight: true
+  },
+  {
+    id: 20260604011,
+    dept: ["Social Welfare"],
+    date: "June 04, 2026",
+    dateValue: "2026-06-04",
+    title: "Honble Minister for Social Welfare and Women Empowerment inspected the Chief Minister's Breakfast Scheme at Schools in Aminjikarai and Subbarayan Street, Chennai",
+    summary: "The Minister for Social Welfare and Women Empowerment inspected the implementation of the Chief Minister's Breakfast Scheme at schools in Aminjikarai and Subbarayan Street, Chennai.",
+    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr040626_swwe1.jpg", "https://cms.tn.gov.in/cms_migrated/document/press_release/pr040626_swwe2.jpg", "https://cms.tn.gov.in/cms_migrated/document/press_release/pr040626_swwe3.jpg", "https://cms.tn.gov.in/cms_migrated/document/press_release/pr040626_swwe4.jpg", "https://cms.tn.gov.in/cms_migrated/document/press_release/pr040626_swwe5.jpg"],
+    pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr040626_168.pdf"]
+  },
+  {
+    id: 20260604012,
+    dept: ["CMO", "Natural Resources"],
+    date: "June 04, 2026",
+    dateValue: "2026-06-04",
+    title: "Honble Chief Minister chaired a review meeting on the activities of Natural Resources department",
+    summary: "Chief Minister Vijay chaired a comprehensive review meeting on the activities and performance of the Natural Resources department.",
+    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr040626d.jpg"],
+    pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr040626_169.pdf"]
+  },
+  {
+    id: 20260604013,
+    dept: ["Finance Dept"],
+    date: "June 04, 2026",
+    dateValue: "2026-06-04",
+    title: "From Finance (Ways and Means-II) Department - English Version",
+    summary: "Finance Department (Ways and Means-II) official release in English language.",
+    imageUrls: [],
+    pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr040626_e_170.pdf"]
+  },
+  {
+    id: 20260604014,
+    dept: ["Finance Dept"],
+    date: "June 04, 2026",
+    dateValue: "2026-06-04",
+    title: "From Finance (Ways and Means-II) Department - Tamil Version",
+    summary: "Finance Department (Ways and Means-II) official release in Tamil language.",
+    imageUrls: [],
+    pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr040626_t_170.pdf"]
+  },
+  {
+    id: 20260604015,
+    dept: ["Commercial Taxes and Registration"],
+    date: "June 04, 2026",
+    dateValue: "2026-06-04",
+    title: "Honble Minister for Commercial Taxes and Registration inspected Sub-Registrar offices in Madurai district",
+    summary: "The Minister for Commercial Taxes and Registration conducted an inspection of Sub-Registrar offices across Madurai district to review administrative functioning and citizen services.",
+    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr040626_ctax1.jpeg", "https://cms.tn.gov.in/cms_migrated/document/press_release/pr040626_ctax2.jpeg", "https://cms.tn.gov.in/cms_migrated/document/press_release/pr040626_ctax3.jpeg"],
+    pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr040626_171.pdf"]
+  },
+  {
+    id: 20260604016,
+    dept: ["Food and Civil Supplies"],
+    date: "June 04, 2026",
+    dateValue: "2026-06-04",
+    title: "Honble Minister for Food and Civil Supplies inspected Government direct paddy procurement centres in Kanchipuram district",
+    summary: "The Minister for Food and Civil Supplies inspected Government direct paddy procurement centres across Kanchipuram district to ensure efficient procurement and farmer support.",
+    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr040626_fcs1.jpg"],
+    pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr040626_172.pdf"]
+  },
+  {
+    id: 20260604017,
+    dept: ["Food and Civil Supplies"],
+    date: "June 04, 2026",
+    dateValue: "2026-06-04",
+    title: "Honble Minister for Food and Civil Supplies chaired a review meeting on the activities of the department",
+    summary: "The Minister for Food and Civil Supplies chaired a comprehensive review meeting to assess departmental activities, food security initiatives, and procurement operations.",
+    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr040626_fcs.jpg"],
+    pdfUrls: []
+  },
+  {
+    id: 20260604018,
+    dept: ["Fisheries"],
+    date: "June 04, 2026",
+    dateValue: "2026-06-04",
+    title: "Honble Minister for Fisheries and Fishermen Welfare provided relief assistance to the family of a deceased fisherman in Chennai",
+    summary: "The Minister for Fisheries and Fishermen Welfare visited a family in Chennai to provide relief assistance following the death of a fisherman.",
+    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr040626_ffw.jpg"],
+    pdfUrls: []
+  },
+  {
+    id: 20260604019,
+    dept: ["School Education Dept"],
+    date: "June 04, 2026",
+    dateValue: "2026-06-04",
+    title: "Honble Minister for Human Resources Management distributed free textbooks and uniforms to school students at East Tambaram",
+    summary: "The Minister for Human Resources Management distributed free textbooks and school uniforms to students at East Tambaram as part of the government's education support initiatives.",
+    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr040626_hrm1.jpeg", "https://cms.tn.gov.in/cms_migrated/document/press_release/pr040626_hrm2.jpeg", "https://cms.tn.gov.in/cms_migrated/document/press_release/pr040626_hrm3.jpeg"],
+    pdfUrls: []
+  },
+  {
+    id: 20260605001,
+    dept: ["Electricity"],
+    date: "June 05, 2026",
+    dateValue: "2026-06-05",
+    title: "Tamil Nadu Legislative Assembly Secretary called on the Honble Minister for Energy Resources and Law",
+    summary: "The Tamil Nadu Legislative Assembly Secretary met with the Minister for Energy Resources and Law to discuss administrative coordination between the assembly and energy ministry.",
+    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr050626_enrgy.jpg"],
+    pdfUrls: []
+  },
+  {
+    id: 20260605002,
+    dept: ["Housing"],
+    date: "June 05, 2026",
+    dateValue: "2026-06-05",
+    title: "Honble Minister for Housing and Urban Development chaired a review meeting on CMDA development works",
+    summary: "The Minister for Housing and Urban Development conducted a comprehensive review meeting on the progress and performance of CMDA (Chennai Metropolitan Development Authority) development projects.",
+    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr050626_hud.JPG"],
+    pdfUrls: []
+  },
+  {
+    id: 20260605003,
+    dept: ["CMO"],
+    date: "June 05, 2026",
+    dateValue: "2026-06-05",
+    title: "Hon'ble Chief Minister chaired the 1st Cabinet meeting at the Secretariat",
+    summary: "Chief Minister Vijay chaired the first formal cabinet meeting at the Secretariat to address key government business and policy matters.",
+    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr050626_cm1.jpg"],
+    pdfUrls: []
+  },
+  {
+    id: 20260605004,
+    dept: ["Forests"],
+    date: "June 05, 2026",
+    dateValue: "2026-06-05",
+    title: "Honble Ministers for Forests, Environment and Climate Change participated in World Environment Day celebrations at Guindy",
+    summary: "The Ministers for Forests, Environment and Climate Change participated in World Environment Day celebrations held at Guindy to promote environmental awareness and conservation.",
+    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr050626_fst1.jpg"],
+    pdfUrls: []
+  },
+  {
+    id: 20260605005,
+    dept: ["Forests"],
+    date: "June 05, 2026",
+    dateValue: "2026-06-05",
+    title: "Honble Ministers for Forests, Environment and Climate Change released the book \"Coral Reef Restoration in Tamil Nadu\" at the World Environment Day celebration",
+    summary: "The Ministers for Forests, Environment and Climate Change released the book \"Coral Reef Restoration in Tamil Nadu\" during the World Environment Day celebration to highlight marine conservation efforts.",
+    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr050626_fst2.jpg"],
+    pdfUrls: []
+  },
+  {
+    id: 20260605006,
+    dept: ["Forests"],
+    date: "June 05, 2026",
+    dateValue: "2026-06-05",
+    title: "From the Department of Environment, Climate Change and Forests - Tamil Nadu Launches India's First State-Level Standard Operating Procedure (SOP) for Cool Roof Coating - English Version",
+    summary: "Tamil Nadu Environment, Climate Change and Forests Department released the English version of SOP for Cool Roof Coating, a first in India at the state level for environmental sustainability.",
+    imageUrls: [],
+    pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr050626_e_183.pdf"]
+  },
+  {
+    id: 20260605007,
+    dept: ["Forests"],
+    date: "June 05, 2026",
+    dateValue: "2026-06-05",
+    title: "From the Department of Environment, Climate Change and Forests - Tamil Nadu Launches India's First State-Level Standard Operating Procedure (SOP) for Cool Roof Coating - Tamil Version",
+    summary: "Tamil Nadu Environment, Climate Change and Forests Department released the Tamil version of SOP for Cool Roof Coating as India's first state-level initiative for eco-friendly cooling solutions.",
+    imageUrls: [],
+    pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr050626_t_183.pdf"]
+  },
+  {
+    id: 20260605008,
+    dept: ["Agriculture"],
+    date: "June 05, 2026",
+    dateValue: "2026-06-05",
+    title: "Honble Minister for Agriculture and Farmers Welfare chaired a review meeting on the activities of the department",
+    summary: "The Minister for Agriculture and Farmers Welfare chaired a comprehensive review meeting to assess departmental performance, farmer welfare schemes, and agricultural development initiatives.",
+    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr050626_agri.jpeg"],
+    pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr050626_182.pdf"]
+  },
+  {
+    id: 20260605009,
+    dept: ["Forests"],
+    date: "June 05, 2026",
+    dateValue: "2026-06-05",
+    title: "Honble Ministers for Forests, Environment and Climate Change released the report of the Third Synchronised Survey for Population Estimation of Nilgiri Tahr - English Version",
+    summary: "The Ministers for Forests, Environment and Climate Change released the English version of the Third Synchronised Survey report on Nilgiri Tahr population estimation for wildlife conservation.",
+    imageUrls: [],
+    pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr050626_e_181.pdf"]
+  },
+  {
+    id: 20260605010,
+    dept: ["Forests"],
+    date: "June 05, 2026",
+    dateValue: "2026-06-05",
+    title: "Honble Ministers for Forests, Environment and Climate Change released the report of the Third Synchronised Survey for Population Estimation of Nilgiri Tahr - Tamil Version",
+    summary: "The Ministers for Forests, Environment and Climate Change released the Tamil version of the Third Synchronised Survey report on Nilgiri Tahr population for wildlife biodiversity assessment.",
+    imageUrls: [],
+    pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr050626_t_181.pdf"]
+  },
+  {
+    id: 20260605011,
+    dept: ["Forests"],
+    date: "June 05, 2026",
+    dateValue: "2026-06-05",
+    title: "Honble Ministers for Forests, Environment and Climate Change released the First Comprehensive State-Wide Raptor Assessment report on World Environment Day - English Version",
+    summary: "The Ministers released the English version of the First Comprehensive State-Wide Raptor Assessment report, documenting bird of prey populations across Tamil Nadu on World Environment Day.",
+    imageUrls: [],
+    pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr050626_e_180.pdf"]
+  },
+  {
+    id: 20260605012,
+    dept: ["Forests"],
+    date: "June 05, 2026",
+    dateValue: "2026-06-05",
+    title: "Honble Ministers for Forests, Environment and Climate Change released the First Comprehensive State-Wide Raptor Assessment report on World Environment Day - Tamil Version",
+    summary: "The Ministers released the Tamil version of the First Comprehensive State-Wide Raptor Assessment report documenting raptor populations for environmental conservation awareness.",
+    imageUrls: [],
+    pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr050626_t_180.pdf"]
+  },
+  {
+    id: 20260605013,
+    dept: ["Forests"],
+    date: "June 05, 2026",
+    dateValue: "2026-06-05",
+    title: "Honble Ministers for Forests, Environment and Climate Change released the Tamil Nadu Synchronised Bird Survey 2025–2026 reports on World Environment Day - English Version",
+    summary: "The Ministers released the English version of the Tamil Nadu Synchronised Bird Survey 2025–2026 reports documenting avian biodiversity across the state.",
+    imageUrls: [],
+    pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr050626_e_179.pdf"]
+  },
+  {
+    id: 20260605014,
+    dept: ["Forests"],
+    date: "June 05, 2026",
+    dateValue: "2026-06-05",
+    title: "Honble Ministers for Forests, Environment and Climate Change released the Tamil Nadu Synchronised Bird Survey 2025–2026 reports on World Environment Day - Tamil Version",
+    summary: "The Ministers released the Tamil version of the Tamil Nadu Synchronised Bird Survey 2025–2026 reports for comprehensive bird population assessment.",
+    imageUrls: [],
+    pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr050626_t_179.pdf"]
+  },
+  {
+    id: 20260605015,
+    dept: ["CMO"],
+    date: "June 05, 2026",
+    dateValue: "2026-06-05",
+    title: "Condolence Message of the Honble Chief Minister on the death of a worker in borewell collapse incident in Thiruvidaimarudur, Thanjavur District",
+    summary: "Chief Minister Vijay expressed his condolences to the family of a worker who died in a borewell collapse incident in Thiruvidaimarudur, Thanjavur District.",
+    imageUrls: [],
+    pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr050626_178.pdf"]
+  },
+  {
+    id: 20260605016,
+    dept: ["Tamil Development"],
+    date: "June 05, 2026",
+    dateValue: "2026-06-05",
+    title: "World Tamil Research Institute - Summer training programme on Epigraphy and Manuscriptology",
+    summary: "The World Tamil Research Institute announced a summer training programme focusing on Epigraphy and Manuscriptology for scholars and researchers interested in Tamil cultural studies.",
+    imageUrls: [],
+    pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr050626_177.pdf"]
+  },
+  {
+    id: 20260605017,
+    dept: ["CMO"],
+    date: "June 05, 2026",
+    dateValue: "2026-06-05",
+    title: "Honble Chief Minister chaired the meeting of the Tamil Nadu Disaster Management Authority",
+    summary: "Chief Minister Vijay chaired a meeting of the Tamil Nadu Disaster Management Authority to review disaster preparedness and emergency response protocols.",
+    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr050626d.jpg"],
+    pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr050626_176.pdf"]
+  },
+  {
+    id: 20260605018,
+    dept: ["Fire and Rescue Services"],
+    date: "June 05, 2026",
+    dateValue: "2026-06-05",
+    title: "Tamil Nadu Fire and Rescue Services Department to conduct Come and Learn fire safety awareness programme across the state - English Version",
+    summary: "The Tamil Nadu Fire and Rescue Services Department announced a statewide \"Come and Learn\" fire safety awareness programme in English to promote public safety education.",
+    imageUrls: [],
+    pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr050626_e_175.pdf"]
+  },
+  {
+    id: 20260605019,
+    dept: ["Fire and Rescue Services"],
+    date: "June 05, 2026",
+    dateValue: "2026-06-05",
+    title: "Tamil Nadu Fire and Rescue Services Department to conduct Come and Learn fire safety awareness programme across the state - Tamil Version",
+    summary: "The Tamil Nadu Fire and Rescue Services Department announced a statewide \"Come and Learn\" fire safety awareness programme in Tamil to enhance public safety awareness.",
+    imageUrls: [],
+    pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr050626_t_175.pdf"]
+  },
+  {
+    id: 20260605020,
+    dept: ["CMO"],
+    date: "June 05, 2026",
+    dateValue: "2026-06-05",
+    title: "Social media post of Honble Chief Minister on the occasion of World Environment Day",
+    summary: "Chief Minister Vijay shared a social media message on World Environment Day emphasizing the importance of environmental conservation and sustainable development.",
+    imageUrls: [],
+    pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr050626_174.pdf"]
+  },
+  {
+    id: 20260605021,
+    dept: ["CMO"],
+    date: "June 05, 2026",
+    dateValue: "2026-06-05",
+    title: "Honble Chief Minister paid floral tributes at the memorial of Quaid-e-Millath on the occasion of his 131st birth anniversary",
+    summary: "Chief Minister Vijay paid floral tributes at the memorial of Quaid-e-Millath to commemorate the 131st birth anniversary of the historic leader.",
+    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr050626a.jpg", "https://cms.tn.gov.in/cms_migrated/document/press_release/pr050626b.jpg"],
+    pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr050626_173.pdf"]
+  },
+  {
+    id: 20260606001,
+    dept: ["Agriculture"],
+    date: "June 06, 2026",
+    dateValue: "2026-06-06",
+    title: "District Collector of Thanjavur called on the Honble Minister for Agriculture and Farmers Welfare at Kumbakonam",
+    summary: "The District Collector of Thanjavur met with the Minister for Agriculture and Farmers Welfare at Kumbakonam to discuss agricultural development and farmer welfare initiatives.",
+    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr060626_agri1.jpg", "https://cms.tn.gov.in/cms_migrated/document/press_release/pr060626_agri2.jpg"],
+    pdfUrls: []
+  },
+  {
+    id: 20260606002,
+    dept: ["CMO"],
+    date: "June 06, 2026",
+    dateValue: "2026-06-06",
+    title: "Under the directions of the Honble Chief Minister, promotion orders issued to 300 Power Utility Engineers for the first time",
+    summary: "Chief Minister Vijay directed the issuance of promotion orders to 300 Power Utility Engineers, marking a historic first-time promotion initiative for this cadre.",
+    imageUrls: [],
+    pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr060626_189.pdf"]
+  },
+  {
+    id: 20260606003,
+    dept: ["CMO"],
+    date: "June 06, 2026",
+    dateValue: "2026-06-06",
+    title: "Social media post of Honble Chief Minister congratulating Savitha Shri Bhaskar on winning gold at the Asian Women's Chess Championship",
+    summary: "Chief Minister Vijay congratulated Savitha Shri Bhaskar on her gold medal victory at the Asian Women's Chess Championship through a social media message.",
+    imageUrls: [],
+    pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr060626_188.pdf"]
+  },
+  {
+    id: 20260606004,
+    dept: ["Electricity"],
+    date: "June 06, 2026",
+    dateValue: "2026-06-06",
+    title: "Honble Minister for Energy Resources and Law chaired a meeting with Officials of all departments on development works in the district",
+    summary: "The Minister for Energy Resources and Law chaired an inter-departmental meeting with officials from all departments to review and coordinate development works across the district.",
+    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr060626_enrgy.jpg"],
+    pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr060626_187.pdf"]
+  },
+  {
+    id: 20260606005,
+    dept: ["Agriculture"],
+    date: "June 06, 2026",
+    dateValue: "2026-06-06",
+    title: "Honble Minister for Agriculture and Farmers Welfare inspected aquatic weed removal and canal desilting works in Kumbakonam",
+    summary: "The Minister for Agriculture and Farmers Welfare inspected ongoing aquatic weed removal and canal desilting operations in Kumbakonam to ensure improved water management for irrigation.",
+    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr060626_agri3.jpg", "https://cms.tn.gov.in/cms_migrated/document/press_release/pr060626_agri4.jpg", "https://cms.tn.gov.in/cms_migrated/document/press_release/pr060626_agri5.jpg", "https://cms.tn.gov.in/cms_migrated/document/press_release/pr060626_agri6.jpg"],
+    pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr060626_186.pdf"]
+  },
+  {
+    id: 20260606006,
+    dept: ["Natural Resources", "Forests"],
+    date: "June 06, 2026",
+    dateValue: "2026-06-06",
+    title: "Honble Minister for Natural Resources launched a mega tree plantation drive, distributed safety equipment and inaugurated district mineral foundation fund projects on World Environment Day",
+    summary: "The Minister for Natural Resources launched a large-scale tree plantation drive, distributed safety equipment to workers, and inaugurated district mineral foundation projects to mark World Environment Day.",
+    imageUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr060626_nr1.jpeg", "https://cms.tn.gov.in/cms_migrated/document/press_release/pr060626_nr2.jpeg", "https://cms.tn.gov.in/cms_migrated/document/press_release/pr060626_nr3.jpeg"],
+    pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr060626_185.pdf"]
+  },
+  {
+    id: 20260606007,
+    dept: ["CMO"],
+    date: "June 06, 2026",
+    dateValue: "2026-06-06",
+    title: "Social media post of the Honble Chief Minister congratulating Chess Grandmaster Praggnanandhaa on winning Norway Chess 2026",
+    summary: "Chief Minister Vijay congratulated Chess Grandmaster Praggnanandhaa on his victory at the Norway Chess 2026 tournament through a social media post.",
+    imageUrls: [],
+    pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr060626_184.pdf"]
   }
 ];

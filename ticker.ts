@@ -44,5 +44,11 @@ export const tickerItems: TickerItem[] = [
   { id: 20260603003, tag: "ENERGY",    tagIcon: "🔋", text: "Brookfield and Leap Green Energy representatives meet CM Vijay for green energy talks" },
   { id: 20260604001, tag: "SCHOOLS",   tagIcon: "📚", text: "Jun 4: Schools reopen for 2026–27 academic year — CM Vijay greets students across Tamil Nadu" },
   { id: 20260604002, tag: "INDUSTRY",  tagIcon: "🏭", text: "Thiagarajar Mills CMD calls on CM Vijay at Secretariat — textile sector growth discussed" },
-  { id: 20260604003, tag: "INVESTMENT",tagIcon: "💰", text: "L&T MoU: ₹18,600 cr investment in TN — AI Data Centre (₹15,000 cr), Electronics (₹2,500 cr), Shipyard Kattupalli (₹1,100 cr) — 8,200 jobs" }
+  { id: 20260604003, tag: "INVESTMENT",tagIcon: "💰", text: "L&T MoU: ₹18,600 cr investment in TN — AI Data Centre (₹15,000 cr), Electronics (₹2,500 cr), Shipyard Kattupalli (₹1,100 cr) — 8,200 jobs" },
+  { id: 20260605001, tag: "CABINET",   tagIcon: "🏛️", text: "CM Joseph Vijay chairs first cabinet meeting, releasing 'Vetri Tamizhagam Vision Document' with 436 projects across 35 departments" },
+  { id: 20260605002, tag: "ORDER",     tagIcon: "💊", text: "Drug-Free TN: Prohibition & Excise Minister K. Vignesh seals over 700 shops selling illegal substances" },
+  { id: 20260606001, tag: "POLITICS",  tagIcon: "🤝", text: "Political Shift: 300+ AIADMK members officially join Chief Minister Vijay's party, the TVK" },
+  { id: 20260607001, tag: "ORDER",     tagIcon: "📄", text: "Anywhere Registration: Online 24/7 document registration system launched for public convenience" },
+  { id: 20260607002, tag: "SCHOOLS",   tagIcon: "⚽", text: "Physical education classes made compulsory for classes 6 to 12 across all schools in the state" },
+  { id: 20260607003, tag: "TASMAC",    tagIcon: "🍺", text: "Additional tax levy imposed on liquor and beer manufacturers to increase state revenue and plug leaks" }
 ];

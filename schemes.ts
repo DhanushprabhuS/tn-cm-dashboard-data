@@ -176,5 +176,16 @@ export const schemes: Scheme[] = [
   date: "Signed: June 02, 2026 · Municipal Administration & Water Supply Dept",
   dateValue: "2026-06-02",
   color: "#1A73E8"
-}
+},
+{
+  id: 20260607001,
+  tag: "GO · JUNE 7",
+  name: "📄 Anywhere Registration System (24/7 Online Document Registration)",
+  status: "ACTIVE",
+  statusClass: "",
+  desc: "The Registration Department launched the 'Anywhere Registration' system enabling 24/7 online document registration. Citizens can register property sale deeds, Housing Board documents, and mortgage receipts online from anywhere without physical sub-registrar office visits. Approved documents are digitally signed and delivered via email/WhatsApp.",
+  date: "Signed: June 07, 2026 · Commercial Taxes & Registration Dept",
+  dateValue: "2026-06-07",
+  color: "#E91E63"
+},
 ];

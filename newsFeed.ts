@@ -305,5 +305,62 @@ export const newsFeed: FeedItem[] = [
     source: "Source: The Hindu / New Indian Express / CMO Press Release No. 167",
     color: "#FF6B00",
     highlight: true
+  },
+  {
+    id: 20260605001,
+    date: "June 05, 2026",
+    dateValue: "2026-06-05",
+    text: "🏛️ FIRST CABINET MEETING: CM Joseph Vijay chairs his first cabinet meeting, releasing the 'Vetri Tamizhagam Vision Document' consisting of 436 specific development projects across 35 departments. Structured into 10 pillars based on the Tirukkural, the document outlines concrete action plans with strict timelines.",
+    source: "Source: The Hindu / The News Minute / CMO Press Release",
+    color: "#FF6B00",
+    highlight: true
+  },
+  {
+    id: 20260605002,
+    date: "June 05, 2026",
+    dateValue: "2026-06-05",
+    text: "💊 DRUG-FREE STATE: Prohibition & Excise Minister K. Vignesh announces the sealing of over 700 shops selling illicit substances illegally as the government intensifies enforcement to eliminate narcotics and banned gutka.",
+    source: "Source: CMO Press Release / DT Next",
+    color: "#00C9A7"
+  },
+  {
+    id: 20260606001,
+    date: "June 06, 2026",
+    dateValue: "2026-06-06",
+    text: "🤝 POLITICAL REALIGNMENT: Over 300 members and leaders from AIADMK officially join Chief Minister Vijay's party, the Tamilaga Vettri Kazhagam (TVK), extending full support to the ruling coalition.",
+    source: "Source: Economic Times / ABP Live",
+    color: "#FFB800"
+  },
+  {
+    id: 20260607001,
+    date: "June 07, 2026",
+    dateValue: "2026-06-07",
+    text: "📄 ONLINE DOCUMENT SERVICES: Commercial Taxes & Registration Department launches 'Anywhere Registration' system to enable 24/7 online property deed, mortgage, and Housing Board document registration, eliminating the need for physical sub-registrar office visits.",
+    source: "Source: The Hindu BusinessLine / Times of India",
+    color: "#1A73E8"
+  },
+  {
+    id: 20260607002,
+    date: "June 07, 2026",
+    dateValue: "2026-06-07",
+    text: "⚽ SPORTS IN SCHOOLS: School Education Department issues G.O. mandating compulsory physical education periods for classes 6 to 12 across all schools, forbidding substitution of PE classes with academic subjects.",
+    source: "Source: Mathrubhumi English / Jagran Josh",
+    color: "#00C9A7"
+  },
+  {
+    id: 20260607003,
+    date: "June 07, 2026",
+    dateValue: "2026-06-07",
+    text: "🍺 TASMAC REFORM: Prohibition & Excise Department imposes additional levy on liquor and beer manufacturers to raise state revenue and plug financial leakages in the TASMAC retail chain.",
+    source: "Source: DT Next / Times of India",
+    color: "#FF4757"
+  },
+  {
+    id: 20260607004,
+    date: "June 07, 2026",
+    dateValue: "2026-06-07",
+    text: "📋 GOVERNANCE MONITORING: New guidelines issued for district in-charge Ministers, detailing responsibilities to collaborate closely with collectors and ensure efficient project implementation.",
+    source: "Source: DT Next",
+    color: "#1A73E8"
   }
 ];

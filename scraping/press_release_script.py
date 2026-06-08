@@ -18,21 +18,21 @@ def scrape_tn_press_releases(target_date=None):
         try:
             # Try parsing standard YYYY-MM-DD format first
             dt = datetime.strptime(target_date, "%Y-%m-%d")
-            today_date_str = dt.strftime("%B %d ,%Y")
+            today_date_str = dt.strftime("%b %d ,%Y")
             if dt.date() != today.date():
                 is_today = False
         except ValueError:
             # Fallback to accepting the exact string
             today_date_str = target_date
             try:
-                dt = datetime.strptime(target_date, "%B %d ,%Y")
+                dt = datetime.strptime(target_date, "%b %d ,%Y")
                 if dt.date() != today.date():
                     is_today = False
             except ValueError:
                 pass
     else:
         # Get today's date in the format used on the website (e.g., "May 22 ,2026")
-        today_date_str = today.strftime("%B %d ,%Y")  # Format: May 22 ,2026
+        today_date_str = today.strftime("%b %d ,%Y")  # Format: May 22 ,2026
 
     if is_today:
         url = "https://www.tn.gov.in/press_release.php"
