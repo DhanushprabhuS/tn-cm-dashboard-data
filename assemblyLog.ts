@@ -3,6 +3,7 @@
  *
  * HOW TO UPDATE:
  *   - Append new session entries at the bottom with a new id (YYYYMMDD001).
+ *   - dateValue: "YYYY-MM-DD" proper date value for UI filtering.
  *   - highlights: array of HTML strings — use <strong> and <em> for emphasis.
  *   - voteResult: optional — when a confidence/no-confidence vote is held.
  *     The app renders this as a visual vote bar automatically.
@@ -24,6 +25,7 @@ export interface VoteResult {
 export interface AssemblySession {
   id: number;                    // YYYYMMDD001 — calendar date of the session
   date: string;                  // "May 11, 2026" — used by dateSortFn
+  dateValue: string;             // "YYYY-MM-DD"
   dayNum: number;                // Calendar day e.g. 11
   month: string;                 // "May 2026"
   badgeLabel: string;            // "Day 1"
@@ -36,8 +38,23 @@ export interface AssemblySession {
 
 export const assemblyLog: AssemblySession[] = [
   {
+    id: 20260510001,
+    date: "May 10, 2026",
+    dateValue: "2026-05-10",
+    dayNum: 10,
+    month: "May 2026",
+    badgeLabel: "Pre-session",
+    badgeClass: "",
+    title: "🏛️ Pro-tem Speaker Sworn In",
+    highlights: [
+      "<strong>Governor Rajendra Arlekar</strong> administered oath of office to <strong>Thiru MV Karuppaiah</strong> as Pro-tem Speaker of the 17th Tamil Nadu Legislative Assembly.",
+      "Ceremony held in the presence of <strong>Chief Minister Vijay</strong> at the Raj Bhavan.",
+    ],
+  },
+  {
     id: 20260511001,
     date: "May 11, 2026",
+    dateValue: "2026-05-11",
     dayNum: 11,
     month: "May 2026",
     badgeLabel: "Day 1",
@@ -48,11 +65,13 @@ export const assemblyLog: AssemblySession[] = [
       "<strong>CM Vijay</strong> took oath as MLA for Perambur constituency (vacated Tiruchirappalli East).",
       "First session of 17th Tamil Nadu Legislative Assembly formally commenced at <strong>9:30 AM, Fort St. George, Chennai.</strong>",
       "TVK&apos;s historic entry into the Assembly — first non-Dravidian party govt since 1967.",
+      "Nominations for <strong>Speaker and Deputy Speaker</strong> posts filed in the presence of CM Vijay.",
     ],
   },
   {
     id: 20260512001,
     date: "May 12, 2026",
+    dateValue: "2026-05-12",
     dayNum: 12,
     month: "May 2026",
     badgeLabel: "Day 2",
@@ -71,6 +90,7 @@ export const assemblyLog: AssemblySession[] = [
   {
     id: 20260513001,
     date: "May 13, 2026",
+    dateValue: "2026-05-13",
     dayNum: 13,
     month: "May 2026",
     badgeLabel: "Day 3",
@@ -90,6 +110,7 @@ export const assemblyLog: AssemblySession[] = [
       "Ayes: <strong>TVK (105) + post-poll allies (13) + 25 AIADMK rebels + 1 AMMK</strong>",
       "Note: Speaker JCD Prabhakar did not vote per convention. Trichy East seat vacant.",
       "AIADMK factional split confirmed — 25 rebels led by SP Velumani (Thondamuthur) backed Vijay.",
+      "CM released formal statement urging Union Government to <strong>abolish NEET</strong> and base medical admissions on Class 12 marks.",
     ],
   },
 ];

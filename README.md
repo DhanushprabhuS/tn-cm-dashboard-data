@@ -34,14 +34,56 @@ Never renumber existing ids — only append new ones.
 
 ---
 
+## Scraper Tool — Automated Press Release Fetcher
+
+A Python scraper is available to fetch today's press releases directly from `tn.gov.in` without manual browsing.
+
+**Script location:** `scraping/press_release_script.py`
+
+**How to run:**
+```
+python c:\PROJECT\others\data\scraping\press_release_script.py
+```
+
+**Output format** (JSON to stdout):
+```json
+{
+  "status": "success",
+  "date": "May 22 ,2026",
+  "total_releases": 10,
+  "press_releases": [
+    {
+      "title": "...",
+      "date": "May 22 ,2026",
+      "primary_link": "https://cms.tn.gov.in/cms_migrated/document/press_release/pr220526a.jpg",
+      "all_links": { "main": "...", "pdfs": [...], "images": [...] },
+      "dept": "CMO",
+      "press_release_number": null
+    }
+  ]
+}
+```
+
+**What it does:**
+- Fetches `https://www.tn.gov.in/press_release.php`
+- Filters to today's date only
+- Extracts title, links (images + PDFs), and auto-detects department
+- Use `primary_link` as the `url` field when adding to `pressReleases.ts`
+
+**Always run this first** before manual searching — it catches all official releases for the day in one step.
+
+---
+
 ## Rules for the Agent
 
 1. **Never modify `id` of existing records** — only add new records with new ids.
 2. **Always append** — put newest entries at the **bottom** of the array. The app sorts by id.
 3. **`pressReleases.ts`** is the primary update target. Add new entries daily from `cms.tn.gov.in`.
 4. **`date` field** must be `"Month DD, YYYY"` format (e.g. `"May 17, 2026"`) for sort to work.
-5. For `status` in `manifesto.ts`: use `"✅ Implemented — [Date]"` or `"⏳ Pending implementation"`.
-6. For `schemes.ts` `status`: use `"ACTIVE"` or `"PENDING"` with matching `statusClass: ""` or `"pending"`.
+5. **`dateValue` field** must always be provided alongside `date` in the formats that support it (`newsFeed.ts`, `pressReleases.ts`, `assemblyLog.ts`, and `schemes.ts`). It must be a machine-readable string in `"YYYY-MM-DD"` format (e.g. `"2026-05-22"`), representing the exact date of the entry/order for filtering.
+6. **`highlight` field** (optional boolean) in `newsFeed.ts` and `pressReleases.ts` must be set to `true` for major industrial, corporate, or foreign investor meetings held with Chief Minister Vijay (e.g., TAFE, BMW, Yamaha, FICCI, MRF, Kothari, etc.) to highlight them in the UI.
+7. For `status` in `manifesto.ts`: use `"✅ Implemented — [Date]"` or `"⏳ Pending implementation"`.
+8. For `schemes.ts` `status`: use `"ACTIVE"` or `"PENDING"` with matching `statusClass: ""` or `"pending"`.
 
 ---
 
