@@ -2997,5 +2997,95 @@ export const pressReleases: PressRelease[] = [
     summary: "Chief Minister Vijay congratulated Chess Grandmaster Praggnanandhaa on his victory at the Norway Chess 2026 tournament through a social media post.",
     imageUrls: [],
     pdfUrls: ["https://cms.tn.gov.in/cms_migrated/document/press_release/pr060626_184.pdf"]
+  },
+  {
+    id: 20260608001,
+    dept: ["Minorities Welfare"],
+    date: "Jun 08, 2026",
+    dateValue: "2026-06-08",
+    title: "Honble Minister for Minorities Welfare welcomed Hajj Pilgrims returning to Chennai on their holy pilgrimage",
+    summary: "The Minister for Minorities Welfare extended a warm welcome to Hajj pilgrims returning to Chennai after completing their holy pilgrimage to Mecca.",
+    imageUrls: [
+      "https://cms.tn.gov.in/cms_migrated/document/press_release/pr080626d_mw1.jpg",
+      "https://cms.tn.gov.in/cms_migrated/document/press_release/pr080626d_mw2.jpg"
+    ],
+    pdfUrls: []
+  },
+  {
+    id: 20260608002,
+    dept: ["CMO"],
+    date: "Jun 08, 2026",
+    dateValue: "2026-06-08",
+    title: "Chairperson of the Tamil Nadu State Human Rights Commission called on the Honble Chief Minister",
+    summary: "The Chairperson of the Tamil Nadu State Human Rights Commission met with Chief Minister Vijay to discuss human rights protection and institutional initiatives.",
+    imageUrls: [
+      "https://cms.tn.gov.in/cms_migrated/document/press_release/pr080626c.jpg"
+    ],
+    pdfUrls: []
+  },
+  {
+    id: 20260608003,
+    dept: ["CMO"],
+    date: "Jun 08, 2026",
+    dateValue: "2026-06-08",
+    title: "Chairman of the Sanmar Group called on the Honble Chief Minister",
+    summary: "The Chairman of the Sanmar Group, a major industrial conglomerate, met with Chief Minister Vijay to discuss business collaboration and economic growth initiatives.",
+    imageUrls: [
+      "https://cms.tn.gov.in/cms_migrated/document/press_release/pr080626d.jpg"
+    ],
+    pdfUrls: [],
+    highlight: true
+  },
+  {
+    id: 20260608004,
+    dept: ["CMO"],
+    date: "Jun 08, 2026",
+    dateValue: "2026-06-08",
+    title: "Representatives of the South Indian Sugar Mills Association and Sugar Manufacturing Companies called on the Honble Chief Minister",
+    summary: "Representatives of the South Indian Sugar Mills Association and major sugar manufacturing companies met with Chief Minister Vijay to discuss sugar industry support and welfare measures.",
+    imageUrls: [
+      "https://cms.tn.gov.in/cms_migrated/document/press_release/pr080626e.jpg"
+    ],
+    pdfUrls: []
+  },
+  {
+    id: 20260608005,
+    dept: ["CMO"],
+    date: "Jun 08, 2026",
+    dateValue: "2026-06-08",
+    title: "Chairman and Managing Director of NLC India Limited called on the Honble Chief Minister",
+    summary: "The Chairman and Managing Director of NLC India Limited, a major public sector energy undertaking, met with Chief Minister Vijay to discuss energy security and industrial collaboration.",
+    imageUrls: [
+      "https://cms.tn.gov.in/cms_migrated/document/press_release/pr080626f.jpg"
+    ],
+    pdfUrls: [],
+    highlight: true
+  },
+  {
+    id: 20260608006,
+    dept: ["CMO"],
+    date: "Jun 08, 2026",
+    dateValue: "2026-06-08",
+    title: "Honble Minister for Commercial Taxes and Registration called on the Honble Chief Minister on the occasion of his birthday",
+    summary: "The Minister for Commercial Taxes and Registration met with Chief Minister Vijay on the occasion of his birthday to extend warm wishes.",
+    imageUrls: [
+      "https://cms.tn.gov.in/cms_migrated/document/press_release/pr080626g.jpg"
+    ],
+    pdfUrls: []
+  },
+  {
+    id: 20260608007,
+    dept: ["CMO"],
+    date: "Jun 08, 2026",
+    dateValue: "2026-06-08",
+    title: "Honble Chief Minister felicitated Grandmaster Praggnanandhaa for his historic Norway Chess 2026 achievement",
+    summary: "Chief Minister Vijay felicitated Chess Grandmaster Praggnanandhaa for his historic victory at the Norway Chess 2026 tournament in recognition of his outstanding achievement.",
+    imageUrls: [
+      "https://cms.tn.gov.in/cms_migrated/document/press_release/pr080626a.jpg",
+      "https://cms.tn.gov.in/cms_migrated/document/press_release/pr080626b.jpg"
+    ],
+    pdfUrls: [
+      "https://cms.tn.gov.in/cms_migrated/document/press_release/pr080626_191.pdf"
+    ]
   }
 ];
