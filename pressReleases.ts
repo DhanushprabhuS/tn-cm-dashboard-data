@@ -3087,5 +3087,197 @@ export const pressReleases: PressRelease[] = [
     pdfUrls: [
       "https://cms.tn.gov.in/cms_migrated/document/press_release/pr080626_191.pdf"
     ]
+  },
+  {
+    id: 20260609001,
+    dept: ["CMO"],
+    date: "Jun 09, 2026",
+    dateValue: "2026-06-09",
+    title: "President of the Pattali Makkal Katchi and Member of Parliament called on the Honble Chief Minister",
+    summary: "The President of the Pattali Makkal Katchi (PMK) and Member of Parliament met with Chief Minister Vijay to discuss coalition matters and political coordination.",
+    imageUrls: [
+      "https://cms.tn.gov.in/cms_migrated/document/press_release/pr090626a.jpg"
+    ],
+    pdfUrls: [],
+  },
+  {
+    id: 20260609002,
+    dept: ["CMO"],
+    date: "Jun 09, 2026",
+    dateValue: "2026-06-09",
+    title: "Representatives of the Centre of Indian Trade Unions called on the Honble Chief Minister",
+    summary: "Representatives of the Centre of Indian Trade Unions (CITU) met with Chief Minister Vijay to discuss labor welfare policies and workers' rights initiatives.",
+    imageUrls: [
+      "https://cms.tn.gov.in/cms_migrated/document/press_release/pr090626_b.jpg"
+    ],
+    pdfUrls: []
+  },
+  {
+    id: 20260609003,
+    dept: ["Labour"],
+    date: "Jun 09, 2026",
+    dateValue: "2026-06-09",
+    title: "Honble Minister for Labour Welfare and Skill Development chaired review meeting with department officials",
+    summary: "The Minister for Labour Welfare and Skill Development held a review meeting with department officials to assess ongoing labor welfare programs and skill development initiatives.",
+    imageUrls: [
+      "https://cms.tn.gov.in/cms_migrated/document/press_release/pr090626_lwsd3.jpg"
+    ],
+    pdfUrls: []
+  },
+  {
+    id: 20260609004,
+    dept: ["Electricity"],
+    date: "Jun 09, 2026",
+    dateValue: "2026-06-09",
+    title: "Honble Minister for Energy Resources and Law inaugurated the Green Power, Renewable Energy Conference and released a Technical Publication",
+    summary: "The Minister for Energy Resources and Law inaugurated the Green Power and Renewable Energy Conference and released a technical publication on sustainable energy practices.",
+    imageUrls: [
+      "https://cms.tn.gov.in/cms_migrated/document/press_release/pr090626_enrgy.jpg"
+    ],
+    pdfUrls: []
+  },
+  {
+    id: 20260609005,
+    dept: ["Agriculture"],
+    date: "Jun 09, 2026",
+    dateValue: "2026-06-09",
+    title: "Honble Minister for Agriculture and Farmers Welfare reviewed the activities of the horticulture and plantation crops department",
+    summary: "The Minister for Agriculture and Farmers Welfare reviewed the performance and activities of the horticulture and plantation crops department to ensure effective farmer support.",
+    imageUrls: [
+      "https://cms.tn.gov.in/cms_migrated/document/press_release/pr090626_agri.jpg"
+    ],
+    pdfUrls: []
+  },
+  {
+    id: 20260609006,
+    dept: ["MSME"],
+    date: "Jun 09, 2026",
+    dateValue: "2026-06-09",
+    title: "Honble Minister for Micro, Small and Medium Enterprises reviewed sericulture, handicrafts development activities and inspected handicraft products",
+    summary: "The Minister for MSME reviewed sericulture and handicrafts development programs, and inspected handicraft products to promote artisan-based industries and livelihoods.",
+    imageUrls: [
+      "https://cms.tn.gov.in/cms_migrated/document/press_release/pr090626_msme1.jpg",
+      "https://cms.tn.gov.in/cms_migrated/document/press_release/pr090626_msme2.jpg"
+    ],
+    pdfUrls: []
+  },
+  {
+    id: 20260609007,
+    dept: ["CMO"],
+    date: "Jun 09, 2026",
+    dateValue: "2026-06-09",
+    title: "Honble Chief Minister at the Singappen Special Task Force Launch Ceremony – Set I",
+    summary: "Chief Minister Vijay attended the launch ceremony of the Singappen Special Task Force, part of the government's commitment to enhanced law enforcement and public safety.",
+    imageUrls: [
+      "https://cms.tn.gov.in/cms_migrated/document/press_release/pr090626_cm1.jpg",
+      "https://cms.tn.gov.in/cms_migrated/document/press_release/pr090626_cm2.jpg",
+      "https://cms.tn.gov.in/cms_migrated/document/press_release/pr090626_cm3.jpg"
+    ],
+    pdfUrls: []
+  },
+  {
+    id: 20260609008,
+    dept: ["CMO"],
+    date: "Jun 09, 2026",
+    dateValue: "2026-06-09",
+    title: "Honble Chief Minister at the Singappen Special Task Force Launch Ceremony – Set III",
+    summary: "Chief Minister Vijay attended the second session of the Singappen Special Task Force launch ceremony, continuing the government's focus on law enforcement modernization.",
+    imageUrls: [
+      "https://cms.tn.gov.in/cms_migrated/document/press_release/pr090626_cm4.jpg",
+      "https://cms.tn.gov.in/cms_migrated/document/press_release/pr090626_cm5.jpg"
+    ],
+    pdfUrls: []
+  },
+  {
+    id: 20260609009,
+    dept: ["General"],
+    date: "Jun 09, 2026",
+    dateValue: "2026-06-09",
+    title: "Entrepreneurship Development and Innovation Institute (EDII-TN) – Five-days training programme on Laptop Hardware and Chip-Level Servicing - English Version",
+    summary: "EDII-TN announced a five-day training programme on laptop hardware and chip-level servicing in English to equip participants with technical repair and maintenance skills.",
+    imageUrls: [],
+    pdfUrls: [
+      "https://cms.tn.gov.in/cms_migrated/document/press_release/pr090626_e_199.pdf"
+    ]
+  },
+  {
+    id: 20260609010,
+    dept: ["General"],
+    date: "Jun 09, 2026",
+    dateValue: "2026-06-09",
+    title: "Entrepreneurship Development and Innovation Institute (EDII-TN) – Five-days training programme on Laptop Hardware and Chip-Level Servicing - Tamil Version",
+    summary: "EDII-TN announced a five-day training programme on laptop hardware and chip-level servicing in Tamil to make technical skills accessible to Tamil-speaking participants.",
+    imageUrls: [],
+    pdfUrls: [
+      "https://cms.tn.gov.in/cms_migrated/document/press_release/pr090626_t_199.pdf"
+    ]
+  },
+  {
+    id: 20260609011,
+    dept: ["General"],
+    date: "Jun 09, 2026",
+    dateValue: "2026-06-09",
+    title: "Entrepreneurship Development and Innovation Institute (EDII-TN) – Three-days training programme on E-Commerce - English Version",
+    summary: "EDII-TN launched a three-day e-commerce training programme in English to develop entrepreneurship skills and digital business competency among aspiring entrepreneurs.",
+    imageUrls: [],
+    pdfUrls: [
+      "https://cms.tn.gov.in/cms_migrated/document/press_release/pr090626_e_198.pdf"
+    ]
+  },
+  {
+    id: 20260609012,
+    dept: ["General"],
+    date: "Jun 09, 2026",
+    dateValue: "2026-06-09",
+    title: "Entrepreneurship Development and Innovation Institute (EDII-TN) – Three-days training programme on E-Commerce - Tamil Version",
+    summary: "EDII-TN launched a three-day e-commerce training programme in Tamil to promote digital entrepreneurship and online business skills among Tamil-speaking communities.",
+    imageUrls: [],
+    pdfUrls: [
+      "https://cms.tn.gov.in/cms_migrated/document/press_release/pr090626_t_198.pdf"
+    ]
+  },
+  {
+    id: 20260609013,
+    dept: ["Labour"],
+    date: "Jun 09, 2026",
+    dateValue: "2026-06-09",
+    title: "Honble Minister for Labour Welfare and Skill Development inaugurated Industrial Training Institute admission counselling and issued admission orders",
+    summary: "The Minister for Labour Welfare and Skill Development inaugurated the ITI admission counselling process and issued admission orders to qualified candidates for vocational training.",
+    imageUrls: [
+      "https://cms.tn.gov.in/cms_migrated/document/press_release/pr090626_lwsd1.jpg",
+      "https://cms.tn.gov.in/cms_migrated/document/press_release/pr090626_lwsd2.jpg"
+    ],
+    pdfUrls: [
+      "https://cms.tn.gov.in/cms_migrated/document/press_release/pr090626_197.pdf"
+    ]
+  },
+  {
+    id: 20260609014,
+    dept: ["General"],
+    date: "Jun 09, 2026",
+    dateValue: "2026-06-09",
+    title: "Honble Minister for Commercial Taxes and Registration chaired the first performance review meeting of registration department officials",
+    summary: "The Minister for Commercial Taxes and Registration chaired the inaugural performance review meeting with registration department officials to assess departmental efficiency and service delivery.",
+    imageUrls: [
+      "https://cms.tn.gov.in/cms_migrated/document/press_release/pr090626_ctax.JPG"
+    ],
+    pdfUrls: [
+      "https://cms.tn.gov.in/cms_migrated/document/press_release/pr090626_196.pdf"
+    ]
+  },
+  {
+    id: 20260609015,
+    dept: ["Public Works"],
+    date: "Jun 09, 2026",
+    dateValue: "2026-06-09",
+    title: "Honble Minister for Public Works and Sports Development presented financial assistance and sports equipment to Para Athletes and Sportspersons",
+    summary: "The Minister for Public Works and Sports Development distributed financial assistance and sports equipment to para athletes and sportspersons to support their training and competition efforts.",
+    imageUrls: [
+      "https://cms.tn.gov.in/cms_migrated/document/press_release/pr090626_pwsd1.JPG",
+      "https://cms.tn.gov.in/cms_migrated/document/press_release/pr090626_pwsd2.jpg"
+    ],
+    pdfUrls: [
+      "https://cms.tn.gov.in/cms_migrated/document/press_release/pr090626_195.pdf"
+    ]
   }
 ];

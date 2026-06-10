@@ -362,5 +362,62 @@ export const newsFeed: FeedItem[] = [
     text: "📋 GOVERNANCE MONITORING: New guidelines issued for district in-charge Ministers, detailing responsibilities to collaborate closely with collectors and ensure efficient project implementation.",
     source: "Source: DT Next",
     color: "#1A73E8"
+  },
+  {
+    id: 20260609012,
+    date: "June 09, 2026",
+    dateValue: "2026-06-09",
+    text: "🏛️ AIADMK DISQUALIFICATION CASE: Tamil Nadu Assembly Speaker J.C.D. Prabhakar dropped disqualification proceedings against 21 AIADMK MLAs after party general secretary Edappadi K. Palaniswami formally condoned their actions, resolving the defection crisis.",
+    source: "Source: The Hindu",
+    color: "#FFB800"
+  },
+  {
+    id: 20260610001,
+    date: "June 10, 2026",
+    dateValue: "2026-06-10",
+    text: "🎯 NITI AAYOG SUMMIT: CM Vijay departed for New Delhi on a three-day official visit to attend the NITI Aayog Governing Council meeting and hold critical discussions with national leaders including the President, Home Minister, and Finance Minister.",
+    source: "Source: News18 / CMO",
+    color: "#1A73E8",
+    highlight: true
+  },
+  {
+    id: 20260610002,
+    date: "June 10, 2026",
+    dateValue: "2026-06-10",
+    text: "🤔 OPPOSITION CRITICISM: DMK president M.K. Stalin stated that the TVK-led government is currently in power due to the benevolence of the DMK-led alliance, claiming it relies on opposition cooperation to maintain stability.",
+    source: "Source: Economic Times",
+    color: "#FF4757"
+  },
+  {
+    id: 20260610003,
+    date: "June 10, 2026",
+    dateValue: "2026-06-10",
+    text: "⚡ POLITICAL SKEPTICISM: DMK chief Stalin claims the TVK government may not survive beyond three months, citing political instability and coalition tensions in the ruling alliance.",
+    source: "Source: The New Indian Express",
+    color: "#FF4757"
+  },
+  {
+    id: 20260609013,
+    date: "June 09, 2026",
+    dateValue: "2026-06-09",
+    text: "🔄 POLITICAL REALIGNMENT: Over 300 AIADMK members, including former ministers and multiple ex-MLAs, formally joined the Tamilaga Vettri Kazhagam (TVK), significantly strengthening CM Vijay's political position in the Assembly.",
+    source: "Source: Economic Times / Times of India",
+    color: "#FFB800"
+  },
+  {
+    id: 20260605001,
+    date: "June 05, 2026",
+    dateValue: "2026-06-05",
+    text: "⚠️ GOVERNANCE CONCERNS: Vikatan report reveals that CM Vijay maintains a working style of ignoring coalition allies while being surrounded by a close coterie, raising concerns about inclusive coalition governance.",
+    source: "Source: The Commune / Vikatan",
+    color: "#FF4757"
+  },
+  {
+    id: 20260605002,
+    date: "June 05, 2026",
+    dateValue: "2026-06-05",
+    text: "🚪 BJP LEADERSHIP CHANGE: K. Annamalai, serving as Tamil Nadu BJP president, resigned from the position amid political developments in the state.",
+    source: "Source: India TV News",
+    color: "#FFB800"
   }
 ];

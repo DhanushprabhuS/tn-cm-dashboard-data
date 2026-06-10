@@ -1,6 +1,6 @@
 /**
  * schemes.ts — Government Orders (GOs) and Active Schemes.
- * Agent Last Updated: June 01, 2026
+ * Agent Last Updated: June 10, 2026
  *
  * HOW TO UPDATE:
  *   - Append new entries at the bottom with a new id (YYYYMMDD###).
@@ -187,5 +187,16 @@ export const schemes: Scheme[] = [
   date: "Signed: June 07, 2026 · Commercial Taxes & Registration Dept",
   dateValue: "2026-06-07",
   color: "#E91E63"
+},
+{
+  id: 20260609001,
+  tag: "GO · JUNE 9",
+  name: "🚔 Singappen Special Task Force Launch Ceremony",
+  status: "ACTIVE",
+  statusClass: "",
+  desc: "Chief Minister Vijay launched the Singappen Special Task Force, a dedicated law enforcement initiative aimed at enhancing public safety and maintaining law and order across the state. The task force represents the government's commitment to modernized policing and swift action against crime.",
+  date: "Launched: June 09, 2026 · Home Department",
+  dateValue: "2026-06-09",
+  color: "#FF4757"
 },
 ];
