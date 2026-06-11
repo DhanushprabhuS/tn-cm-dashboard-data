@@ -33,4 +33,6 @@ export const manifesto: ManifestoPromise[] = [
   { id: 20260521001, icon: "🤖",  title: "AI & IT Department",     amount: "Dedicated Ministry", status: "✅ Established — May 21",   progress: "100%", color: "var(--saffron)" },
   { id: 20260604001, icon: "🏦",  title: "TNSIA — Strategic Investment Authority", amount: "Rs. 50,000 Crore", status: "⏳ In Progress — Jun 04", progress: "20%", color: "var(--gold)" },
   { id: 20260604002, icon: "💼",  title: "10 Lakh New Jobs in 5 Years", amount: "10 Lakh Jobs",  status: "⏳ In Progress — Jun 04",  progress: "5%",  color: "var(--gold)" },
+  { id: 20260607001, icon: "📋",  title: "Anywhere Registration System", amount: "24/7 Online", status: "✅ Implemented — Jun 07", progress: "100%", color: "var(--saffron)" },
+  { id: 20260608001, icon: "💧",  title: "24x7 Drinking Water Supply", amount: "5-Year Plan", status: "⏳ In Progress — Jun 08", progress: "15%", color: "var(--gold)" },
 ];

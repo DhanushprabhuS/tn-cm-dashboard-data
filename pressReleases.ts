@@ -3279,5 +3279,274 @@ export const pressReleases: PressRelease[] = [
     pdfUrls: [
       "https://cms.tn.gov.in/cms_migrated/document/press_release/pr090626_195.pdf"
     ]
+  },
+  {
+    id: 20260610001,
+    dept: ["Electricity"],
+    date: "Jun 10, 2026",
+    dateValue: "2026-06-10",
+    title: "Honble Minister for Energy Resources and Law chaired a review meeting on the prisons and correctional services department",
+    summary: "The Minister for Energy Resources and Law chaired a comprehensive review meeting on the functioning and operations of the prisons and correctional services department.",
+    imageUrls: [
+      "https://cms.tn.gov.in/cms_migrated/document/press_release/pr100626_enrgy.jpg"
+    ],
+    pdfUrls: []
+  },
+  {
+    id: 20260610002,
+    dept: ["Agriculture"],
+    date: "Jun 10, 2026",
+    dateValue: "2026-06-10",
+    title: "Honble Minister for Agriculture and Farmers Welfare inspected research facilities and crop varieties at Tamil Nadu Agricultural University",
+    summary: "The Minister for Agriculture and Farmers Welfare conducted an inspection of research facilities and reviewed crop varieties being developed at Tamil Nadu Agricultural University.",
+    imageUrls: [
+      "https://cms.tn.gov.in/cms_migrated/document/press_release/pr100626_agri1.jpeg",
+      "https://cms.tn.gov.in/cms_migrated/document/press_release/pr100626_agri2.jpg"
+    ],
+    pdfUrls: []
+  },
+  {
+    id: 20260610003,
+    dept: ["General"],
+    date: "Jun 10, 2026",
+    dateValue: "2026-06-10",
+    title: "Honble Minister for Human Resources Management chaired a review meeting on the activities of the Ex-Servicemen Welfare Department and Ex-Servicemen Corporation",
+    summary: "The Minister for Human Resources Management chaired a review meeting to assess the activities and performance of the Ex-Servicemen Welfare Department and Ex-Servicemen Corporation.",
+    imageUrls: [
+      "https://cms.tn.gov.in/cms_migrated/document/press_release/pr100626_hrm.jpg"
+    ],
+    pdfUrls: []
+  },
+  {
+    id: 20260610004,
+    dept: ["CMO"],
+    date: "Jun 10, 2026",
+    dateValue: "2026-06-10",
+    title: "Honble Chief Minister called on the Honble President of India",
+    summary: "The Chief Minister paid an official visit to meet with the President of India to discuss matters of state importance.",
+    imageUrls: [
+      "https://cms.tn.gov.in/cms_migrated/document/press_release/pr100626c.jpg"
+    ],
+    pdfUrls: [],
+    highlight: true
+  },
+  {
+    id: 20260610005,
+    dept: ["CMO"],
+    date: "Jun 10, 2026",
+    dateValue: "2026-06-10",
+    title: "Honble Chief Minister called on the Honble Vice President of India",
+    summary: "The Chief Minister met with the Vice President of India to discuss state-level policies and development initiatives.",
+    imageUrls: [
+      "https://cms.tn.gov.in/cms_migrated/document/press_release/pr100626i.JPG",
+      "https://cms.tn.gov.in/cms_migrated/document/press_release/pr100626g.jpg",
+      "https://cms.tn.gov.in/cms_migrated/document/press_release/pr100626h.JPG",
+      "https://cms.tn.gov.in/cms_migrated/document/press_release/pr100626j.jpg"
+    ],
+    pdfUrls: [],
+    highlight: true
+  },
+  {
+    id: 20260610006,
+    dept: ["Electricity"],
+    date: "Jun 10, 2026",
+    dateValue: "2026-06-10",
+    title: "Honble Minister for Energy Resources and Law paid floral tributes to Director Bharathiraja",
+    summary: "The Minister for Energy Resources and Law paid floral tributes to renowned film director Bharathiraja as a mark of respect and honor.",
+    imageUrls: [
+      "https://cms.tn.gov.in/cms_migrated/document/press_release/pr100626_enrgy2.jpg"
+    ],
+    pdfUrls: []
+  },
+  {
+    id: 20260610007,
+    dept: ["Education"],
+    date: "Jun 10, 2026",
+    dateValue: "2026-06-10",
+    title: "Actor and Public Speaker Thiru Erode Mahesh called on the Honble Minister for School Education, Tamil Development, Information and Publicity",
+    summary: "Actor and public speaker Thiru Erode Mahesh met with the Minister for School Education, Tamil Development, Information and Publicity to discuss cultural and educational initiatives.",
+    imageUrls: [
+      "https://cms.tn.gov.in/cms_migrated/document/press_release/pr100626_sedu1.jpg"
+    ],
+    pdfUrls: []
+  },
+  {
+    id: 20260610008,
+    dept: ["Education"],
+    date: "Jun 10, 2026",
+    dateValue: "2026-06-10",
+    title: "Music artist and lyricist Vedan called on the Honble Minister for School Education, Tamil Development, Information and Publicity",
+    summary: "Music artist and lyricist Vedan met with the Minister for School Education, Tamil Development, Information and Publicity to discuss cultural and artistic promotion.",
+    imageUrls: [
+      "https://cms.tn.gov.in/cms_migrated/document/press_release/pr100626_sedu2.jpg"
+    ],
+    pdfUrls: []
+  },
+  {
+    id: 20260610009,
+    dept: ["CMO"],
+    date: "Jun 10, 2026",
+    dateValue: "2026-06-10",
+    title: "Honble Chief Minister called on Thiru Rahul Gandhi, leader of opposition in the Lok Sabha",
+    summary: "The Chief Minister met with Thiru Rahul Gandhi, the opposition leader in the Lok Sabha, to discuss national and state-level matters.",
+    imageUrls: [
+      "https://cms.tn.gov.in/cms_migrated/document/press_release/pr100626k.jpg",
+      "https://cms.tn.gov.in/cms_migrated/document/press_release/pr100626l.JPG"
+    ],
+    pdfUrls: [],
+    highlight: true
+  },
+  {
+    id: 20260610010,
+    dept: ["Education"],
+    date: "Jun 10, 2026",
+    dateValue: "2026-06-10",
+    title: "Honble Minister for School Education, Tamil Development, Information and Publicity distributed educational assistance to meritorious students, headmasters and teachers",
+    summary: "The Minister for School Education distributed educational assistance to meritorious students as well as financial support to headmasters and teachers under government welfare schemes.",
+    imageUrls: [
+      "https://cms.tn.gov.in/cms_migrated/document/press_release/pr100626_sedu3.jpg",
+      "https://cms.tn.gov.in/cms_migrated/document/press_release/pr100626_sedu4.jpg",
+      "https://cms.tn.gov.in/cms_migrated/document/press_release/pr100626_sedu5.jpg",
+      "https://cms.tn.gov.in/cms_migrated/document/press_release/pr100626_sedu6.jpg",
+      "https://cms.tn.gov.in/cms_migrated/document/press_release/pr100626_sedu7.jpg"
+    ],
+    pdfUrls: [
+      "https://cms.tn.gov.in/cms_migrated/document/press_release/pr100626_209.pdf"
+    ]
+  },
+  {
+    id: 20260610011,
+    dept: ["Electricity"],
+    date: "Jun 10, 2026",
+    dateValue: "2026-06-10",
+    title: "Honble Minister for Energy Resources and Law flagged Off monitoring teams and special power restoration patrol vehicles for rapid rectification of power disruptions in chennai and suburban areas",
+    summary: "The Minister for Energy Resources and Law flagged off specialized monitoring teams and power restoration patrol vehicles to rapidly address and rectify power disruptions in Chennai and suburban areas.",
+    imageUrls: [
+      "https://cms.tn.gov.in/cms_migrated/document/press_release/pr100626_enrgy1.jpeg"
+    ],
+    pdfUrls: [
+      "https://cms.tn.gov.in/cms_migrated/document/press_release/pr100626_208.pdf"
+    ]
+  },
+  {
+    id: 20260610012,
+    dept: ["General"],
+    date: "Jun 10, 2026",
+    dateValue: "2026-06-10",
+    title: "Prohibition and Excise Department – Instructions issued to FL2 and FL3 licensed premises for ensuring regulatory compliance - English Version",
+    summary: "The Prohibition and Excise Department issued comprehensive instructions to FL2 and FL3 licensed premises to ensure regulatory compliance and proper operational standards.",
+    imageUrls: [],
+    pdfUrls: [
+      "https://cms.tn.gov.in/cms_migrated/document/press_release/pr100626_e_207.pdf"
+    ]
+  },
+  {
+    id: 20260610013,
+    dept: ["General"],
+    date: "Jun 10, 2026",
+    dateValue: "2026-06-10",
+    title: "Prohibition and Excise Department – Instructions issued to FL2 and FL3 licensed premises for ensuring regulatory compliance - Tamil Version",
+    summary: "The Prohibition and Excise Department issued comprehensive instructions to FL2 and FL3 licensed premises to ensure regulatory compliance and proper operational standards (Tamil version).",
+    imageUrls: [],
+    pdfUrls: [
+      "https://cms.tn.gov.in/cms_migrated/document/press_release/pr100626_t_207.pdf"
+    ]
+  },
+  {
+    id: 20260610014,
+    dept: ["General"],
+    date: "Jun 10, 2026",
+    dateValue: "2026-06-10",
+    title: "Public Distribution System - Public grievance redressal camp to be held in 19 zones of Chennai on 13th June 2026",
+    summary: "The Public Distribution System announced the organization of a public grievance redressal camp to be held across 19 zones of Chennai on 13th June 2026 to address citizen concerns.",
+    imageUrls: [],
+    pdfUrls: [
+      "https://cms.tn.gov.in/cms_migrated/document/press_release/pr100626_206.pdf"
+    ]
+  },
+  {
+    id: 20260610015,
+    dept: ["MSME"],
+    date: "Jun 10, 2026",
+    dateValue: "2026-06-10",
+    title: "Honble Minister for Micro, Small and Medium Enterprises reviewed the preparatory works for Government schemes in the Department",
+    summary: "The Minister for MSME reviewed the preparatory works and implementation status of various government schemes designed to support micro, small, and medium enterprises.",
+    imageUrls: [
+      "https://cms.tn.gov.in/cms_migrated/document/press_release/pr100626_msme.jpg"
+    ],
+    pdfUrls: [
+      "https://cms.tn.gov.in/cms_migrated/document/press_release/pr100626_205.pdf"
+    ]
+  },
+  {
+    id: 20260610016,
+    dept: ["Housing"],
+    date: "Jun 10, 2026",
+    dateValue: "2026-06-10",
+    title: "Honble Minister for Housing and Urban Development reviewed the activities of the Directorate of Town and Country Planning and issued appointment orders to assistant directors",
+    summary: "The Minister for Housing and Urban Development reviewed the activities of the Directorate of Town and Country Planning and issued appointment orders to newly appointed assistant directors.",
+    imageUrls: [
+      "https://cms.tn.gov.in/cms_migrated/document/press_release/pr100626_hud1.jpg",
+      "https://cms.tn.gov.in/cms_migrated/document/press_release/pr100626_hud2.jpg"
+    ],
+    pdfUrls: [
+      "https://cms.tn.gov.in/cms_migrated/document/press_release/pr100626_204.pdf"
+    ]
+  },
+  {
+    id: 20260610017,
+    dept: ["CMO"],
+    date: "Jun 10, 2026",
+    dateValue: "2026-06-10",
+    title: "Condolence message of Honble Chief Minister on the sad demise of Director, Thiru Bharathiraja",
+    summary: "The Chief Minister released a condolence message expressing grief over the passing of renowned film director Thiru Bharathiraja, acknowledging his significant contributions to cinema.",
+    imageUrls: [
+      "https://cms.tn.gov.in/cms_migrated/document/press_release/pr100626a.JPG",
+      "https://cms.tn.gov.in/cms_migrated/document/press_release/pr100626b.jpg"
+    ],
+    pdfUrls: [
+      "https://cms.tn.gov.in/cms_migrated/document/press_release/pr100626_203.pdf"
+    ]
+  },
+  {
+    id: 20260607001,
+    dept: ["General"],
+    date: "Jun 07, 2026",
+    dateValue: "2026-06-07",
+    title: "Anywhere Registration System - 24/7 Online Document Registration Service Launched",
+    summary: "The Tamil Nadu government launched the Anywhere Registration system enabling 24/7 online document registration without visiting sub-registrar offices. Citizens can create accounts on the Registration Department website to digitally register eligible documents. This service covers first sale deeds, Tamil Nadu Housing Board documents, and bank-related deeds with digitally signed documents delivered via email and WhatsApp.",
+    imageUrls: [],
+    pdfUrls: []
+  },
+  {
+    id: 20260608001,
+    dept: ["Water Resources"],
+    date: "Jun 08, 2026",
+    dateValue: "2026-06-08",
+    title: "Chief Minister Directs Implementation of 24x7 Drinking Water Supply Across 25 Municipal Corporations",
+    summary: "Chief Minister C. Joseph Vijay directed officials to implement a comprehensive five-year plan for uninterrupted 24x7 drinking water supply across all 25 municipal corporations in Tamil Nadu. The plan also mandates a minimum of three hours of daily water supply to 146 municipalities and 479 town panchayats. This is part of the Chief Minister's Integrated Urban Transformation Mission (CMIUTM) targeting infrastructure upgrades by 2031.",
+    imageUrls: [],
+    pdfUrls: []
+  },
+  {
+    id: 20260611001,
+    dept: ["CMO"],
+    date: "Jun 11, 2026",
+    dateValue: "2026-06-11",
+    title: "Honble Chief Minister attends the 11th NITI Aayog Governing Council meeting in New Delhi",
+    summary: "Chief Minister C. Joseph Vijay attended the 11th NITI Aayog Governing Council meeting in New Delhi to press for Tamil Nadu's infrastructure and financial demands before the Union Government.",
+    imageUrls: [],
+    pdfUrls: []
+  },
+  {
+    id: 20260611002,
+    dept: ["CMO"],
+    date: "Jun 11, 2026",
+    dateValue: "2026-06-11",
+    title: "Chief Minister Discusses State Development with Union Ministers and Coalition Partners in New Delhi",
+    summary: "During his three-day New Delhi visit, Chief Minister C. Joseph Vijay held meetings with coalition partners, including meetings with Sonia Gandhi and Rahul Gandhi to discuss state governance and political coordination.",
+    imageUrls: [],
+    pdfUrls: [],
+    highlight: true
   }
 ];
