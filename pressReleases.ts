@@ -3548,5 +3548,116 @@ export const pressReleases: PressRelease[] = [
     imageUrls: [],
     pdfUrls: [],
     highlight: true
+  },
+  {
+    id: 20260611003,
+    dept: ["Forests"],
+    date: "Jun 11, 2026",
+    dateValue: "2026-06-11",
+    title: "Honble Minister for Environment and Climate Change chaired a meeting on the 2026–2027 budget plans",
+    summary: "The Minister for Environment and Climate Change chaired a meeting to discuss budget plans for 2026–2027.",
+    imageUrls: [
+      "https://cms.tn.gov.in/cms_migrated/document/press_release/pr110626_ec.jpg"
+    ],
+    pdfUrls: []
+  },
+  {
+    id: 20260611004,
+    dept: ["CMO"],
+    date: "Jun 11, 2026",
+    dateValue: "2026-06-11",
+    title: "Honble Chief Minister attended the 11th Governing Council Meeting of NITI Aayog chaired by the Honble Prime Minister of India",
+    summary: "The Chief Minister attended the 11th Governing Council Meeting of NITI Aayog, chaired by the Prime Minister of India.",
+    imageUrls: [
+      "https://cms.tn.gov.in/cms_migrated/document/press_release/pr110626_a.jpg",
+      "https://cms.tn.gov.in/cms_migrated/document/press_release/pr110626b.jpg"
+    ],
+    pdfUrls: []
+  },
+  {
+    id: 20260611005,
+    dept: ["CMO"],
+    date: "Jun 11, 2026",
+    dateValue: "2026-06-11",
+    title: "Honble Chief Minister called on the Honble Prime Minister of India after the 11th NITI Aayog Governing Council Meeting",
+    summary: "The Chief Minister called on the Prime Minister of India following the conclusion of the 11th NITI Aayog Governing Council Meeting.",
+    imageUrls: [
+      "https://cms.tn.gov.in/cms_migrated/document/press_release/pr110626d.jpg"
+    ],
+    pdfUrls: []
+  },
+  {
+    id: 20260611006,
+    dept: ["General"],
+    date: "Jun 11, 2026",
+    dateValue: "2026-06-11",
+    title: "From Finance Department - Repayment of 7.84 percentage Tamil Nadu State Development Loan, 2026 - English Version",
+    summary: "Official document from the Finance Department regarding the repayment of 7.84 percent Tamil Nadu State Development Loan, 2026, in English.",
+    imageUrls: [],
+    pdfUrls: [
+      "https://cms.tn.gov.in/cms_migrated/document/press_release/pr110626_e_214.pdf"
+    ]
+  },
+  {
+    id: 20260611007,
+    dept: ["General"],
+    date: "Jun 11, 2026",
+    dateValue: "2026-06-11",
+    title: "From Finance Department - Repayment of 7.84 percentage Tamil Nadu State Development Loan, 2026 - Tamil Version",
+    summary: "Official document from the Finance Department regarding the repayment of 7.84 percent Tamil Nadu State Development Loan, 2026, in Tamil.",
+    imageUrls: [],
+    pdfUrls: [
+      "https://cms.tn.gov.in/cms_migrated/document/press_release/pr110626_t_214.pdf"
+    ]
+  },
+  {
+    id: 20260611008,
+    dept: ["CMO"],
+    date: "Jun 11, 2026",
+    dateValue: "2026-06-11",
+    title: "Speech delivered by the Honble Chief Minister at the 11th Governing Council Meeting of NITI Aayog",
+    summary: "The text of the speech delivered by the Chief Minister at the 11th Governing Council Meeting of NITI Aayog.",
+    imageUrls: [],
+    pdfUrls: [
+      "https://cms.tn.gov.in/cms_migrated/document/press_release/pr110626_213.pdf"
+    ]
+  },
+  {
+    id: 20260611009,
+    dept: ["Public Works"],
+    date: "Jun 11, 2026",
+    dateValue: "2026-06-11",
+    title: "On the occasion of International Day Against Drug Abuse, the Tamil Nadu Sports Development Authority invites participants to register for Anti-Drug awareness run",
+    summary: "The Tamil Nadu Sports Development Authority invites participants to register for an anti-drug awareness run organized on the occasion of International Day Against Drug Abuse.",
+    imageUrls: [],
+    pdfUrls: [
+      "https://cms.tn.gov.in/cms_migrated/document/press_release/pr110626_212.pdf"
+    ]
+  },
+  {
+    id: 20260611010,
+    dept: ["Housing"],
+    date: "Jun 11, 2026",
+    dateValue: "2026-06-11",
+    title: "Honble Minister for Housing and Urban Development announced construction of 28,551 tenements in 60 project areas",
+    summary: "The Minister for Housing and Urban Development announced a major construction initiative covering 28,551 tenements across 60 project areas in Tamil Nadu.",
+    imageUrls: [
+      "https://cms.tn.gov.in/cms_migrated/document/press_release/pr110626_hud.jpg"
+    ],
+    pdfUrls: [
+      "https://cms.tn.gov.in/cms_migrated/document/press_release/pr110626_211.pdf"
+    ]
+  },
+  {
+    id: 20260611011,
+    dept: ["CMO"],
+    date: "Jun 11, 2026",
+    dateValue: "2026-06-11",
+    title: "World Day Against Child Labour – Message of the Honble Chief Minister",
+    summary: "The Chief Minister released a message on the occasion of World Day Against Child Labour, reaffirming the government's commitment to eliminating child labor in Tamil Nadu.",
+    imageUrls: [],
+    pdfUrls: [
+      "https://cms.tn.gov.in/cms_migrated/document/press_release/pr110626_210.pdf"
+    ]
   }
 ];
