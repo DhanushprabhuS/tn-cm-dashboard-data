@@ -25,7 +25,7 @@ export const manifesto: ManifestoPromise[] = [
   { id: 20260510002, icon: "👮‍♀️", title: "Women Safety Force",    amount: "Singa Pen",    status: "✅ Established — May 10",       progress: "100%", color: "var(--saffron)" },
   { id: 20260510003, icon: "💰",  title: "Women Monthly Aid",      amount: "₹2,500/mo",    status: "⏳ Pending implementation",     progress: "5%",   color: "var(--gold)"    },
   { id: 20260510004, icon: "🍳",  title: "Free LPG Cylinders",     amount: "6 / Year",     status: "⏳ Pending implementation",     progress: "5%",   color: "var(--gold)"    },
-  { id: 20260510005, icon: "💼",  title: "Government Jobs",        amount: "5 Lakh",       status: "⏳ To be rolled out",           progress: "3%",   color: "var(--gold)"    },
+  { id: 20260510005, icon: "💼",  title: "Government Jobs",        amount: "5 Lakh",       status: "⏳ In Progress — TNEB: 20,449 jobs announced Jun 24", progress: "8%",   color: "var(--gold)"    },
   { id: 20260510006, icon: "🏥",  title: "Family Health Insurance",amount: "₹25 Lakh",     status: "⏳ Announced, pending rollout", progress: "5%",   color: "var(--gold)"    },
   { id: 20260510007, icon: "🎓",  title: "Education Dropout Aid",  amount: "₹15,000/yr",   status: "⏳ Pending implementation",     progress: "5%",   color: "var(--gold)"    },
   { id: 20260510008, icon: "👴",  title: "Senior Citizen Pension", amount: "₹3,000/mo",    status: "⏳ Pending rollout",            progress: "5%",   color: "var(--gold)"    },
@@ -35,4 +35,6 @@ export const manifesto: ManifestoPromise[] = [
   { id: 20260604002, icon: "💼",  title: "10 Lakh New Jobs in 5 Years", amount: "10 Lakh Jobs",  status: "⏳ In Progress — Jun 04",  progress: "5%",  color: "var(--gold)" },
   { id: 20260607001, icon: "📋",  title: "Anywhere Registration System", amount: "24/7 Online", status: "✅ Implemented — Jun 07", progress: "100%", color: "var(--saffron)" },
   { id: 20260608001, icon: "💧",  title: "24x7 Drinking Water Supply", amount: "5-Year Plan", status: "⏳ In Progress — Jun 08", progress: "15%", color: "var(--gold)" },
+  { id: 20260616001, icon: "📄",  title: "State Financial White Paper", amount: "Published",    status: "✅ Published — Jun 16",                          progress: "100%", color: "var(--saffron)" },
+  { id: 20260622001, icon: "💍",  title: "Thaimaaman Gold Ring for Newborns", amount: "1g Gold Ring", status: "✅ GO Issued — Jun 22",                   progress: "100%", color: "var(--saffron)" },
 ];

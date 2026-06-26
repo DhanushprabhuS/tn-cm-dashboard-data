@@ -50,5 +50,10 @@ export const tickerItems: TickerItem[] = [
   { id: 20260606001, tag: "POLITICS",  tagIcon: "🤝", text: "Political Shift: 300+ AIADMK members officially join Chief Minister Vijay's party, the TVK" },
   { id: 20260607001, tag: "ORDER",     tagIcon: "📄", text: "Anywhere Registration: Online 24/7 document registration system launched for public convenience" },
   { id: 20260607002, tag: "SCHOOLS",   tagIcon: "⚽", text: "Physical education classes made compulsory for classes 6 to 12 across all schools in the state" },
-  { id: 20260607003, tag: "TASMAC",    tagIcon: "🍺", text: "Additional tax levy imposed on liquor and beer manufacturers to increase state revenue and plug leaks" }
+  { id: 20260607003, tag: "TASMAC",    tagIcon: "🍺", text: "Additional tax levy imposed on liquor and beer manufacturers to increase state revenue and plug leaks" },
+  { id: 20260616001, tag: "WHITE PAPER", tagIcon: "📄", text: "Jun 16: Financial White Paper — TN debt ₹10L cr, revenue deficit ₹78,324 cr; Finance Min. Marie Wilson exposes DMK-era fiscal damage" },
+  { id: 20260618001, tag: "ASSEMBLY",  tagIcon: "🏛️", text: "Jun 18: 2nd Session opens — Governor Arlekar reaffirms two-language policy, announces Social Justice Survey; DMK protests with black badges" },
+  { id: 20260622001, tag: "SCHEME",    tagIcon: "💍", text: "Thaimaaman Gold Ring Scheme: every newborn in TN govt hospitals gets 1g gold ring — GO issued Jun 22, ₹755 cr annual budget" },
+  { id: 20260624001, tag: "JOBS",      tagIcon: "⚡", text: "TNEB Mega Recruitment: 20,449 vacancies announced in Assembly — 15,058 new posts + 5,391 pending Gangman appointments" },
+  { id: 20260625001, tag: "ENERGY",    tagIcon: "⚡", text: "TNEB White Paper: power sector debt ₹2.47L cr — No tariff hike for 2026, free electricity for farmers continues" }
 ];

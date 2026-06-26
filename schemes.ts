@@ -96,12 +96,12 @@ export const schemes: Scheme[] = [
   },
   {
     id: 20260510004,
-    tag: "UPCOMING",
+    tag: "PUBLISHED",
     name: "📄 State Financial White Paper",
-    status: "PENDING", statusClass: "pending",
-    desc: "CM Vijay announced plans to release a Financial White Paper exposing the inherited debt burden. Tamil Nadu's debt stands at ₹9.52 lakh crore (revised 2025-26 estimates), projected to reach ₹10.71 lakh crore by March 2027.",
-    date: "Announced: May 10, 2026 · Finance Department",
-    dateValue: "2026-05-10",
+    status: "ACTIVE", statusClass: "",
+    desc: "Finance Minister N Marie Wilson released Tamil Nadu's Financial White Paper on June 16, 2026, exposing the state's fiscal position inherited from the previous DMK administration. Key findings: direct debt nearly ₹10 lakh crore (doubled in 5 years from ₹4.8L cr); revenue deficit at a record ₹78,324 crore; total liabilities including off-budget borrowings at ₹13.18 lakh crore; debt-to-GSDP ratio of 28.2%; 22.8 paise per rupee earned goes to interest payments alone; per-capita debt burden of ₹1.28 lakh. The white paper fulfils CM Vijay's campaign promise to expose the inherited debt burden.",
+    date: "Published: June 16, 2026 · Finance Department",
+    dateValue: "2026-06-16",
     color: "#FFB800"
   },
   {
@@ -198,5 +198,38 @@ export const schemes: Scheme[] = [
   date: "Launched: June 09, 2026 · Home Department",
   dateValue: "2026-06-09",
   color: "#FF4757"
+},
+{
+  id: 20260622001,
+  tag: "GO · JUN 22",
+  name: "💍 Thaimaaman Thanga Mothira Thittam (Gold Ring Scheme)",
+  status: "ACTIVE",
+  statusClass: "",
+  desc: "Every child born in a Tamil Nadu government hospital to a family permanently residing in the state receives a 1-gram gold ring as part of the Thaimaaman Thanga Mothira Thittam. The scheme is rooted in the Tamil cultural tradition of 'Thaimaaman Seer', where the maternal uncle welcomes a newborn with gifts and blessings — the state assumes this role for all government-hospital births. Annual budget: ₹755.83 crore. Effective from June 22, 2026; formal public launch by CM Vijay on September 15, 2026 (Perarignar Anna's birth anniversary). Fulfils TVK's pre-poll welfare promise.",
+  date: "GO Issued: June 22, 2026 · Health & Family Welfare Department",
+  dateValue: "2026-06-22",
+  color: "#FFB800"
+},
+{
+  id: 20260624001,
+  tag: "GO · JUN 24",
+  name: "⚡ TNEB Mega Recruitment — 20,449 Posts",
+  status: "ACTIVE",
+  statusClass: "",
+  desc: "Energy Minister CTR Nirmal Kumar announced in the Assembly on June 24, 2026 that 20,449 vacancies will be filled in Tamil Nadu's electricity utilities in FY 2026-27. Breakdown: 15,058 new posts (Assistant Engineers, Technical Assistants, Junior Assistants, Multi-Purpose Field Assistants across TANTRANSCO: 7,851 posts; TANGEDCO: 3,075 posts; TNGECL: 1,420 posts and others) + 5,391 Gangman posts from the 2021 selection whose appointments were pending due to delayed Finance Department approval. Official cadre recruitment notification expected in July 2026. Marking one of the largest power-sector recruitment drives in TN's history.",
+  date: "Announced: June 24, 2026 · Assembly · Energy Department",
+  dateValue: "2026-06-24",
+  color: "#FF6B00"
+},
+{
+  id: 20260625001,
+  tag: "GO · JUN 25",
+  name: "⚡ TNEB White Paper — Debt Exposed, No Tariff Hike",
+  status: "ACTIVE",
+  statusClass: "",
+  desc: "Energy Minister CTR Nirmal Kumar released a comprehensive white paper on June 25, 2026 covering the infrastructure, finances, human resources, logistics, ongoing projects, revenue, and expenditure of Tamil Nadu Electricity Board (TNEB) and its subsidiaries. Key disclosures: power sector total debt of ₹2,47,130 crore — constituting 77.6% of Tamil Nadu's entire public sector undertaking debt. Commitments: (1) No electricity tariff hike for 2026; (2) Free electricity for farmers will continue; (3) Smart meters to be installed in all government buildings; (4) 20,449 TNEB vacancies to be filled in FY 2026-27.",
+  date: "Released: June 25, 2026 · Energy Department / TNEB",
+  dateValue: "2026-06-25",
+  color: "#FF6B00"
 },
 ];

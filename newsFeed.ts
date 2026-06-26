@@ -419,5 +419,56 @@ export const newsFeed: FeedItem[] = [
     text: "🚪 BJP LEADERSHIP CHANGE: K. Annamalai, serving as Tamil Nadu BJP president, resigned from the position amid political developments in the state.",
     source: "Source: India TV News",
     color: "#FFB800"
+  },
+  {
+    id: 20260616001,
+    date: "June 16, 2026",
+    dateValue: "2026-06-16",
+    text: "📄 FINANCIAL WHITE PAPER: Finance Minister N Marie Wilson releases Tamil Nadu Financial White Paper — direct debt nearly ₹10 lakh crore (doubled in 5 years), revenue deficit ₹78,324 crore (record high), total liabilities ₹13.18 lakh crore including off-budget borrowings. 22.8 paise of every rupee earned goes to interest payments. Fulfils CM Vijay's campaign promise.",
+    source: "Source: India TV News / The Federal / CMO",
+    color: "#FFB800",
+    highlight: true
+  },
+  {
+    id: 20260618001,
+    date: "June 18, 2026",
+    dateValue: "2026-06-18",
+    text: "🏛️ 2ND ASSEMBLY SESSION OPENS: Governor Rajendra Arlekar delivers policy address — two-language policy reaffirmed, Social Justice Survey after Union caste enumeration announced, Financial White Paper tabled, river-interlinking projects announced. DMK protesters enter with black badges over law &amp; order concerns.",
+    source: "Source: ANI / WebNewsWire / New Kerala",
+    color: "#1A73E8"
+  },
+  {
+    id: 20260622001,
+    date: "June 22, 2026",
+    dateValue: "2026-06-22",
+    text: "💍 GOLD RING SCHEME: GO issued for Thaimaaman Thanga Mothira Thittam — every newborn in TN government hospitals receives a 1-gram gold ring. Annual budget: ₹755.83 crore. Effective June 22, 2026; formal launch by CM Vijay on September 15 (Perarignar Anna's birth anniversary). Fulfils TVK's pre-poll promise.",
+    source: "Source: The Print / DT Next",
+    color: "#FFB800",
+    highlight: true
+  },
+  {
+    id: 20260624001,
+    date: "June 24, 2026",
+    dateValue: "2026-06-24",
+    text: "⚡ TNEB MEGA RECRUITMENT: Energy Minister CTR Nirmal Kumar announces 20,449 TNEB vacancies in Assembly — 15,058 new posts (AEs, Technical Assistants, MPFAs across TANTRANSCO: 7,851; TANGEDCO: 3,075; TNGECL: 1,420) + 5,391 pending Gangman appointments from 2021. Notification expected July 2026. CM also distributes AE appointment orders and flags off 300 new state transport buses.",
+    source: "Source: NewSX / ProKerala / CMO Press Release",
+    color: "#FF6B00",
+    highlight: true
+  },
+  {
+    id: 20260625001,
+    date: "June 25, 2026",
+    dateValue: "2026-06-25",
+    text: "⚡ TNEB WHITE PAPER RELEASED: Energy Minister CTR Nirmal Kumar reveals TNEB white paper — power sector debt ₹2,47,130 crore (77.6% of all TN PSU debt). No electricity tariff hike for 2026. Free electricity for farmers continues. Smart meters to be installed in all government buildings.",
+    source: "Source: ANI / The News Minute / New Kerala",
+    color: "#FF6B00"
+  },
+  {
+    id: 20260625002,
+    date: "June 25, 2026",
+    dateValue: "2026-06-25",
+    text: "CM Vijay writes to PM Modi opposing NLC India Limited divestment, seeking protection of workers' employment and Tamil Nadu's coal supply security.",
+    source: "Source: CMO Press Release",
+    color: "#FF4757"
   }
 ];
