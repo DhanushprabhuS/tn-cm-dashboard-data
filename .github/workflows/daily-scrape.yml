@@ -1,0 +1,32 @@
+name: Daily TN Press Release Scrape (Fallback)
+
+on:
+  schedule:
+    - cron: "0 13 * * *"  # 6:30 PM IST daily
+  workflow_dispatch:
+    inputs:
+      date:
+        description: "Date to scrape (YYYY-MM-DD). Leave blank for today."
+        required: false
+        default: ""
+
+jobs:
+  scrape-and-upload:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+          cache-dependency-path: scraping/requirements.txt
+      - run: pip install -r scraping/requirements.txt
+      - name: Run pipeline
+        env:
+          FIREBASE_SA_KEY: ${{ secrets.FIREBASE_SA_KEY }}
+        run: |
+          if [ -n "${{ github.event.inputs.date }}" ]; then
+            python scraping/daily_pipeline.py --date "${{ github.event.inputs.date }}"
+          else
+            python scraping/daily_pipeline.py
+          fi
